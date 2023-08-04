@@ -1,241 +1,81 @@
-[14:00:49] [ServerMain/INFO]: Environment: authHost='https://authserver.mojang.com', accountsHost='https://api.mojang.com', sessionHost='https://sessionserver.mojang.com', servicesHost='https://api.minecraftservices.com', name='PROD'
-[14:00:49] [ServerMain/WARN]: Missing metadata in pack file/VanillaTweaks_d232763_UNZIP_ME.zip
-[14:00:52] [ServerMain/WARN]: Found loot table element validation problem in {loot_tables:minecraft:entities/ender_dragon}.pools[1].entries[0]: Unknown loot table called minecraft:entities/reference/mmh/ender_dragon
-[14:00:52] [ServerMain/WARN]: Found loot table element validation problem in {loot_tables:minecraft:entities/bat}.pools[1].entries[0]: Unknown loot table called minecraft:entities/reference/mmh/bat
-[14:00:52] [ServerMain/WARN]: Found loot table element validation problem in {loot_tables:minecraft:entities/shulker}.pools[1].entries[0]: Unknown loot table called minecraft:entities/reference/mmh/shulker
-[14:00:52] [ServerMain/INFO]: Loaded 7 recipes
-[14:00:52] [ServerMain/INFO]: Loaded 1289 advancements
-[14:00:53] [Server thread/INFO]: Starting minecraft server version 1.20.1
-[14:00:53] [Server thread/INFO]: Loading properties
-[14:00:53] [Server thread/INFO]: Default game type: SURVIVAL
-[14:00:53] [Server thread/INFO]: Generating keypair
-[14:00:53] [Server thread/INFO]: Starting Minecraft server on *:25565
-[14:00:53] [Server thread/INFO]: Using epoll channel type
-[14:00:53] [Server thread/INFO]: Preparing level "world"
-[14:01:01] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
-[14:01:11] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[14:01:11] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[14:01:11] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[14:01:11] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[14:01:11] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[14:01:11] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[14:01:11] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[14:01:11] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[14:01:11] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[14:01:11] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[14:01:11] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[14:01:11] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[14:01:11] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[14:01:11] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[14:01:11] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[14:01:11] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[14:01:11] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[14:01:11] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[14:01:11] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[14:01:11] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[14:01:11] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[14:01:12] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[14:01:12] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[14:01:13] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[14:01:15] [Server thread/INFO]: Time elapsed: 13405 ms
-[14:01:15] [Server thread/INFO]: Done (21.658s)! For help, type "help"
-[14:01:18] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2051ms or 41 ticks behind
-[14:01:20] [Server thread/WARN]: UUID of added entity already exists: bux['Armor Stand'/195, l='ServerLevel[world]', x=22068880.50, y=1000.00, z=-4185487.50]
-[14:01:21] [User Authenticator #1/INFO]: UUID of player Peggl3 is 8dcdea05-b427-4965-9d23-5b07bf2efd3f
-[14:01:21] [Server thread/INFO]: Peggl3[/98.97.81.241:39007] logged in with entity id 197 at (-35.46975749090071, 161.6818326368793, -35.412536053337966)
-[14:01:21] [Server thread/INFO]: Peggl3 joined the game
-[14:01:32] [Server thread/INFO]: [Peggl3: Set own game mode to Survival Mode]
-[14:02:01] [Server thread/INFO]: [Peggl3: Set own game mode to Spectator Mode]
-[14:03:12] [User Authenticator #2/INFO]: UUID of player avesdaves is 734c983b-d6e5-4564-b72a-3fbaaca0ebff
-[14:03:12] [Server thread/INFO]: avesdaves[/136.62.152.216:61850] logged in with entity id 324 at (-60.67479786699257, 133.0, -28.185580778061055)
-[14:03:12] [Server thread/INFO]: avesdaves joined the game
-[14:05:07] [Server thread/INFO]: <Peggl3> hello
-[14:05:10] [Server thread/INFO]: <avesdaves> t'
-[14:05:24] [Server thread/INFO]: [Peggl3: Set own game mode to Survival Mode]
-[14:05:43] [Server thread/INFO]: avesdaves lost connection: Timed out
-[14:05:43] [Server thread/INFO]: avesdaves left the game
-[14:06:23] [Server thread/INFO]: <Peggl3> test
-[14:07:44] [User Authenticator #3/INFO]: UUID of player avesdaves is 734c983b-d6e5-4564-b72a-3fbaaca0ebff
-[14:07:44] [Server thread/INFO]: avesdaves[/136.62.152.216:62044] logged in with entity id 743 at (-58.949763766160515, 129.0, -40.14203140179496)
-[14:07:44] [Server thread/INFO]: avesdaves joined the game
-[14:17:08] [Server thread/INFO]: <Peggl3> I help
-[14:17:13] [Server thread/INFO]: <avesdaves> ty!!!!
-[14:20:36] [Server thread/INFO]: <Peggl3> I made the second from the top tools
-[14:20:39] [Server thread/INFO]: <Peggl3> and the top one dirt
-[14:20:55] [Server thread/INFO]: <avesdaves> we akready have a tools chest?
-[14:20:59] [Server thread/INFO]: <Peggl3> oop
-[14:23:04] [Server thread/INFO]: <Peggl3> Lol the main teacher, Tyler, went on vacation so it's just the newer trainers
-[14:23:17] [Server thread/INFO]: <Peggl3> and the other people convinced them to just let us watch someone else do a claim today
-[14:23:28] [Server thread/INFO]: <Peggl3> which we're supposed to be past but I think no one wants to do anything today
-[14:25:10] [Server thread/INFO]: [Peggl3: Triggered [Set Home]]
-[14:27:38] [Server thread/INFO]: <Peggl3> we did it!
-[14:27:41] [Server thread/INFO]: <avesdaves> yayyyy
-[14:27:44] [Server thread/INFO]: <avesdaves> so much better
-[14:28:22] [Server thread/INFO]: <Peggl3> the outside of my house is done
-[14:28:31] [Server thread/INFO]: <avesdaves> OOOO coming to look
-[14:28:54] [Server thread/INFO]: <avesdaves> OO
-[14:29:01] [Server thread/INFO]: <avesdaves> looks so freaking good
-[14:29:06] [Server thread/INFO]: <Peggl3> thank u :))
-[14:29:17] [Server thread/INFO]: <Peggl3> don't look at the inside
-[14:29:21] [Server thread/INFO]: <Peggl3> totally empty lol
-[14:31:05] [Server thread/INFO]: [Peggl3] afk*
-[14:31:08] [Server thread/INFO]: [Peggl3: Set own game mode to Spectator Mode]
-[14:33:45] [Server thread/INFO]: Peggl3 lost connection: Disconnected
-[14:33:45] [Server thread/INFO]: Peggl3 left the game
-[14:38:35] [User Authenticator #4/INFO]: UUID of player Peggl3 is 8dcdea05-b427-4965-9d23-5b07bf2efd3f
-[14:38:35] [Server thread/INFO]: Peggl3[/98.97.81.241:34491] logged in with entity id 4406 at (-55.058353232120034, 127.9375, -25.38166115839124)
-[14:38:35] [Server thread/INFO]: Peggl3 joined the game
-[14:38:47] [Server thread/INFO]: [Peggl3: Set own game mode to Survival Mode]
-[14:38:49] [Server thread/INFO]: <Peggl3> oooh
-[14:38:50] [Server thread/INFO]: <Peggl3> nice pond
-[14:41:34] [Server thread/INFO]: <avesdaves> afk
-[14:47:11] [Server thread/INFO]: <avesdaves> ACCEPTED OFFER OF TUTORING POSITION!!!! 22/HR
-[14:47:17] [Server thread/INFO]: <avesdaves> woot woot
-[14:47:17] [Server thread/INFO]: <Peggl3> YAAAAYYYY!!!!!!
-[14:47:40] [Server thread/INFO]: <Peggl3> congrats
-[14:49:17] [Server thread/INFO]: <avesdaves> thank u for finishing water
-[14:49:20] [Server thread/INFO]: <Peggl3> ofc :)
-[15:25:34] [Server thread/INFO]: <avesdaves> hello!!
-[15:25:36] [Server thread/INFO]: <Peggl3> hi
-[15:25:39] [Server thread/INFO]: <Peggl3> welcome back
-[15:28:37] [Server thread/INFO]: <avesdaves> what do
-[15:28:42] [Server thread/INFO]: <Peggl3> working unfortunately
-[15:28:46] [Server thread/INFO]: <avesdaves> nooo
-[15:28:55] [Server thread/INFO]: <Peggl3> I love your waterfall
-[15:29:03] [Server thread/INFO]: <Peggl3> u making staircase?
-[15:29:18] [Server thread/INFO]: <avesdaves> jess needs to be done
-[15:29:23] [Server thread/INFO]: <Peggl3> ye
-[15:29:24] [Server thread/INFO]: <avesdaves> any ideas?
-[15:29:42] [Server thread/INFO]: <Peggl3> maybe some cobble/mossycobble stairs mixed with like gravel and stuff
-[15:29:54] [Server thread/INFO]: <Peggl3> make it look like an old staircase
-[15:30:01] [Server thread/INFO]: <avesdaves> sho
-[15:30:26] [Server thread/INFO]: <Peggl3> on break!
-[15:30:30] [Server thread/INFO]: <avesdaves> SLAYY
-[15:32:15] [Server thread/INFO]: <avesdaves> thats window
-[15:32:19] [Server thread/INFO]: <Peggl3> huh
-[15:32:27] [Server thread/INFO]: <Peggl3> ohh
-[15:34:51] [Server thread/INFO]: [Peggl3] afk*
-[15:36:52] [Server thread/INFO]: avesdaves lost connection: Disconnected
-[15:36:52] [Server thread/INFO]: avesdaves left the game
-[15:41:39] [User Authenticator #5/INFO]: UUID of player avesdaves is 734c983b-d6e5-4564-b72a-3fbaaca0ebff
-[15:41:39] [Server thread/INFO]: avesdaves[/136.62.152.216:63253] logged in with entity id 10809 at (-38.56947642998118, 133.9375, -13.075041420915845)
-[15:41:39] [Server thread/INFO]: avesdaves joined the game
-[15:46:31] [Server thread/INFO]: <Peggl3> oh ur back
-[15:46:37] [Server thread/INFO]: <avesdaves> jess!!!
-[15:48:58] [Server thread/INFO]: <Peggl3> what do u think of my staircase so far?
-[15:49:17] [Server thread/INFO]: <avesdaves> looks good!!
-[15:49:33] [Server thread/INFO]: <avesdaves> im gonna make a pink roof over my window
-[15:49:44] [Server thread/INFO]: <Peggl3> okay, I wasn't going to build over that so don't worry
-[15:52:53] [Server thread/INFO]: <avesdaves> look i made a path too
-[15:53:07] [Server thread/INFO]: <avesdaves> by the well
-[15:53:09] [Server thread/INFO]: <Peggl3> where
-[15:53:11] [Server thread/INFO]: <Peggl3> oh
-[15:53:23] [Server thread/INFO]: <Peggl3> very nice!
-[15:53:24] [Server thread/INFO]: <Peggl3> I like it
-[15:53:25] [Server thread/INFO]: <avesdaves> gonna make a barn here
-[15:53:31] [Server thread/INFO]: <Peggl3> <#
-[15:53:33] [Server thread/INFO]: <Peggl3> <3
-[15:53:34] [Server thread/INFO]: <avesdaves> <3
-[15:53:40] [Server thread/INFO]: <avesdaves> my fucking dad is driving me crazy
-[15:53:55] [Server thread/INFO]: <Peggl3> oh no
-[15:54:03] [Server thread/INFO]: <Peggl3> what's he doing, just being a curmudgeon
-[15:54:08] [Server thread/INFO]: <avesdaves> yeah so stressy
-[15:54:20] [Server thread/INFO]: <Peggl3> I'm sorry :(
-[15:54:33] [Server thread/INFO]: <avesdaves> its oke
-[16:02:47] [Server thread/INFO]: <avesdaves> going on an adventure?
-[16:02:52] [Server thread/INFO]: <Peggl3> just getting some logs
-[16:04:01] [Server thread/INFO]: [avesdaves: Triggered [Home]]
-[16:05:01] [Server thread/INFO]: <avesdaves> afk checking on boys
-[16:06:09] [Server thread/INFO]: [Peggl3: Triggered [Home]]
-[16:23:25] [Server thread/INFO]: [Peggl3: Triggered [Home]]
-[16:37:52] [Server thread/INFO]: <avesdaves> t
-[16:38:01] [Server thread/INFO]: <avesdaves> back for a lil
-[16:38:40] [Server thread/INFO]: [avesdaves: Triggered [Home]]
-[16:38:48] [Server thread/INFO]: <avesdaves> henlo
-[16:38:50] [Server thread/INFO]: <Peggl3> henlo
-[16:38:53] [Server thread/INFO]: <avesdaves> how do
-[16:39:23] [Server thread/INFO]: <Peggl3> I am good, waiting on a trainer to ask a question but there is this one lady who needs help with every..... single..... thing.....
-[16:39:34] [Server thread/INFO]: <avesdaves> ;/// i know those people
-[16:39:42] [Server thread/INFO]: <avesdaves> ur like be less dumb pls
-[16:39:49] [Server thread/INFO]: <Peggl3> yea it's like basic shit
-[16:40:03] [Server thread/INFO]: <Peggl3> and mostly stuff she could just look up through the channels we were given
-[16:41:52] [Server thread/INFO]: [avesdaves: Triggered [Back]]
-[16:42:16] [Server thread/INFO]: [Peggl3: Triggered [Home]]
-[16:42:17] [Server thread/INFO]: <avesdaves> DONKEY
-[16:42:21] [Server thread/INFO]: <Peggl3> oooooohhhhhh
-[16:42:24] [Server thread/INFO]: <avesdaves> close
-[16:42:27] [Server thread/INFO]: <Peggl3> I think we have a saddle
-[16:42:29] [Server thread/INFO]: <avesdaves> we do
-[16:43:00] [Server thread/INFO]: <avesdaves> getting some more horses
-[16:43:14] [Server thread/INFO]: <Peggl3> do u already have the saddle?
-[16:43:16] [Server thread/INFO]: <avesdaves> ye
-[16:43:21] [Server thread/INFO]: <avesdaves> and leas
-[16:43:23] [Server thread/INFO]: <avesdaves> leads
-[16:43:29] [Server thread/INFO]: <Peggl3> noice
-[16:45:13] [Server thread/INFO]: <avesdaves> pls go slep
-[16:45:17] [Server thread/INFO]: [Peggl3: Triggered [Home]]
-[16:45:33] [Server thread/INFO]: [Peggl3: Triggered [Back]]
-[16:46:12] [Server thread/INFO]: Peggl3 has made the advancement [Ice Bucket Challenge]
-[16:48:38] [Server thread/INFO]: <avesdaves> goteth
-[16:48:42] [Server thread/INFO]: <Peggl3> yaaaay
-[16:52:30] [Server thread/INFO]: [Peggl3: Triggered [Home]]
-[16:52:57] [Server thread/INFO]: <Peggl3> do we have sugarcane?
-[16:53:04] [Server thread/INFO]: <avesdaves> planted around pond
-[16:53:12] [Server thread/INFO]: <Peggl3> ah
-[16:53:55] [Server thread/INFO]: avesdaves lost connection: Disconnected
-[16:53:55] [Server thread/INFO]: avesdaves left the game
-[16:57:16] [Server thread/INFO]: [Peggl3: Triggered [Home]]
-[16:57:34] [Server thread/INFO]: [Peggl3: Triggered [Back]]
-[16:58:51] [Server thread/INFO]: [Peggl3: Triggered [Home]]
-[16:59:57] [Server thread/INFO]: [Peggl3: Triggered [Home]]
-[17:00:04] [Server thread/INFO]: [Peggl3: Triggered [Back]]
-[17:00:37] [Server thread/INFO]: [Peggl3: Triggered [Home]]
-[17:02:32] [Server thread/INFO]: Peggl3 has made the advancement [We Need to Go Deeper]
-[17:02:35] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 5012ms or 100 ticks behind
-[17:02:38] [User Authenticator #6/INFO]: UUID of player avesdaves is 734c983b-d6e5-4564-b72a-3fbaaca0ebff
-[17:02:38] [Server thread/INFO]: avesdaves[/136.62.152.216:64514] logged in with entity id 25316 at (-43.81226780271082, 134.5, -14.015941684975079)
-[17:02:38] [Server thread/INFO]: avesdaves joined the game
-[17:02:46] [Server thread/INFO]: <avesdaves> tutoring was puished to 12:30
-[17:02:59] [Server thread/INFO]: <Peggl3> very slay!
-[17:03:08] [Server thread/INFO]: <Peggl3> I made a nether portal and an enchant table
-[17:03:14] [Server thread/INFO]: <avesdaves> whoa
-[17:03:31] [Server thread/INFO]: Peggl3 has made the advancement [Enchanter]
-[17:07:51] [Server thread/INFO]: [avesdaves: Triggered [Home]]
-[17:11:37] [Server thread/INFO]: <Peggl3> u there
-[17:11:40] [Server thread/INFO]: <avesdaves> ye
-[17:11:54] [Server thread/INFO]: <Peggl3> the trainer is having to have a "as a grown up" speech with these people ;////
-[17:12:05] [Server thread/INFO]: <avesdaves> wtf
-[17:12:15] [Server thread/INFO]: <Peggl3> Cuz they're like we don't know what we're doing, and she's like just take it slow learning new things is hard you'll get it
-[17:12:24] [Server thread/INFO]: <Peggl3> and I'm just like omg people it's not that hard
-[17:13:35] [Server thread/INFO]: [Peggl3: Triggered [Home]]
-[17:13:39] [Server thread/INFO]: <Peggl3> ahhhhhhh
-[17:13:40] [Server thread/INFO]: <Peggl3> warden
-[17:13:41] [Server thread/INFO]: <Peggl3> nooooo
-[17:19:37] [Server thread/INFO]: <avesdaves> tutoring time <3
-[17:19:40] [Server thread/INFO]: <avesdaves> bye bb
-[17:19:42] [Server thread/INFO]: avesdaves lost connection: Disconnected
-[17:19:42] [Server thread/INFO]: avesdaves left the game
-[17:27:07] [Server thread/INFO]: [Peggl3: Set own game mode to Spectator Mode]
-[18:13:07] [Server thread/INFO]: [Peggl3: Set own game mode to Survival Mode]
-[18:13:57] [Server thread/INFO]: Peggl3 lost connection: Disconnected
-[18:13:57] [Server thread/INFO]: Peggl3 left the game
-[18:36:44] [User Authenticator #7/INFO]: UUID of player Peggl3 is 8dcdea05-b427-4965-9d23-5b07bf2efd3f
-[18:36:44] [Server thread/INFO]: Peggl3[/98.97.81.241:62142] logged in with entity id 30461 at (-54.96421855993672, 127.9375, -25.850361460369957)
-[18:36:44] [Server thread/INFO]: Peggl3 joined the game
-[19:41:38] [Server thread/INFO]: [Peggl3: Gave 1 [Glow Ink Sac] to Peggl3]
-[19:41:40] [Server thread/INFO]: Peggl3 has made the advancement [Glow and Behold!]
-[19:52:32] [Server thread/INFO]: [Peggl3: Triggered [Home]]
-[19:52:38] [Server thread/INFO]: [Peggl3: Triggered [Back]]
-[19:59:37] [Server thread/INFO]: Peggl3 lost connection: Disconnected
-[19:59:37] [Server thread/INFO]: Peggl3 left the game
-[20:29:01] [Server thread/INFO]: Stopping the server
-[20:29:01] [Server thread/INFO]: Stopping server
-[20:29:01] [Server thread/INFO]: Saving players
-[20:29:01] [Server thread/INFO]: Saving worlds
-[20:29:02] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
-[20:29:06] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_nether
-[20:29:06] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_end
-[20:29:06] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
-[20:29:06] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
-[20:29:06] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
-[20:29:06] [Server thread/INFO]: ThreadedAnvilChunkStorage: All dimensions are saved
+[00:23:22] [Server thread/INFO]: [avesdaves: Teleported avesdaves to -63.500000, 128.000000, -31.500000]
+[00:28:39] [Server thread/INFO]: avesdaves lost connection: Disconnected
+[00:28:39] [Server thread/INFO]: avesdaves left the game
+[00:28:54] [User Authenticator #2/INFO]: UUID of player avesdaves is 734c983b-d6e5-4564-b72a-3fbaaca0ebff
+[00:28:54] [Server thread/INFO]: avesdaves[/136.62.152.216:51427] logged in with entity id 13335 at (-78.2909001266641, 146.0, -11.300000011920929)
+[00:28:54] [Server thread/INFO]: avesdaves joined the game
+[00:45:26] [Server thread/INFO]: [avesdaves: Gave 3 [Bamboo] to avesdaves]
+[00:49:54] [User Authenticator #3/INFO]: UUID of player Peggl3 is 8dcdea05-b427-4965-9d23-5b07bf2efd3f
+[00:49:54] [Server thread/INFO]: Peggl3[/98.97.81.241:50494] logged in with entity id 19480 at (-52.8555227434067, 129.0, -40.78740788524095)
+[00:49:54] [Server thread/INFO]: Peggl3 joined the game
+[00:51:27] [Server thread/INFO]: [avesdaves: Triggered [Home]]
+[00:51:32] [Server thread/INFO]: <avesdaves> meanie ;(
+[00:51:35] [Server thread/INFO]: <Peggl3> lol
+[00:51:48] [Server thread/INFO]: <avesdaves> afk
+[01:00:00] [Server thread/INFO]: [Peggl3: Triggered [Home]]
+[01:14:01] [Server thread/INFO]: [Peggl3: Triggered [tpa] (set value to 2)]
+[01:14:08] [Server thread/INFO]: [Peggl3: Triggered [tpcancel]]
+[01:14:33] [Server thread/INFO]: [Peggl3: Triggered [Home]]
+[01:17:08] [Server thread/INFO]: Peggl3 has made the advancement [The Parrots and the Bats]
+[01:19:16] [Server thread/INFO]: Peggl3 has made the advancement [Best Friends Forever]
+[01:35:24] [Server thread/INFO]: [Peggl3: Triggered [Home]]
+[01:37:42] [Server thread/INFO]: [avesdaves: Triggered [Home]]
+[01:39:00] [Server thread/INFO]: [Peggl3: Teleported Peggl3 to avesdaves]
+[01:42:57] [Server thread/INFO]: [avesdaves: Teleported avesdaves to Peggl3]
+[01:45:56] [Server thread/INFO]: avesdaves lost connection: Disconnected
+[01:45:56] [Server thread/INFO]: avesdaves left the game
+[01:57:56] [User Authenticator #4/INFO]: UUID of player avesdaves is 734c983b-d6e5-4564-b72a-3fbaaca0ebff
+[01:57:56] [Server thread/INFO]: avesdaves[/136.62.152.216:52641] logged in with entity id 33387 at (-59.87396846538178, 128.0, -26.90163102832055)
+[01:57:56] [Server thread/INFO]: avesdaves joined the game
+[01:58:01] [Server thread/INFO]: <avesdaves> ur muted on discord
+[02:02:51] [Server thread/INFO]: [Peggl3: Triggered [Home]]
+[02:05:37] [Server thread/INFO]: [avesdaves: Triggered [Home]]
+[02:07:53] [Server thread/INFO]: [Peggl3: Triggered [Home]]
+[02:08:06] [Server thread/INFO]: [Peggl3: Triggered [Back]]
+[02:15:02] [Server thread/INFO]: [Peggl3: Teleported Peggl3 to avesdaves]
+[02:18:24] [Server thread/INFO]: <Peggl3> t
+[02:19:45] [Server thread/INFO]: Peggl3 lost connection: Timed out
+[02:19:45] [Server thread/INFO]: Peggl3 left the game
+[02:19:45] [Server thread/WARN]: handleDisconnection() called twice
+[02:21:09] [User Authenticator #5/INFO]: UUID of player Peggl3 is 8dcdea05-b427-4965-9d23-5b07bf2efd3f
+[02:21:09] [Server thread/INFO]: Peggl3[/98.97.81.241:26325] logged in with entity id 37658 at (-49.54712303086219, 141.0, 3.0986758611843563)
+[02:21:09] [Server thread/INFO]: Peggl3 joined the game
+[02:21:29] [Server thread/INFO]: Peggl3 lost connection: Disconnected
+[02:21:29] [Server thread/INFO]: Peggl3 left the game
+[02:21:56] [User Authenticator #6/INFO]: UUID of player Peggl3 is 8dcdea05-b427-4965-9d23-5b07bf2efd3f
+[02:21:56] [Server thread/INFO]: Peggl3[/98.97.81.241:32232] logged in with entity id 37799 at (-60.00731334266795, 141.0, 3.002766960209687)
+[02:21:56] [Server thread/INFO]: Peggl3 joined the game
+[02:28:40] [Server thread/INFO]: [Peggl3: Summoned new Chicken]
+[02:28:42] [Server thread/INFO]: [Peggl3: Summoned new Chicken]
+[02:28:43] [Server thread/INFO]: [Peggl3: Summoned new Chicken]
+[02:28:44] [Server thread/INFO]: [Peggl3: Summoned new Chicken]
+[02:28:45] [Server thread/INFO]: [Peggl3: Summoned new Chicken]
+[02:29:00] [Server thread/INFO]: [Peggl3: Gave 1 [Wheat Seeds] to Peggl3]
+[02:30:13] [Server thread/INFO]: [Peggl3: Triggered [Home]]
+[02:30:18] [Server thread/INFO]: [Peggl3: Triggered [Back]]
+[02:33:40] [Server thread/INFO]: [Peggl3: Triggered [Home]]
+[02:33:52] [Server thread/INFO]: [Peggl3: Triggered [Back]]
+[02:34:02] [Server thread/INFO]: [Peggl3: Triggered [Home]]
+[02:34:31] [Server thread/INFO]: <Peggl3> test
+[02:35:58] [Server thread/INFO]: <Peggl3> t
+[02:40:28] [Server thread/INFO]: [avesdaves: Gave 2 [Chicken Spawn Egg] to avesdaves]
+[02:41:18] [Server thread/INFO]: [avesdaves: Gave 1 [Campfire] to avesdaves]
+[02:41:22] [Server thread/INFO]: <Peggl3> hey
+[02:41:25] [Server thread/INFO]: <Peggl3> I see that
+[02:42:12] [Server thread/INFO]: [avesdaves: Gave 2 [Chicken Spawn Egg] to avesdaves]
+[02:46:00] [Server thread/INFO]: [avesdaves: Gave 2 [Chicken Spawn Egg] to avesdaves]
+[02:48:41] [Server thread/INFO]: avesdaves lost connection: Disconnected
+[02:48:41] [Server thread/INFO]: avesdaves left the game
+[02:48:44] [Server thread/INFO]: Peggl3 lost connection: Disconnected
+[02:48:44] [Server thread/INFO]: Peggl3 left the game
+[02:49:13] [Server thread/INFO]: Stopping the server
+[02:49:13] [Server thread/INFO]: Stopping server
+[02:49:13] [Server thread/INFO]: Saving players
+[02:49:13] [Server thread/INFO]: Saving worlds
+[02:49:14] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
+[02:49:18] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_nether
+[02:49:18] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_end
+[02:49:18] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[02:49:18] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[02:49:18] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[02:49:18] [Server thread/INFO]: ThreadedAnvilChunkStorage: All dimensions are saved
