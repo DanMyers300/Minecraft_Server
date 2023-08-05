@@ -1,81 +1,278 @@
-[00:23:22] [Server thread/INFO]: [avesdaves: Teleported avesdaves to -63.500000, 128.000000, -31.500000]
-[00:28:39] [Server thread/INFO]: avesdaves lost connection: Disconnected
-[00:28:39] [Server thread/INFO]: avesdaves left the game
-[00:28:54] [User Authenticator #2/INFO]: UUID of player avesdaves is 734c983b-d6e5-4564-b72a-3fbaaca0ebff
-[00:28:54] [Server thread/INFO]: avesdaves[/136.62.152.216:51427] logged in with entity id 13335 at (-78.2909001266641, 146.0, -11.300000011920929)
-[00:28:54] [Server thread/INFO]: avesdaves joined the game
-[00:45:26] [Server thread/INFO]: [avesdaves: Gave 3 [Bamboo] to avesdaves]
-[00:49:54] [User Authenticator #3/INFO]: UUID of player Peggl3 is 8dcdea05-b427-4965-9d23-5b07bf2efd3f
-[00:49:54] [Server thread/INFO]: Peggl3[/98.97.81.241:50494] logged in with entity id 19480 at (-52.8555227434067, 129.0, -40.78740788524095)
-[00:49:54] [Server thread/INFO]: Peggl3 joined the game
-[00:51:27] [Server thread/INFO]: [avesdaves: Triggered [Home]]
-[00:51:32] [Server thread/INFO]: <avesdaves> meanie ;(
-[00:51:35] [Server thread/INFO]: <Peggl3> lol
-[00:51:48] [Server thread/INFO]: <avesdaves> afk
-[01:00:00] [Server thread/INFO]: [Peggl3: Triggered [Home]]
-[01:14:01] [Server thread/INFO]: [Peggl3: Triggered [tpa] (set value to 2)]
-[01:14:08] [Server thread/INFO]: [Peggl3: Triggered [tpcancel]]
-[01:14:33] [Server thread/INFO]: [Peggl3: Triggered [Home]]
-[01:17:08] [Server thread/INFO]: Peggl3 has made the advancement [The Parrots and the Bats]
-[01:19:16] [Server thread/INFO]: Peggl3 has made the advancement [Best Friends Forever]
-[01:35:24] [Server thread/INFO]: [Peggl3: Triggered [Home]]
-[01:37:42] [Server thread/INFO]: [avesdaves: Triggered [Home]]
-[01:39:00] [Server thread/INFO]: [Peggl3: Teleported Peggl3 to avesdaves]
-[01:42:57] [Server thread/INFO]: [avesdaves: Teleported avesdaves to Peggl3]
-[01:45:56] [Server thread/INFO]: avesdaves lost connection: Disconnected
-[01:45:56] [Server thread/INFO]: avesdaves left the game
-[01:57:56] [User Authenticator #4/INFO]: UUID of player avesdaves is 734c983b-d6e5-4564-b72a-3fbaaca0ebff
-[01:57:56] [Server thread/INFO]: avesdaves[/136.62.152.216:52641] logged in with entity id 33387 at (-59.87396846538178, 128.0, -26.90163102832055)
-[01:57:56] [Server thread/INFO]: avesdaves joined the game
-[01:58:01] [Server thread/INFO]: <avesdaves> ur muted on discord
-[02:02:51] [Server thread/INFO]: [Peggl3: Triggered [Home]]
-[02:05:37] [Server thread/INFO]: [avesdaves: Triggered [Home]]
-[02:07:53] [Server thread/INFO]: [Peggl3: Triggered [Home]]
-[02:08:06] [Server thread/INFO]: [Peggl3: Triggered [Back]]
-[02:15:02] [Server thread/INFO]: [Peggl3: Teleported Peggl3 to avesdaves]
-[02:18:24] [Server thread/INFO]: <Peggl3> t
-[02:19:45] [Server thread/INFO]: Peggl3 lost connection: Timed out
-[02:19:45] [Server thread/INFO]: Peggl3 left the game
-[02:19:45] [Server thread/WARN]: handleDisconnection() called twice
-[02:21:09] [User Authenticator #5/INFO]: UUID of player Peggl3 is 8dcdea05-b427-4965-9d23-5b07bf2efd3f
-[02:21:09] [Server thread/INFO]: Peggl3[/98.97.81.241:26325] logged in with entity id 37658 at (-49.54712303086219, 141.0, 3.0986758611843563)
-[02:21:09] [Server thread/INFO]: Peggl3 joined the game
-[02:21:29] [Server thread/INFO]: Peggl3 lost connection: Disconnected
-[02:21:29] [Server thread/INFO]: Peggl3 left the game
-[02:21:56] [User Authenticator #6/INFO]: UUID of player Peggl3 is 8dcdea05-b427-4965-9d23-5b07bf2efd3f
-[02:21:56] [Server thread/INFO]: Peggl3[/98.97.81.241:32232] logged in with entity id 37799 at (-60.00731334266795, 141.0, 3.002766960209687)
-[02:21:56] [Server thread/INFO]: Peggl3 joined the game
-[02:28:40] [Server thread/INFO]: [Peggl3: Summoned new Chicken]
-[02:28:42] [Server thread/INFO]: [Peggl3: Summoned new Chicken]
-[02:28:43] [Server thread/INFO]: [Peggl3: Summoned new Chicken]
-[02:28:44] [Server thread/INFO]: [Peggl3: Summoned new Chicken]
-[02:28:45] [Server thread/INFO]: [Peggl3: Summoned new Chicken]
-[02:29:00] [Server thread/INFO]: [Peggl3: Gave 1 [Wheat Seeds] to Peggl3]
-[02:30:13] [Server thread/INFO]: [Peggl3: Triggered [Home]]
-[02:30:18] [Server thread/INFO]: [Peggl3: Triggered [Back]]
-[02:33:40] [Server thread/INFO]: [Peggl3: Triggered [Home]]
-[02:33:52] [Server thread/INFO]: [Peggl3: Triggered [Back]]
-[02:34:02] [Server thread/INFO]: [Peggl3: Triggered [Home]]
-[02:34:31] [Server thread/INFO]: <Peggl3> test
-[02:35:58] [Server thread/INFO]: <Peggl3> t
-[02:40:28] [Server thread/INFO]: [avesdaves: Gave 2 [Chicken Spawn Egg] to avesdaves]
-[02:41:18] [Server thread/INFO]: [avesdaves: Gave 1 [Campfire] to avesdaves]
-[02:41:22] [Server thread/INFO]: <Peggl3> hey
-[02:41:25] [Server thread/INFO]: <Peggl3> I see that
-[02:42:12] [Server thread/INFO]: [avesdaves: Gave 2 [Chicken Spawn Egg] to avesdaves]
-[02:46:00] [Server thread/INFO]: [avesdaves: Gave 2 [Chicken Spawn Egg] to avesdaves]
-[02:48:41] [Server thread/INFO]: avesdaves lost connection: Disconnected
-[02:48:41] [Server thread/INFO]: avesdaves left the game
-[02:48:44] [Server thread/INFO]: Peggl3 lost connection: Disconnected
-[02:48:44] [Server thread/INFO]: Peggl3 left the game
-[02:49:13] [Server thread/INFO]: Stopping the server
-[02:49:13] [Server thread/INFO]: Stopping server
-[02:49:13] [Server thread/INFO]: Saving players
-[02:49:13] [Server thread/INFO]: Saving worlds
-[02:49:14] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
-[02:49:18] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_nether
-[02:49:18] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_end
-[02:49:18] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
-[02:49:18] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
-[02:49:18] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
-[02:49:18] [Server thread/INFO]: ThreadedAnvilChunkStorage: All dimensions are saved
+[00:00:04] [Server thread/INFO]: <Peggl3> ./trigger sethome
+[00:00:27] [Server thread/INFO]: [firephoenix749: Triggered [Set Home]]
+[00:00:28] [User Authenticator #4/INFO]: UUID of player avesdaves is 734c983b-d6e5-4564-b72a-3fbaaca0ebff
+[00:00:28] [Server thread/INFO]: avesdaves[/136.62.152.216:55265] logged in with entity id 4682 at (-56.05312533298106, 134.9375, -9.466931307385964)
+[00:00:28] [Server thread/INFO]: avesdaves joined the game
+[00:00:36] [Server thread/INFO]: <avesdaves> 'hello
+[00:00:41] [Server thread/INFO]: <avesdaves> myers'es'es
+[00:00:52] [Server thread/INFO]: <Peggl3> ello
+[00:01:04] [Server thread/INFO]: <Peggl3> hey
+[00:01:05] [Server thread/INFO]: <firephoenix749> ello
+[00:01:05] [Server thread/INFO]: <avesdaves> whatch yall been up to
+[00:01:13] [Server thread/INFO]: <Peggl3> nothing
+[00:01:16] [Server thread/INFO]: airphoenix749 was slain by firephoenix749
+[00:01:18] [Server thread/WARN]: Mismatch in destroy block pos: gu{x=0, y=0, z=0} gu{x=-9, y=141, z=-3}
+[00:01:22] [Server thread/INFO]: <avesdaves> love that lol
+[00:01:24] [Server thread/INFO]: <Peggl3> they're just getting started but they keep trying to kill eachother
+[00:01:33] [Server thread/INFO]: <avesdaves> understandably so
+[00:01:49] [Server thread/INFO]: <avesdaves> THIS IS MY HOME
+[00:01:54] [Server thread/INFO]: <avesdaves> BREAKING AND ENTERING
+[00:01:57] [Server thread/INFO]: <firephoenix749> I discovered it tho
+[00:02:02] [Server thread/INFO]: firephoenix749 fell from a high place
+[00:02:06] [Server thread/INFO]: <avesdaves> ; - ;
+[00:02:07] [Server thread/INFO]: <Peggl3> lolol
+[00:02:08] [Server thread/INFO]: <firephoenix749> there
+[00:02:13] [Server thread/INFO]: <avesdaves> ty <3
+[00:02:41] [Server thread/INFO]: <avesdaves> im gonna make an enchanting room i think
+[00:02:46] [Server thread/INFO]: <Peggl3> oooooh good idea
+[00:02:52] [Server thread/INFO]: <Peggl3> that's what I've been slowly working on
+[00:02:57] [Server thread/INFO]: <avesdaves> or lilke a enchanting cave w like amethyst O.o
+[00:02:59] [Server thread/INFO]: <Peggl3> I have cows that I'm breeding in a hole
+[00:03:04] [Server thread/INFO]: <Peggl3> ooooooooh
+[00:03:10] [Server thread/INFO]: <Peggl3> the enchanted cave would be cool
+[00:03:10] [Server thread/INFO]: <avesdaves> you like ????
+[00:03:12] [Server thread/INFO]: <Peggl3> yea
+[00:03:13] [Server thread/INFO]: <avesdaves> YEAASS
+[00:03:20] [Server thread/INFO]: <firephoenix749> me too!
+[00:03:25] [Server thread/INFO]: <avesdaves> where should I start building?
+[00:03:28] [Server thread/INFO]: <Peggl3> hmmm
+[00:03:34] [Server thread/INFO]: <firephoenix749> really?
+[00:03:35] [Server thread/INFO]: <Peggl3> I just finished the staircase to the valley
+[00:03:42] [Server thread/INFO]: <avesdaves> i feel like it should be down the path some for sure
+[00:03:47] [Server thread/INFO]: <Peggl3> I think it would be cool to build it where part of the cave was exposed
+[00:03:52] [Server thread/INFO]: <avesdaves> YESS
+[00:04:16] [Server thread/INFO]: <Peggl3> maybe here?
+[00:04:18] [Server thread/INFO]: <avesdaves> perfect
+[00:04:20] [Server thread/INFO]: <Peggl3> bet
+[00:04:25] [Server thread/INFO]: <avesdaves> wanna help??
+[00:04:34] [Server thread/INFO]: <Peggl3> yes
+[00:04:40] [Server thread/INFO]: <firephoenix749> entrance
+[00:04:51] [Server thread/INFO]: [avesdaves: Triggered [Home]]
+[00:05:00] [Server thread/INFO]: <avesdaves> DO NOT STEAL YALL
+[00:05:02] [Server thread/INFO]: firephoenix749 has made the advancement [Acquire Hardware]
+[00:05:04] [Server thread/INFO]: airphoenix749 was slain by avesdaves
+[00:05:13] [Server thread/INFO]: firephoenix749 was slain by avesdaves
+[00:05:29] [Server thread/INFO]: <firephoenix749> phhphphp
+[00:05:36] [Server thread/INFO]: <Peggl3> I think we should have the entrance be a bridge where there is waterwith axolotls in it
+[00:05:47] [Server thread/INFO]: <avesdaves> :O
+[00:05:50] [Server thread/INFO]: <avesdaves> amazing
+[00:05:50] [Server thread/INFO]: <Peggl3> then it leads to a geode looking amethest with the enchant table in it
+[00:05:53] [Server thread/INFO]: <avesdaves> YES
+[00:06:01] [Server thread/INFO]: <avesdaves> loving the vision dan
+[00:06:06] [Server thread/INFO]: <firephoenix749> can i come in to get my crafting table
+[00:06:10] [Server thread/INFO]: <avesdaves> im putting their heads on sticks
+[00:06:16] [Server thread/INFO]: <avesdaves> >:}
+[00:06:20] [Server thread/INFO]: <avesdaves> hehehhe
+[00:06:22] [Server thread/INFO]: airphoenix749 was slain by firephoenix749
+[00:06:24] [Server thread/WARN]: Mismatch in destroy block pos: gu{x=0, y=0, z=0} gu{x=3, y=161, z=13}
+[00:06:33] [Server thread/INFO]: [Peggl3: Teleported Peggl3 to firephoenix749]
+[00:06:34] [Server thread/INFO]: firephoenix749 was slain by Peggl3
+[00:06:39] [Server thread/INFO]: [Peggl3: Triggered [Back]]
+[00:06:45] [Server thread/INFO]: <avesdaves> come gett yall graves
+[00:06:45] [Server thread/INFO]: [Peggl3: Triggered [Home]]
+[00:06:58] [Server thread/INFO]: <avesdaves> go ahead
+[00:07:08] [Server thread/INFO]: <Peggl3> lol this server has gotten crazy
+[00:07:13] [Server thread/INFO]: <Peggl3> is julian still going to join?
+[00:07:16] [Server thread/INFO]: <avesdaves> perhaps
+[00:07:28] [Server thread/INFO]: <avesdaves> he is having fun making his skin
+[00:08:04] [Server thread/INFO]: firephoenix749 has made the advancement [Isn't It Iron Pick]
+[00:08:57] [Server thread/INFO]: <firephoenix749> YOU HAVE LLAMAS?
+[00:09:03] [Server thread/INFO]: <avesdaves> no?
+[00:09:07] [Server thread/INFO]: airphoenix749 was shot by Skeleton
+[00:09:09] [Server thread/WARN]: Mismatch in destroy block pos: gu{x=0, y=0, z=0} gu{x=-10, y=143, z=-3}
+[00:09:32] [Server thread/INFO]: airphoenix749 was shot by Skeleton
+[00:09:34] [Server thread/INFO]: firephoenix749 has made the advancement [We Need to Go Deeper]
+[00:09:34] [Server thread/WARN]: Mismatch in destroy block pos: gu{x=0, y=0, z=0} gu{x=0, y=146, z=-2}
+[00:09:34] [Server thread/WARN]: Mismatch in destroy block pos: gu{x=0, y=0, z=0} gu{x=0, y=146, z=-2}
+[00:09:34] [Server thread/WARN]: Mismatch in destroy block pos: gu{x=0, y=0, z=0} gu{x=0, y=145, z=-4}
+[00:09:40] [Server thread/INFO]: <avesdaves> i do now hehe
+[00:09:42] [Server thread/INFO]: airphoenix749 fell from a high place
+[00:09:49] [Server thread/WARN]: Mismatch in destroy block pos: gu{x=0, y=0, z=0} gu{x=8, y=151, z=5}
+[00:10:25] [Server thread/INFO]: <Peggl3> the llamas are getting u aves
+[00:10:33] [Server thread/INFO]: <avesdaves> they dont like me rn
+[00:12:06] [Server thread/INFO]: <avesdaves> did u grab the amethyst?
+[00:12:10] [Server thread/INFO]: <Peggl3> no not yet
+[00:12:16] [Server thread/INFO]: <avesdaves> k cool
+[00:12:19] [Server thread/INFO]: <Peggl3> I'm thinking we get the shape of the cave first
+[00:12:23] [Server thread/INFO]: <avesdaves> for sure
+[00:13:18] [Server thread/INFO]: avesdaves lost connection: Disconnected
+[00:13:18] [Server thread/INFO]: avesdaves left the game
+[00:13:31] [Server thread/INFO]: airphoenix749 was slain by firephoenix749
+[00:13:33] [Server thread/WARN]: Mismatch in destroy block pos: gu{x=0, y=0, z=0} gu{x=5, y=136, z=-9}
+[00:14:11] [User Authenticator #5/INFO]: UUID of player avesdaves is 734c983b-d6e5-4564-b72a-3fbaaca0ebff
+[00:14:11] [Server thread/INFO]: avesdaves[/136.62.152.216:55480] logged in with entity id 7574 at (38.20960080607353, 93.0, -8.172805134814729)
+[00:14:11] [Server thread/INFO]: avesdaves joined the game
+[00:14:37] [Server thread/INFO]: <firephoenix749> can Me HeLP?
+[00:14:49] [Server thread/INFO]: <avesdaves> of course!!!
+[00:14:57] [Server thread/INFO]: <avesdaves> we are trying to makr a natural cave shape
+[00:15:01] [Server thread/INFO]: <firephoenix749> YIPPEEE
+[00:15:13] [Server thread/INFO]: <Peggl3> we're making a long tunnel that opens up into a much larger cave basically
+[00:15:20] [User Authenticator #6/INFO]: UUID of player bigstinker42 is 18b82b12-40a1-4dae-9177-b1c5db53245d
+[00:15:20] [Server thread/INFO]: bigstinker42[/136.62.152.216:63867] logged in with entity id 7776 at (-9.5, 155.0, 5.5)
+[00:15:20] [Server thread/INFO]: bigstinker42 joined the game
+[00:15:26] [Server thread/INFO]: <firephoenix749> you did this in the last realm you had, didn't you?
+[00:15:26] [Server thread/INFO]: <Peggl3> yooooo big stinker
+[00:15:28] [Server thread/INFO]: <avesdaves> OH I WAs thinking a small one
+[00:15:34] [Server thread/INFO]: <avesdaves> so its easier to get to
+[00:15:41] [Server thread/INFO]: <avesdaves> and everyone can use it hassle free
+[00:15:49] [Server thread/INFO]: <Peggl3> okay yea, we can make a smaller one
+[00:15:52] [Server thread/INFO]: <firephoenix749> Who is bigstinker42?
+[00:15:57] [Server thread/INFO]: <avesdaves> thats my BOY
+[00:16:02] [Server thread/INFO]: <Peggl3> juju/
+[00:16:04] [Server thread/INFO]: <avesdaves> use t to talk
+[00:16:51] [Server thread/INFO]: <Peggl3> we need iren
+[00:16:55] [Server thread/INFO]: <avesdaves> we do
+[00:16:58] [Server thread/INFO]: <firephoenix749> thanks!
+[00:17:02] [Server thread/INFO]: <bigstinker42> pig
+[00:17:12] [Server thread/INFO]: <avesdaves> no kill animals n base julialn
+[00:17:12] [Server thread/INFO]: <Peggl3> ayyyyyy
+[00:17:14] [Server thread/INFO]: <Peggl3> pig
+[00:17:18] [Server thread/INFO]: <avesdaves> hes piggie friend
+[00:17:21] [Server thread/INFO]: <firephoenix749> Hi you big stinker
+[00:17:30] [Server thread/INFO]: <avesdaves> IREN
+[00:17:34] [Server thread/INFO]: <Peggl3> dats cooper
+[00:17:34] [Server thread/INFO]: <avesdaves> oh naur
+[00:17:45] [Server thread/INFO]: <avesdaves> enuf?
+[00:17:50] [Server thread/INFO]: <firephoenix749> yah!
+[00:17:52] [Server thread/INFO]: <Peggl3> in terms of cave size?
+[00:18:01] [Server thread/INFO]: <avesdaves> get amythets
+[00:18:03] [Server thread/INFO]: <avesdaves> jes
+[00:18:05] [Server thread/INFO]: <Peggl3> hmm
+[00:18:18] [Server thread/INFO]: <Peggl3> up to you, I was thinking of making it larger
+[00:18:44] [Server thread/INFO]: <avesdaves> we dont have that much amthryt my doode
+[00:18:56] [Server thread/INFO]: <Peggl3> well ye, most of the cave wouldn't be amethest
+[00:19:06] [Server thread/INFO]: <avesdaves> SMOALer spls
+[00:19:09] [Server thread/INFO]: <Peggl3> okey
+[00:19:13] [Server thread/INFO]: <bigstinker42> whare base
+[00:19:14] [Server thread/INFO]: <avesdaves> ty
+[00:19:19] [Server thread/INFO]: <avesdaves> in mountain
+[00:19:30] [Server thread/INFO]: <avesdaves> ./trigger tpa set
+[00:19:30] [Server thread/INFO]: <Peggl3> ,/trigger tpa set 1
+[00:19:38] [Server thread/INFO]: <avesdaves> ./trigger tpa set 2
+[00:19:38] [Server thread/INFO]: bigstinker42 was shot by Pillager
+[00:19:50] [Server thread/INFO]: <avesdaves> theres a pillager outpost closeby
+[00:19:59] [Server thread/INFO]: <avesdaves> ive wiped em out a couple times
+[00:20:04] [Server thread/INFO]: <avesdaves> they keep coming back
+[00:20:18] [Server thread/INFO]: [avesdaves: Triggered [Home]]
+[00:21:08] [Server thread/INFO]: <Peggl3> I guess I go caving
+[00:21:11] [Server thread/INFO]: <Peggl3> to get iren
+[00:21:12] [Server thread/INFO]: airphoenix749 fell from a high place
+[00:21:14] [Server thread/WARN]: Mismatch in destroy block pos: gu{x=0, y=0, z=0} gu{x=-9, y=158, z=10}
+[00:21:26] [Server thread/INFO]: <avesdaves> i agree
+[00:22:33] [Server thread/INFO]: [Peggl3: Gamerule playersSleepingPercentage is now set to: 10]
+[00:23:08] [Server thread/INFO]: <avesdaves> ./trigger tpa set 2
+[00:23:19] [Server thread/INFO]: <avesdaves> ./trigger sethome
+[00:23:31] [Server thread/INFO]: [firephoenix749: Triggered [tpa] (set value to 2)]
+[00:23:35] [Server thread/INFO]: [avesdaves: Triggered [tpaccept]]
+[00:23:47] [Server thread/INFO]: airphoenix749 fell from a high place
+[00:23:52] [Server thread/INFO]: <avesdaves> dont steal but u can ask for things!!!
+[00:23:58] [Server thread/INFO]: firephoenix749 hit the ground too hard
+[00:23:58] [Server thread/INFO]: <avesdaves> come here for food
+[00:24:00] [Server thread/INFO]: bigstinker42 was doomed to fall by Pillager
+[00:25:31] [Server thread/INFO]: [Peggl3: Triggered [Home]]
+[00:26:49] [Server thread/WARN]: Mismatch in destroy block pos: gu{x=0, y=0, z=0} gu{x=-14, y=137, z=-10}
+[00:26:51] [Server thread/INFO]: <avesdaves> what color
+[00:26:55] [Server thread/INFO]: <avesdaves> do you want ur bed
+[00:27:51] [Server thread/INFO]: Peggl3 has completed the challenge [It Spreads]
+[00:28:12] [Server thread/INFO]: Peggl3 lost connection: Disconnected
+[00:28:12] [Server thread/INFO]: Peggl3 left the game
+[00:31:48] [Server thread/INFO]: airphoenix749 fell from a high place
+[00:31:52] [Server thread/INFO]: <avesdaves> dan come look at julians skin
+[00:32:51] [Server thread/WARN]: Mismatch in destroy block pos: gu{x=19, y=123, z=-3} gu{x=-9, y=148, z=-2}
+[00:32:52] [Server thread/WARN]: Mismatch in destroy block pos: gu{x=19, y=123, z=-3} gu{x=-9, y=148, z=-2}
+[00:33:18] [Server thread/WARN]: Mismatch in destroy block pos: gu{x=19, y=123, z=-3} gu{x=-8, y=147, z=-2}
+[00:35:23] [Server thread/INFO]: bigstinker42 has made the advancement [Sweet Dreams]
+[00:37:55] [Server thread/INFO]: airphoenix749 was shot by Pillager
+[00:38:01] [Server thread/INFO]: <avesdaves> RIP
+[00:39:58] [Server thread/INFO]: airphoenix749 was shot by Pillager
+[00:39:59] [Server thread/WARN]: Mismatch in destroy block pos: gu{x=0, y=0, z=0} gu{x=6, y=146, z=0}
+[00:41:42] [Server thread/INFO]: airphoenix749 was shot by Pillager
+[00:41:54] [Server thread/WARN]: Mismatch in destroy block pos: gu{x=0, y=0, z=0} gu{x=-13, y=145, z=-9}
+[00:41:54] [Server thread/WARN]: Mismatch in destroy block pos: gu{x=0, y=0, z=0} gu{x=-12, y=145, z=-9}
+[00:45:25] [Server thread/INFO]: firephoenix749 lost connection: Disconnected
+[00:45:25] [Server thread/INFO]: firephoenix749 left the game
+[00:46:34] [User Authenticator #7/INFO]: UUID of player firephoenix749 is baf1a5ea-f94f-46d5-8395-4620e77717d2
+[00:46:34] [Server thread/INFO]: firephoenix749[/98.97.81.241:62847] logged in with entity id 18889 at (96.43340336835112, 117.0, -118.89235212881603)
+[00:46:34] [Server thread/INFO]: firephoenix749 joined the game
+[00:46:39] [Server thread/INFO]: <avesdaves> welcome back!!
+[00:47:05] [Server thread/INFO]: <firephoenix749> hello! I was having trouble with the mouse.
+[00:47:11] [Server thread/INFO]: <avesdaves> no worries :)
+[00:47:35] [Server thread/INFO]: airphoenix749 froze to death
+[00:47:37] [Server thread/WARN]: Mismatch in destroy block pos: gu{x=0, y=0, z=0} gu{x=-2, y=160, z=13}
+[00:48:11] [Server thread/INFO]: [bigstinker42: Triggered [Set Home]]
+[00:48:24] [Server thread/INFO]: [avesdaves: Triggered [Home]]
+[00:48:50] [Server thread/INFO]: <avesdaves> not thieving i assume?
+[00:48:59] [Server thread/INFO]: <firephoenix749> for who?
+[00:49:08] [Server thread/INFO]: <avesdaves> GET OUTSSAAA HERE
+[00:49:40] [Server thread/INFO]: <airphoenix749> haha
+[00:50:42] [Server thread/INFO]: <avesdaves> hi!!
+[00:51:01] [Server thread/INFO]: <avesdaves> julian says: to come look at his suit
+[00:51:06] [Server thread/INFO]: <avesdaves> skin**
+[00:51:09] [Server thread/INFO]: <avesdaves> thank u!!!
+[00:52:19] [Server thread/INFO]: [firephoenix749: Triggered [Home]]
+[00:52:27] [Server thread/INFO]: <firephoenix749> where are you?
+[00:52:34] [Server thread/INFO]: <firephoenix749> Avery?
+[00:52:42] [Server thread/INFO]: <avesdaves> yes
+[00:52:46] [Server thread/INFO]: <avesdaves> he was boutta die
+[00:52:48] [Server thread/INFO]: <avesdaves> sorry
+[00:52:57] [Server thread/INFO]: <firephoenix749> where? ARe? U
+[00:53:48] [Server thread/INFO]: <avesdaves> we are on ze mountain
+[00:53:54] [Server thread/INFO]: <avesdaves> across from dans house
+[00:53:59] [Server thread/INFO]: <avesdaves> building julians house\
+[00:57:31] [Server thread/INFO]: airphoenix749 lost connection: Disconnected
+[00:57:31] [Server thread/INFO]: airphoenix749 left the game
+[00:58:40] [Server thread/INFO]: [firephoenix749: Triggered [Home]]
+[00:59:18] [Server thread/INFO]: firephoenix749 has made the advancement [Sweet Dreams]
+[00:59:23] [User Authenticator #8/INFO]: UUID of player airphoenix749 is 4cc80f7d-4b05-435a-82b2-3be6800575fa
+[00:59:23] [Server thread/INFO]: airphoenix749[/98.97.81.241:46308] logged in with entity id 24832 at (-106.20335963573861, 150.0, -11.598933252088079)
+[00:59:23] [Server thread/INFO]: airphoenix749 joined the game
+[00:59:41] [Server thread/INFO]: airphoenix749 was doomed to fall by bigstinker42
+[00:59:47] [Server thread/INFO]: <avesdaves> OOF
+[00:59:59] [User Authenticator #9/INFO]: UUID of player Peggl3 is 8dcdea05-b427-4965-9d23-5b07bf2efd3f
+[01:00:00] [Server thread/INFO]: Peggl3[/206.217.205.43:49094] logged in with entity id 25012 at (-38.12043271721417, -1.0, -109.3321118327585)
+[01:00:00] [Server thread/INFO]: Peggl3 joined the game
+[01:01:55] [Server thread/INFO]: airphoenix749 lost connection: Disconnected
+[01:01:55] [Server thread/INFO]: airphoenix749 left the game
+[01:02:44] [Server thread/INFO]: <Peggl3> oh man this is a mess
+[01:02:57] [Server thread/INFO]: [Peggl3: Triggered [Home]]
+[01:03:50] [Server thread/INFO]: [Peggl3: Triggered [tpa] (set value to 2)]
+[01:03:54] [Server thread/INFO]: [avesdaves: Triggered [tpaccept]]
+[01:03:59] [Server thread/INFO]: <Peggl3> ooooh
+[01:04:00] [Server thread/INFO]: <Peggl3> pink house
+[01:04:02] [Server thread/INFO]: <avesdaves> isnt it nice??
+[01:04:04] [Server thread/INFO]: <Peggl3> yea
+[01:04:07] [Server thread/INFO]: <avesdaves> upon his request
+[01:04:12] [Server thread/INFO]: <avesdaves> do u like jujus skin?
+[01:04:16] [Server thread/INFO]: <Peggl3> yea I love it
+[01:04:31] [Server thread/INFO]: <avesdaves> he says henlo
+[01:04:35] [Server thread/INFO]: <Peggl3> henlo juju
+[01:04:39] [Server thread/INFO]: firephoenix749 has made the advancement [Sneak 100]
+[01:04:51] [Server thread/INFO]: [firephoenix749: Triggered [Home]]
+[01:05:20] [Server thread/INFO]: <firephoenix749> who broke the picture?
+[01:05:32] [Server thread/INFO]: [Peggl3: Triggered [Home]]
+[01:07:28] [Server thread/INFO]: [Peggl3: Teleported Peggl3 to avesdaves]
+[01:10:59] [User Authenticator #10/INFO]: UUID of player airphoenix749 is 4cc80f7d-4b05-435a-82b2-3be6800575fa
+[01:10:59] [Server thread/INFO]: airphoenix749[/98.97.81.241:49230] logged in with entity id 29639 at (-53.38624087455336, 130.0, -46.47025274067791)
+[01:10:59] [Server thread/INFO]: airphoenix749 joined the game
+[01:11:31] [Server thread/INFO]: [avesdaves: Gave 1 [Stone Axe] to avesdaves]
+[01:11:36] [Server thread/INFO]: <Peggl3> hey guys, joanna wants to join but I have the server set to only 5 people
+[01:11:48] [Server thread/INFO]: <Peggl3> so I'm going to shut down the server for just a second to set it to 10
+[01:11:52] [Server thread/INFO]: airphoenix749 has made the advancement [Sweet Dreams]
+[01:11:56] [Server thread/INFO]: <avesdaves> tell airphoneix to get his grave
+[01:12:00] [Server thread/INFO]: <avesdaves> its in jujus home
+[01:12:07] [Server thread/INFO]: [Not Secure] [Server] shutting down
+[01:12:11] [Server thread/INFO]: Stopping the server
+[01:12:11] [Server thread/INFO]: Stopping server
+[01:12:11] [Server thread/INFO]: Saving players
+[01:12:11] [Server thread/INFO]: avesdaves lost connection: Server closed
+[01:12:11] [Server thread/INFO]: avesdaves left the game
+[01:12:11] [Server thread/INFO]: airphoenix749 lost connection: Server closed
+[01:12:11] [Server thread/INFO]: airphoenix749 left the game
+[01:12:11] [Server thread/INFO]: Saving worlds
+[01:12:11] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
+[01:12:16] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_nether
+[01:12:16] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_end
+[01:12:16] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[01:12:16] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[01:12:16] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[01:12:16] [Server thread/INFO]: ThreadedAnvilChunkStorage: All dimensions are saved
