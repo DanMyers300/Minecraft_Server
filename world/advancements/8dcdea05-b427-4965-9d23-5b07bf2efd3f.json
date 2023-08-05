@@ -366,6 +366,7 @@
       "minecraft:cave_spider": "2023-07-21 02:56:31 +0000",
       "minecraft:piglin": "2023-08-05 02:43:58 +0000",
       "minecraft:enderman": "2023-08-03 01:50:57 +0000",
+      "minecraft:silverfish": "2023-08-05 21:28:03 +0000",
       "minecraft:zombie": "2023-07-21 01:11:26 +0000",
       "minecraft:drowned": "2023-08-03 13:31:45 +0000"
     },
@@ -2647,7 +2648,8 @@
   },
   "minecraft:nether/explore_nether": {
     "criteria": {
-      "minecraft:crimson_forest": "2023-08-03 17:02:35 +0000"
+      "minecraft:crimson_forest": "2023-08-03 17:02:35 +0000",
+      "minecraft:soul_sand_valley": "2023-08-05 20:08:05 +0000"
     },
     "done": false
   },
@@ -2841,6 +2843,54 @@
   "minecraft:recipes/redstone/daylight_detector": {
     "criteria": {
       "has_quartz": "2023-08-05 02:46:39 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/soul_lantern": {
+    "criteria": {
+      "has_soul_torch": "2023-08-05 20:18:06 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/soul_campfire": {
+    "criteria": {
+      "has_soul_sand": "2023-08-05 20:08:06 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/redstone_lamp": {
+    "criteria": {
+      "has_glowstone": "2023-08-05 20:22:49 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/glowstone": {
+    "criteria": {
+      "has_glowstone_dust": "2023-08-05 20:14:21 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/soul_torch": {
+    "criteria": {
+      "has_soul_sand": "2023-08-05 20:08:06 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/bone_meal_from_bone_block": {
+    "criteria": {
+      "has_bone_block": "2023-08-05 20:12:35 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/spectral_arrow": {
+    "criteria": {
+      "has_glowstone_dust": "2023-08-05 20:14:21 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/warped_fungus_on_a_stick": {
+    "criteria": {
+      "has_warped_fungus": "2023-08-05 21:34:43 +0000"
     },
     "done": true
   },
