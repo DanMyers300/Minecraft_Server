@@ -1,432 +1,69 @@
-[19:29:32] [ServerMain/INFO]: Environment: authHost='https://authserver.mojang.com', accountsHost='https://api.mojang.com', sessionHost='https://sessionserver.mojang.com', servicesHost='https://api.minecraftservices.com', name='PROD'
-[19:29:32] [ServerMain/WARN]: Missing metadata in pack file/VanillaTweaks_d232763_UNZIP_ME.zip
-[19:29:35] [ServerMain/WARN]: Found loot table element validation problem in {loot_tables:minecraft:entities/ender_dragon}.pools[1].entries[0]: Unknown loot table called minecraft:entities/reference/mmh/ender_dragon
-[19:29:35] [ServerMain/WARN]: Found loot table element validation problem in {loot_tables:minecraft:entities/bat}.pools[1].entries[0]: Unknown loot table called minecraft:entities/reference/mmh/bat
-[19:29:35] [ServerMain/WARN]: Found loot table element validation problem in {loot_tables:minecraft:entities/shulker}.pools[1].entries[0]: Unknown loot table called minecraft:entities/reference/mmh/shulker
-[19:29:35] [ServerMain/INFO]: Loaded 7 recipes
-[19:29:35] [ServerMain/INFO]: Loaded 1289 advancements
-[19:29:36] [Server thread/INFO]: Starting minecraft server version 1.20.1
-[19:29:36] [Server thread/INFO]: Loading properties
-[19:29:36] [Server thread/INFO]: Default game type: SURVIVAL
-[19:29:36] [Server thread/INFO]: Generating keypair
-[19:29:36] [Server thread/INFO]: Starting Minecraft server on *:25565
-[19:29:36] [Server thread/INFO]: Using epoll channel type
-[19:29:36] [Server thread/INFO]: Preparing level "world"
-[19:29:44] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
-[19:29:53] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[19:29:53] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[19:29:53] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[19:29:53] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[19:29:53] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[19:29:53] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[19:29:53] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[19:29:53] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[19:29:53] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[19:29:53] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[19:29:53] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[19:29:53] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[19:29:53] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[19:29:53] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[19:29:53] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[19:29:53] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[19:29:53] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[19:29:53] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[19:29:53] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[19:29:54] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[19:29:54] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[19:29:55] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[19:29:55] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[19:29:56] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[19:29:56] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[19:29:57] [User Authenticator #1/INFO]: UUID of player firephoenix749 is baf1a5ea-f94f-46d5-8395-4620e77717d2
-[19:29:57] [Server thread/INFO]: Time elapsed: 12755 ms
-[19:29:57] [Server thread/INFO]: Done (20.943s)! For help, type "help"
-[19:29:58] [Server thread/INFO]: firephoenix749[/98.97.81.241:53317] logged in with entity id 274 at (107.40619761610697, 117.0, -125.73127154853307)
-[19:29:58] [Server thread/INFO]: firephoenix749 joined the game
-[19:29:59] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2180ms or 43 ticks behind
-[19:30:03] [User Authenticator #2/INFO]: UUID of player airphoenix749 is 4cc80f7d-4b05-435a-82b2-3be6800575fa
-[19:30:03] [Server thread/INFO]: airphoenix749[/98.97.81.241:43493] logged in with entity id 287 at (-61.22530747848974, 129.0, -42.33362678700255)
-[19:30:03] [Server thread/INFO]: airphoenix749 joined the game
-[19:30:03] [User Authenticator #3/INFO]: UUID of player JAMtime_ is 9a5e031f-411a-4052-b202-5ccb6b6c0591
-[19:30:04] [Server thread/INFO]: JAMtime_[/98.97.81.241:44087] logged in with entity id 300 at (-33.30000001192093, 167.0, 52.84059922307539)
-[19:30:04] [Server thread/INFO]: JAMtime_ joined the game
-[19:30:05] [Server thread/WARN]: UUID of added entity already exists: bux['Armor Stand'/351, l='ServerLevel[world]', x=22068880.50, y=1000.00, z=-4185487.50]
-[19:30:20] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 6334ms or 126 ticks behind
-[19:30:59] [User Authenticator #4/INFO]: UUID of player Peggl3 is 8dcdea05-b427-4965-9d23-5b07bf2efd3f
-[19:30:59] [Server thread/INFO]: Peggl3[/206.217.205.42:55558] logged in with entity id 757 at (-60.43251746690888, 128.0, -26.979732360434713)
-[19:30:59] [Server thread/INFO]: Peggl3 joined the game
-[19:33:50] [Server thread/INFO]: [Peggl3: Gave 1 [Glow Ink Sac] to Peggl3]
-[19:36:01] [Server thread/INFO]: [Peggl3: Set own game mode to Spectator Mode]
-[19:36:03] [Server thread/INFO]: [Peggl3: Teleported Peggl3 to JAMtime_]
-[19:36:18] [Server thread/INFO]: [Peggl3: Set own game mode to Survival Mode]
-[19:36:58] [Server thread/INFO]: [JAMtime_: Triggered [tpa] (set value to 1)]
-[19:37:02] [Server thread/INFO]: [Peggl3: Triggered [tpaccept]]
-[19:37:13] [Server thread/INFO]: [firephoenix749: Triggered [tpa] (set value to 1)]
-[19:37:15] [Server thread/INFO]: [Peggl3: Triggered [tpaccept]]
-[19:37:36] [Server thread/INFO]: [Peggl3: Gave 64 [Chain] to Peggl3]
-[19:38:09] [Server thread/INFO]: [airphoenix749: Triggered [tpa] (set value to 1)]
-[19:38:13] [Server thread/INFO]: [Peggl3: Gave 16 [Lantern] to Peggl3]
-[19:38:15] [Server thread/INFO]: [Peggl3: Triggered [tpaccept]]
-[19:38:58] [Server thread/INFO]: <airphoenix749> t
-[19:39:02] [Server thread/INFO]: <JAMtime_> t
-[19:39:07] [Server thread/INFO]: <Peggl3> t
-[19:39:08] [Server thread/INFO]: <JAMtime_> tt
-[19:39:09] [Server thread/INFO]: <firephoenix749> ./trigger tpa set 3
-[19:39:10] [Server thread/INFO]: <Peggl3> ttt
-[19:39:13] [Server thread/INFO]: <JAMtime_> tttt
-[19:39:15] [Server thread/INFO]: firephoenix749 lost connection: Disconnected
-[19:39:15] [Server thread/INFO]: firephoenix749 left the game
-[19:39:18] [User Authenticator #5/INFO]: UUID of player firephoenix749 is baf1a5ea-f94f-46d5-8395-4620e77717d2
-[19:39:18] [Server thread/INFO]: firephoenix749[/98.97.81.241:5272] logged in with entity id 2666 at (-4.636836731631912, 107.0, -27.754952194506554)
-[19:39:18] [Server thread/INFO]: firephoenix749 joined the game
-[19:39:25] [Server thread/INFO]: firephoenix749 lost connection: Disconnected
-[19:39:25] [Server thread/INFO]: firephoenix749 left the game
-[19:39:40] [Server thread/INFO]: <airphoenix749> tttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttt
-[19:39:49] [Server thread/INFO]: [Peggl3: Triggered [Home]]
-[19:39:59] [Server thread/INFO]: [Peggl3: Triggered [Back]]
-[19:40:49] [User Authenticator #6/INFO]: UUID of player firephoenix749 is baf1a5ea-f94f-46d5-8395-4620e77717d2
-[19:40:49] [Server thread/INFO]: firephoenix749[/98.97.81.241:7319] logged in with entity id 3009 at (-4.636836731631912, 107.0, -27.754952194506554)
-[19:40:49] [Server thread/INFO]: firephoenix749 joined the game
-[19:41:24] [Server thread/INFO]: [Peggl3: Triggered [Home]]
-[19:41:45] [Server thread/INFO]: [Peggl3: Triggered [Back]]
-[19:44:01] [Server thread/INFO]: airphoenix749 was slain by firephoenix749
-[19:44:23] [Server thread/WARN]: Mismatch in destroy block pos: gu{x=-12, y=104, z=-52} gu{x=-12, y=105, z=-52}
-[19:44:23] [Server thread/WARN]: Mismatch in destroy block pos: gu{x=-12, y=104, z=-52} gu{x=-12, y=105, z=-52}
-[19:44:23] [Server thread/WARN]: Mismatch in destroy block pos: gu{x=-12, y=104, z=-52} gu{x=-12, y=105, z=-52}
-[19:44:24] [Server thread/WARN]: Mismatch in destroy block pos: gu{x=-12, y=104, z=-52} gu{x=-12, y=103, z=-52}
-[19:44:24] [Server thread/WARN]: Mismatch in destroy block pos: gu{x=-12, y=104, z=-52} gu{x=-12, y=103, z=-52}
-[19:44:24] [Server thread/WARN]: Mismatch in destroy block pos: gu{x=-12, y=104, z=-52} gu{x=-12, y=103, z=-52}
-[19:44:24] [Server thread/WARN]: Mismatch in destroy block pos: gu{x=-12, y=104, z=-52} gu{x=-12, y=103, z=-52}
-[19:45:53] [Server thread/INFO]: [Peggl3: Triggered [Home]]
-[19:48:01] [Server thread/INFO]: airphoenix749 has made the advancement [Monster Hunter]
-[19:49:41] [Server thread/INFO]: [JAMtime_: Triggered [tpa] (set value to 3)]
-[19:49:44] [Server thread/INFO]: [firephoenix749: Triggered [tpaccept]]
-[19:51:42] [Server thread/INFO]: [firephoenix749: Triggered [Home]]
-[19:52:22] [Server thread/INFO]: [Peggl3: Triggered [Home]]
-[19:55:59] [Server thread/INFO]: JAMtime_ froze to death
-[19:59:12] [User Authenticator #7/INFO]: UUID of player bigstinker42 is 18b82b12-40a1-4dae-9177-b1c5db53245d
-[19:59:12] [Server thread/INFO]: bigstinker42[/136.62.152.216:54472] logged in with entity id 10085 at (-175.3179029075112, 91.0, 33.29931968052556)
-[19:59:12] [Server thread/INFO]: bigstinker42 joined the game
-[19:59:19] [Server thread/INFO]: <Peggl3> ayyyyy bigstinker42
-[19:59:23] [Server thread/INFO]: <Peggl3> welcome
-[20:00:30] [Server thread/INFO]: <bigstinker42> hi
-[20:00:40] [Server thread/INFO]: <firephoenix749> ello
-[20:01:52] [Server thread/INFO]: [Peggl3: Triggered [Home]]
-[20:02:38] [Server thread/INFO]: bigstinker42 was shot by Skeleton
-[20:03:34] [Server thread/INFO]: bigstinker42 has made the advancement [Monster Hunter]
-[20:04:33] [Server thread/INFO]: [firephoenix749: Triggered [Home]]
-[20:05:39] [User Authenticator #8/INFO]: UUID of player avesdaves is 734c983b-d6e5-4564-b72a-3fbaaca0ebff
-[20:05:39] [Server thread/INFO]: avesdaves[/136.62.152.216:50346] logged in with entity id 12544 at (-52.172655051423476, 128.0, -27.30000001192093)
-[20:05:39] [Server thread/INFO]: avesdaves joined the game
-[20:06:58] [Server thread/INFO]: Peggl3 lost connection: Disconnected
-[20:06:58] [Server thread/INFO]: Peggl3 left the game
-[20:07:26] [User Authenticator #9/INFO]: UUID of player Peggl3 is 8dcdea05-b427-4965-9d23-5b07bf2efd3f
-[20:07:26] [Server thread/INFO]: Peggl3[/206.217.205.42:53120] logged in with entity id 13154 at (-11.722838448593393, 100.0, -19.10674818143868)
-[20:07:26] [Server thread/INFO]: Peggl3 joined the game
-[20:07:57] [Server thread/INFO]: [JAMtime_: Triggered [tpa] (set value to 3)]
-[20:07:59] [Server thread/INFO]: [firephoenix749: Triggered [tpaccept]]
-[20:08:13] [Server thread/INFO]: [JAMtime_: Triggered [Home]]
-[20:10:03] [Server thread/INFO]: [Peggl3: Set JAMtime_'s game mode to Creative Mode]
-[20:11:15] [Server thread/INFO]: [Peggl3: Set JAMtime_'s game mode to Survival Mode]
-[20:13:50] [Server thread/INFO]: [avesdaves: Gave 1 [Spruce Slab] to avesdaves]
-[20:14:08] [Server thread/INFO]: [avesdaves: Gave 1 [Oak Slab] to avesdaves]
-[20:14:52] [Server thread/INFO]: [Peggl3: Triggered [tpa] (set value to 2)]
-[20:15:06] [Server thread/INFO]: [Peggl3: Triggered [tpa] (set value to 5)]
-[20:15:22] [Server thread/INFO]: <firephoenix749> where is his house?
-[20:15:35] [Server thread/INFO]: [Peggl3: Triggered [Home]]
-[20:15:38] [Server thread/INFO]: <avesdaves> its across from dans
-[20:15:41] [Server thread/INFO]: [JAMtime_: Triggered [tpa] (set value to 5)]
-[20:15:55] [Server thread/INFO]: <avesdaves> this way!!!
-[20:16:08] [Server thread/INFO]: <firephoenix749> CAKE!
-[20:16:10] [Server thread/INFO]: [JAMtime_: Triggered [tpa] (set value to 2)]
-[20:16:16] [Server thread/INFO]: [avesdaves: Triggered [tpaccept]]
-[20:16:20] [Server thread/INFO]: <firephoenix749> what kind of cake?
-[20:16:49] [Server thread/INFO]: <firephoenix749> I ate it all
-[20:16:51] [Server thread/INFO]: <firephoenix749> yum
-[20:16:53] [Server thread/INFO]: <avesdaves> omg
-[20:16:57] [Server thread/INFO]: <Peggl3> yummy
-[20:16:57] [Server thread/INFO]: <avesdaves> we was hungry
-[20:16:58] [Server thread/INFO]: <firephoenix749> for me to eat
-[20:17:00] [Server thread/INFO]: <JAMtime_> yum yum
-[20:17:06] [Server thread/INFO]: <firephoenix749> ME was hungry
-[20:17:20] [Server thread/INFO]: [Peggl3: Triggered [Home]]
-[20:17:33] [Server thread/INFO]: <JAMtime_> he siad he was on the table so I hit him off
-[20:17:42] [Server thread/INFO]: <JAMtime_> don't hit me!
-[20:17:54] [Server thread/INFO]: <firephoenix749> I'll hit you!
-[20:18:13] [Server thread/INFO]: airphoenix749 was slain by firephoenix749
-[20:18:21] [Server thread/INFO]: <JAMtime_> knock knock
-[20:18:34] [Server thread/INFO]: <airphoenix749> e
-[20:18:36] [Server thread/INFO]: <Peggl3> e
-[20:18:45] [Server thread/INFO]: <JAMtime_> adam get out!
-[20:19:03] [Server thread/INFO]: <avesdaves> do yall like julians house??
-[20:19:04] [Server thread/INFO]: JAMtime_ was slain by avesdaves
-[20:19:09] [Server thread/INFO]: <avesdaves> SORRY
-[20:19:25] [Server thread/INFO]: airphoenix749 was slain by avesdaves
-[20:19:34] [Server thread/INFO]: <firephoenix749> Good job Avery
-[20:19:41] [Server thread/INFO]: <avesdaves> :{
-[20:19:44] [Server thread/INFO]: <firephoenix749> give me cake
-[20:20:11] [Server thread/INFO]: [Peggl3: Set firephoenix749's game mode to Spectator Mode]
-[20:20:11] [Server thread/INFO]: [Peggl3: Set bigstinker42's game mode to Spectator Mode]
-[20:20:11] [Server thread/INFO]: [Peggl3: Set avesdaves's game mode to Spectator Mode]
-[20:20:11] [Server thread/INFO]: [Peggl3: Set own game mode to Spectator Mode]
-[20:20:11] [Server thread/INFO]: [Peggl3: Set JAMtime_'s game mode to Spectator Mode]
-[20:20:11] [Server thread/INFO]: [Peggl3: Set airphoenix749's game mode to Spectator Mode]
-[20:20:19] [Server thread/INFO]: <Peggl3> okay go above ground
-[20:20:23] [Server thread/INFO]: [Peggl3: Set firephoenix749's game mode to Survival Mode]
-[20:20:23] [Server thread/INFO]: [Peggl3: Set bigstinker42's game mode to Survival Mode]
-[20:20:23] [Server thread/INFO]: [Peggl3: Set avesdaves's game mode to Survival Mode]
-[20:20:23] [Server thread/INFO]: [Peggl3: Set own game mode to Survival Mode]
-[20:20:23] [Server thread/INFO]: [Peggl3: Set JAMtime_'s game mode to Survival Mode]
-[20:20:23] [Server thread/INFO]: [Peggl3: Set airphoenix749's game mode to Survival Mode]
-[20:20:30] [Server thread/INFO]: [avesdaves: Triggered [Home]]
-[20:20:31] [Server thread/INFO]: [Peggl3: Teleported avesdaves to Peggl3]
-[20:20:40] [Server thread/INFO]: <firephoenix749> big stker give me cake
-[20:21:11] [Server thread/INFO]: <JAMtime_> eek
-[20:21:46] [Server thread/INFO]: <JAMtime_> what?
-[20:21:59] [Server thread/INFO]: <avesdaves> STOP FIGHTING
-[20:22:12] [Server thread/INFO]: <firephoenix749> matthew started it...
-[20:22:13] [Server thread/INFO]: [Peggl3: Triggered [Home]]
-[20:22:24] [Server thread/INFO]: <JAMtime_> why did you hurt me #avesdaves
-[20:22:34] [Server thread/INFO]: <avesdaves> u stole u rhead back :-{
-[20:23:01] [Server thread/INFO]: <JAMtime_> that is a sentenc I thought i'd never hear
-[20:23:17] [Server thread/INFO]: [Peggl3: Teleported JAMtime_ to Peggl3]
-[20:23:21] [Server thread/INFO]: firephoenix749 lost connection: Disconnected
-[20:23:21] [Server thread/INFO]: firephoenix749 left the game
-[20:23:41] [Server thread/INFO]: [JAMtime_: Triggered [Home]]
-[20:23:58] [Server thread/INFO]: [Peggl3: Triggered [Home]]
-[20:24:13] [Server thread/INFO]: [Peggl3: Triggered [Back]]
-[20:25:18] [Server thread/INFO]: <Peggl3> t
-[20:25:20] [User Authenticator #10/INFO]: UUID of player firephoenix749 is baf1a5ea-f94f-46d5-8395-4620e77717d2
-[20:25:20] [Server thread/INFO]: firephoenix749[/98.97.81.241:52765] logged in with entity id 18152 at (-47.3127257196715, 129.0, -27.43847468670674)
-[20:25:20] [Server thread/INFO]: firephoenix749 joined the game
-[20:26:26] [Server thread/INFO]: [Peggl3: Triggered [Home]]
-[20:26:34] [Server thread/INFO]: [Peggl3: Triggered [Back]]
-[20:26:40] [Server thread/INFO]: bigstinker42 has made the advancement [Getting an Upgrade]
-[20:30:31] [Server thread/INFO]: bigstinker42 was slain by Zombie
-[20:30:48] [Server thread/INFO]: [firephoenix749: Triggered [Home]]
-[20:31:48] [Server thread/INFO]: [bigstinker42: Triggered [tpa] (set value to 2)]
-[20:31:50] [Server thread/INFO]: [avesdaves: Triggered [tpaccept]]
-[20:32:28] [Server thread/INFO]: [Peggl3: Triggered [Home]]
-[20:32:59] [Server thread/INFO]: [Peggl3: Triggered [Back]]
-[20:34:10] [Server thread/INFO]: [Peggl3: Triggered [Home]]
-[20:34:42] [Server thread/INFO]: [Peggl3: Triggered [Back]]
-[20:36:21] [Server thread/INFO]: [firephoenix749: Triggered [Home]]
-[20:37:55] [Server thread/INFO]: [avesdaves: Triggered [Home]]
-[20:38:30] [Server thread/INFO]: [firephoenix749: Triggered [Back]]
-[20:41:31] [Server thread/INFO]: [firephoenix749: Triggered [Home]]
-[20:42:05] [Server thread/WARN]: Mule (vehicle of avesdaves) moved wrongly! 0.3022938672199267
-[20:42:05] [Server thread/WARN]: Mule (vehicle of avesdaves) moved wrongly! 0.2644133464410068
-[20:42:07] [Server thread/WARN]: Mule (vehicle of avesdaves) moved wrongly! 0.32051821598895636
-[20:42:07] [Server thread/WARN]: Mule (vehicle of avesdaves) moved wrongly! 0.312412103569363
-[20:42:07] [Server thread/WARN]: Mule (vehicle of avesdaves) moved wrongly! 0.26470951490544614
-[20:42:08] [Server thread/WARN]: Mule (vehicle of avesdaves) moved wrongly! 0.2990411044739938
-[20:42:10] [Server thread/WARN]: Mule (vehicle of avesdaves) moved wrongly! 0.3235732575158252
-[20:42:42] [Server thread/INFO]: [JAMtime_: Triggered [Home]]
-[20:43:01] [Server thread/INFO]: [Peggl3: Triggered [tpa] (set value to 2)]
-[20:43:10] [Server thread/INFO]: [Peggl3: Triggered [tpcancel]]
-[20:43:12] [Server thread/INFO]: bigstinker42 has made the advancement [Acquire Hardware]
-[20:43:44] [Server thread/WARN]: Mule (vehicle of avesdaves) moved wrongly! 0.28897066754136524
-[20:43:55] [Server thread/INFO]: <JAMtime_> i wasn't stealing your horse i was just making sure it didn't run away
-[20:44:02] [Server thread/INFO]: JAMtime_ has made the advancement [Ice Bucket Challenge]
-[20:44:07] [Server thread/INFO]: <avesdaves> you can 100% have a horse
-[20:45:42] [Server thread/INFO]: <JAMtime_> i'll fix it
-[20:45:59] [Server thread/INFO]: firephoenix749 was slain by Piglin
-[20:46:08] [Server thread/INFO]: firephoenix749 was slain by Piglin
-[20:46:16] [Server thread/INFO]: <avesdaves> who wants a mule
-[20:46:20] [Server thread/INFO]: [Peggl3: Triggered [Home]]
-[20:46:21] [Server thread/INFO]: <avesdaves> who wants a horse
-[20:46:43] [Server thread/INFO]: airphoenix749 was slain by Zombie
-[20:47:10] [Server thread/INFO]: [Peggl3: Teleported Peggl3 to firephoenix749]
-[20:47:31] [Server thread/INFO]: [Peggl3: Triggered [Home]]
-[20:47:40] [Server thread/INFO]: [Peggl3: Triggered [Back]]
-[20:47:43] [Server thread/INFO]: [JAMtime_: Triggered [Home]]
-[20:47:48] [Server thread/INFO]: [Peggl3: Triggered [Home]]
-[20:47:52] [Server thread/INFO]: airphoenix749 was slain by Zombie
-[20:48:47] [Server thread/INFO]: [JAMtime_: Triggered [Home]]
-[20:49:24] [Server thread/INFO]: firephoenix749 has made the advancement [Suit Up]
-[20:49:32] [Server thread/INFO]: <JAMtime_> can we ride the horses?
-[20:49:51] [Server thread/INFO]: <JAMtime_> water water water?
-[20:51:52] [Server thread/INFO]: [Peggl3: Teleported Peggl3 to firephoenix749]
-[20:52:06] [Server thread/INFO]: [Peggl3: Triggered [Home]]
-[20:52:11] [Server thread/INFO]: [firephoenix749: Triggered [Home]]
-[20:52:59] [Server thread/INFO]: bigstinker42 fell from a high place
-[20:54:24] [Server thread/INFO]: bigstinker42 fell from a high place
-[20:55:08] [Server thread/INFO]: bigstinker42 was slain by Peggl3
-[20:55:17] [Server thread/INFO]: bigstinker42 fell from a high place
-[20:55:27] [Server thread/INFO]: bigstinker42 was slain by Peggl3
-[20:55:38] [Server thread/INFO]: bigstinker42 was slain by Peggl3
-[20:55:43] [Server thread/INFO]: JAMtime_ has made the advancement [Acquire Hardware]
-[20:55:46] [Server thread/INFO]: bigstinker42 was slain by Peggl3
-[20:55:50] [Server thread/INFO]: bigstinker42 fell from a high place
-[20:55:55] [Server thread/INFO]: bigstinker42 fell from a high place
-[20:56:08] [Server thread/INFO]: bigstinker42 was slain by Peggl3
-[20:56:16] [Server thread/INFO]: bigstinker42 was slain by Peggl3
-[20:56:29] [Server thread/INFO]: bigstinker42 was slain by Peggl3
-[20:56:37] [Server thread/INFO]: bigstinker42 was slain by Peggl3
-[20:56:44] [Server thread/INFO]: bigstinker42 was slain by Peggl3
-[20:56:51] [Server thread/INFO]: bigstinker42 was doomed to fall by Peggl3
-[20:57:01] [Server thread/INFO]: bigstinker42 was slain by Peggl3
-[20:57:02] [Server thread/INFO]: [firephoenix749: Triggered [Home]]
-[20:57:09] [Server thread/INFO]: bigstinker42 was slain by Peggl3
-[20:57:17] [Server thread/INFO]: bigstinker42 was doomed to fall by Peggl3
-[20:57:34] [Server thread/INFO]: bigstinker42 was slain by Peggl3
-[20:57:41] [Server thread/INFO]: bigstinker42 fell from a high place
-[20:57:45] [Server thread/INFO]: <JAMtime_> can matt use the dirt in the big house?
-[20:57:49] [Server thread/INFO]: bigstinker42 was slain by Peggl3
-[20:57:53] [Server thread/INFO]: <Peggl3> yes
-[20:58:02] [Server thread/INFO]: bigstinker42 was slain by Peggl3
-[20:58:11] [Server thread/INFO]: bigstinker42 was slain by Peggl3
-[20:58:18] [Server thread/INFO]: bigstinker42 was slain by Peggl3
-[20:58:26] [Server thread/INFO]: bigstinker42 was slain by Peggl3
-[20:58:33] [Server thread/INFO]: bigstinker42 was slain by Peggl3
-[20:58:38] [Server thread/INFO]: bigstinker42 was slain by Peggl3
-[20:58:44] [Server thread/INFO]: bigstinker42 was slain by Peggl3
-[20:58:57] [Server thread/INFO]: bigstinker42 fell from a high place
-[20:59:03] [Server thread/INFO]: bigstinker42 fell from a high place
-[20:59:07] [Server thread/INFO]: bigstinker42 fell from a high place
-[20:59:17] [Server thread/INFO]: bigstinker42 was slain by Peggl3
-[20:59:57] [Server thread/INFO]: [Peggl3: Teleported bigstinker42 to Peggl3]
-[21:01:34] [Server thread/INFO]: bigstinker42 was shot by Skeleton
-[21:01:42] [Server thread/INFO]: bigstinker42 fell from a high place
-[21:02:08] [Server thread/INFO]: [JAMtime_: Triggered [Home]]
-[21:02:30] [Server thread/INFO]: [airphoenix749: Triggered [Home]]
-[21:02:33] [Server thread/INFO]: [Peggl3] afk
-[21:03:03] [Server thread/WARN]: Horse (vehicle of firephoenix749) moved wrongly! 0.31676253131995935
-[21:03:03] [Server thread/WARN]: Horse (vehicle of firephoenix749) moved wrongly! 0.331110715202648
-[21:03:03] [Server thread/WARN]: Horse (vehicle of firephoenix749) moved wrongly! 0.3436455785953605
-[21:03:03] [Server thread/WARN]: Horse (vehicle of firephoenix749) moved wrongly! 0.3761781536482509
-[21:03:04] [Server thread/WARN]: Horse (vehicle of firephoenix749) moved wrongly! 0.9044038476607348
-[21:03:04] [Server thread/WARN]: Horse (vehicle of firephoenix749) moved wrongly! 0.26356751622297914
-[21:03:04] [Server thread/WARN]: Horse (vehicle of firephoenix749) moved wrongly! 0.29322829083410085
-[21:03:04] [Server thread/WARN]: Horse (vehicle of firephoenix749) moved wrongly! 0.2933998119634502
-[21:03:05] [Server thread/WARN]: Horse (vehicle of firephoenix749) moved wrongly! 0.3233748888586554
-[21:03:05] [Server thread/WARN]: Horse (vehicle of firephoenix749) moved wrongly! 0.3534348970749246
-[21:03:05] [Server thread/WARN]: Horse (vehicle of firephoenix749) moved wrongly! 0.3238130843252396
-[21:03:05] [Server thread/WARN]: Horse (vehicle of firephoenix749) moved wrongly! 0.3238754803254196
-[21:03:05] [Server thread/WARN]: Horse (vehicle of firephoenix749) moved wrongly! 0.35400283844969493
-[21:03:05] [Server thread/WARN]: Horse (vehicle of firephoenix749) moved wrongly! 0.38417068508393726
-[21:03:05] [Server thread/WARN]: Horse (vehicle of firephoenix749) moved wrongly! 0.4143369267768673
-[21:03:05] [Server thread/WARN]: Horse (vehicle of firephoenix749) moved wrongly! 0.41417593179366996
-[21:03:05] [Server thread/WARN]: Horse (vehicle of firephoenix749) moved wrongly! 0.44422633323696203
-[21:03:05] [Server thread/WARN]: Horse (vehicle of firephoenix749) moved wrongly! 0.47426698322446725
-[21:03:05] [Server thread/WARN]: Horse (vehicle of firephoenix749) moved wrongly! 0.4440429812000346
-[21:03:06] [Server thread/WARN]: Horse (vehicle of firephoenix749) moved wrongly! 0.4737349950639036
-[21:03:06] [Server thread/WARN]: Horse (vehicle of firephoenix749) moved wrongly! 0.4728022492698756
-[21:03:06] [Server thread/WARN]: Horse (vehicle of firephoenix749) moved wrongly! 0.2647155520248621
-[21:03:06] [Server thread/WARN]: Horse (vehicle of firephoenix749) moved wrongly! 0.2939131436585951
-[21:03:06] [Server thread/WARN]: Horse (vehicle of firephoenix749) moved wrongly! 0.29391311358913264
-[21:03:07] [Server thread/WARN]: Horse (vehicle of firephoenix749) moved wrongly! 0.2939737815981447
-[21:03:07] [Server thread/WARN]: Horse (vehicle of firephoenix749) moved wrongly! 0.32340074116024375
-[21:03:07] [Server thread/WARN]: Horse (vehicle of firephoenix749) moved wrongly! 0.35246872173835886
-[21:03:07] [Server thread/WARN]: Horse (vehicle of firephoenix749) moved wrongly! 0.35032082128333286
-[21:03:07] [Server thread/WARN]: Horse (vehicle of firephoenix749) moved wrongly! 0.37813043975669114
-[21:03:07] [Server thread/WARN]: Horse (vehicle of firephoenix749) moved wrongly! 0.4058516749258514
-[21:03:09] [Server thread/WARN]: Horse (vehicle of firephoenix749) moved wrongly! 0.453438087196297
-[21:03:09] [Server thread/WARN]: Horse (vehicle of firephoenix749) moved wrongly! 0.460446219566587
-[21:03:09] [Server thread/WARN]: Horse (vehicle of firephoenix749) moved wrongly! 0.7317361625463215
-[21:03:10] [Server thread/WARN]: Horse (vehicle of firephoenix749) moved wrongly! 0.2611270737102416
-[21:03:10] [Server thread/WARN]: Horse (vehicle of firephoenix749) moved wrongly! 0.5447053348559887
-[21:03:11] [Server thread/WARN]: Horse (vehicle of firephoenix749) moved wrongly! 0.6964424084545158
-[21:03:39] [Server thread/INFO]: bigstinker42 was slain by firephoenix749
-[21:03:51] [Server thread/INFO]: [Peggl3: Teleported bigstinker42 to Peggl3]
-[21:04:30] [Server thread/INFO]: <firephoenix749> haha
-[21:04:36] [Server thread/INFO]: <JAMtime_> ?
-[21:04:42] [Server thread/INFO]: <firephoenix749> that is a lot of torches
-[21:05:01] [Server thread/INFO]: <bigstinker42> look up
-[21:06:04] [Server thread/INFO]: <firephoenix749> is that wat the heads were for?
-[21:06:32] [Server thread/INFO]: <avesdaves> "decoration" -julian
-[21:06:37] [Server thread/INFO]: <JAMtime_> still not getting it
-[21:07:19] [Server thread/INFO]: JAMtime_ hit the ground too hard
-[21:07:39] [Server thread/INFO]: [JAMtime_: Triggered [Set Home]]
-[21:08:06] [Server thread/INFO]: [firephoenix749: Triggered [tpa] (set value to 3)]
-[21:08:12] [Server thread/INFO]: [firephoenix749: Triggered [tpa] (set value to 6)]
-[21:08:20] [Server thread/INFO]: [JAMtime_: Triggered [tpdeny]]
-[21:08:23] [Server thread/INFO]: [JAMtime_: Triggered [tpaccept]]
-[21:08:29] [Server thread/INFO]: [firephoenix749: Triggered [tpa] (set value to 6)]
-[21:08:46] [Server thread/INFO]: bigstinker42 was slain by firephoenix749
-[21:08:54] [Server thread/INFO]: bigstinker42 fell from a high place
-[21:09:04] [Server thread/INFO]: [JAMtime_: Triggered [tpaccept]]
-[21:10:55] [Server thread/INFO]: JAMtime_ has made the advancement [Isn't It Iron Pick]
-[21:12:29] [Server thread/INFO]: [Peggl3: Triggered [Home]]
-[21:12:40] [Server thread/INFO]: [Peggl3: Triggered [Back]]
-[21:13:57] [Server thread/INFO]: [JAMtime_: Triggered [Home]]
-[21:13:58] [Server thread/INFO]: [Peggl3: Triggered [Home]]
-[21:14:02] [Server thread/INFO]: [firephoenix749: Triggered [Home]]
-[21:16:19] [Server thread/INFO]: [avesdaves: Gave 100 [Torch] to avesdaves]
-[21:16:59] [Server thread/WARN]: Mule (vehicle of firephoenix749) moved wrongly! 0.2877478172106436
-[21:16:59] [Server thread/WARN]: Mule (vehicle of firephoenix749) moved wrongly! 0.6493145738677555
-[21:17:53] [Server thread/INFO]: [Peggl3: Triggered [Home]]
-[21:18:04] [Server thread/INFO]: [Peggl3: Triggered [Back]]
-[21:18:26] [Server thread/INFO]: [firephoenix749: Triggered [Home]]
-[21:18:41] [Server thread/INFO]: [firephoenix749: Triggered [Back]]
-[21:18:49] [Server thread/INFO]: [Peggl3: Triggered [tpa] (set value to 4)]
-[21:19:13] [Server thread/INFO]: [JAMtime_: Triggered [Home]]
-[21:19:22] [Server thread/INFO]: [firephoenix749: Triggered [Home]]
-[21:19:30] [Server thread/INFO]: [firephoenix749: Triggered [Back]]
-[21:19:38] [Server thread/INFO]: [airphoenix749: Triggered [tpaccept]]
-[21:20:03] [Server thread/INFO]: [JAMtime_: Triggered [Back]]
-[21:20:16] [Server thread/INFO]: [firephoenix749: Triggered [Home]]
-[21:20:29] [Server thread/INFO]: [JAMtime_: Triggered [Home]]
-[21:20:42] [Server thread/INFO]: JAMtime_ lost connection: Disconnected
-[21:20:42] [Server thread/INFO]: JAMtime_ left the game
-[21:21:07] [Server thread/INFO]: [firephoenix749: Triggered [Back]]
-[21:21:43] [Server thread/INFO]: [firephoenix749: Triggered [Home]]
-[21:22:53] [Server thread/INFO]: [firephoenix749: Triggered [Back]]
-[21:23:19] [Server thread/INFO]: firephoenix749 has made the advancement [Best Friends Forever]
-[21:23:34] [Server thread/INFO]: [Peggl3: Triggered [tpa] (set value to 54)]
-[21:23:36] [Server thread/INFO]: [Peggl3: Triggered [tpa] (set value to 5)]
-[21:24:13] [Server thread/INFO]: [bigstinker42: Triggered [tpa] (set value to 1)]
-[21:24:18] [Server thread/INFO]: bigstinker42 fell from a high place
-[21:24:23] [Server thread/INFO]: [Peggl3: Triggered [tpaccept]]
-[21:24:36] [Server thread/INFO]: [Peggl3: Triggered [Home]]
-[21:24:40] [Server thread/INFO]: [avesdaves: Triggered [Home]]
-[21:25:23] [Server thread/INFO]: [avesdaves: Triggered [Back]]
-[21:26:33] [Server thread/WARN]: Mismatch in destroy block pos: gu{x=1, y=111, z=-34} gu{x=3, y=109, z=-32}
-[21:28:09] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2120ms or 42 ticks behind
-[21:28:48] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 24356ms or 487 ticks behind
-[21:29:24] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 20467ms or 409 ticks behind
-[21:29:44] [Server thread/INFO]: [avesdaves: Triggered [Home]]
-[21:30:01] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 22450ms or 449 ticks behind
-[21:30:05] [Server thread/INFO]: [Peggl3: Triggered [Home]]
-[21:30:23] [Server thread/INFO]: [firephoenix749: Triggered [Home]]
-[21:30:42] [Server thread/INFO]: airphoenix749 fell from a high place
-[21:31:35] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2029ms or 40 ticks behind
-[21:31:57] [Server thread/INFO]: firephoenix749 lost connection: Disconnected
-[21:31:57] [Server thread/INFO]: firephoenix749 left the game
-[21:32:03] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 12473ms or 249 ticks behind
-[21:32:15] [Server thread/INFO]: [Peggl3: Triggered [tpa] (set value to 254)]
-[21:32:18] [Server thread/INFO]: [Peggl3: Triggered [tpa] (set value to 5)]
-[21:32:26] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 8357ms or 167 ticks behind
-[21:32:48] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 7042ms or 140 ticks behind
-[21:33:10] [Server thread/INFO]: [bigstinker42: Triggered [tpaccept]]
-[21:33:11] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 7826ms or 156 ticks behind
-[21:33:34] [Server thread/INFO]: [Peggl3: Triggered [Home]]
-[21:33:36] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 10160ms or 203 ticks behind
-[21:34:06] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 15608ms or 312 ticks behind
-[21:34:43] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 21697ms or 433 ticks behind
-[21:35:07] [Server thread/INFO]: [bigstinker42: Triggered [Home]]
-[21:35:10] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 11645ms or 232 ticks behind
-[21:35:49] [Server thread/INFO]: airphoenix749 lost connection: Disconnected
-[21:35:49] [Server thread/INFO]: airphoenix749 left the game
-[21:36:25] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2020ms or 40 ticks behind
-[21:36:35] [Server thread/INFO]: bigstinker42 lost connection: Disconnected
-[21:36:35] [Server thread/INFO]: bigstinker42 left the game
-[21:36:52] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 11954ms or 239 ticks behind
-[21:36:55] [Server thread/INFO]: <Peggl3> tell juju I'm going to leave the obsidian in a chest in his house
-[21:37:17] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 10352ms or 207 ticks behind
-[21:37:39] [Server thread/INFO]: [Peggl3: Triggered [Home]]
-[21:37:42] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 10192ms or 203 ticks behind
-[21:38:51] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2014ms or 40 ticks behind
-[21:39:01] [Server thread/INFO]: Peggl3 lost connection: Disconnected
-[21:39:01] [Server thread/INFO]: Peggl3 left the game
-[21:39:17] [Server thread/INFO]: Stopping the server
-[21:39:17] [Server thread/INFO]: Stopping server
-[21:39:17] [Server thread/INFO]: Saving players
-[21:39:17] [Server thread/INFO]: Saving worlds
-[21:39:24] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
-[21:39:29] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_end
-[21:39:29] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_nether
-[21:39:29] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
-[21:39:29] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
-[21:39:29] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
-[21:39:29] [Server thread/INFO]: ThreadedAnvilChunkStorage: All dimensions are saved
+[22:27:56] [ServerMain/INFO]: Environment: authHost='https://authserver.mojang.com', accountsHost='https://api.mojang.com', sessionHost='https://sessionserver.mojang.com', servicesHost='https://api.minecraftservices.com', name='PROD'
+[22:27:56] [ServerMain/WARN]: Missing metadata in pack file/VanillaTweaks_d232763_UNZIP_ME.zip
+[22:27:59] [ServerMain/WARN]: Found loot table element validation problem in {loot_tables:minecraft:entities/ender_dragon}.pools[1].entries[0]: Unknown loot table called minecraft:entities/reference/mmh/ender_dragon
+[22:27:59] [ServerMain/WARN]: Found loot table element validation problem in {loot_tables:minecraft:entities/bat}.pools[1].entries[0]: Unknown loot table called minecraft:entities/reference/mmh/bat
+[22:27:59] [ServerMain/WARN]: Found loot table element validation problem in {loot_tables:minecraft:entities/shulker}.pools[1].entries[0]: Unknown loot table called minecraft:entities/reference/mmh/shulker
+[22:27:59] [ServerMain/INFO]: Loaded 7 recipes
+[22:27:59] [ServerMain/INFO]: Loaded 1289 advancements
+[22:28:00] [Server thread/INFO]: Starting minecraft server version 1.20.1
+[22:28:00] [Server thread/INFO]: Loading properties
+[22:28:00] [Server thread/INFO]: Default game type: SURVIVAL
+[22:28:00] [Server thread/INFO]: Generating keypair
+[22:28:00] [Server thread/INFO]: Starting Minecraft server on *:25565
+[22:28:00] [Server thread/INFO]: Using epoll channel type
+[22:28:00] [Server thread/INFO]: Preparing level "world"
+[22:28:08] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
+[22:28:13] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[22:28:13] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[22:28:13] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[22:28:13] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[22:28:13] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[22:28:13] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[22:28:13] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[22:28:13] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[22:28:13] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[22:28:13] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[22:28:13] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[22:28:14] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[22:28:14] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[22:28:15] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[22:28:15] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[22:28:16] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[22:28:16] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[22:28:17] [Worker-Main-1/INFO]: Preparing spawn area: 5%
+[22:28:18] [Server thread/INFO]: Time elapsed: 9375 ms
+[22:28:18] [Server thread/INFO]: Done (17.436s)! For help, type "help"
+[22:28:20] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2018ms or 40 ticks behind
+[22:28:23] [Server thread/WARN]: UUID of added entity already exists: bux['Armor Stand'/274, l='ServerLevel[world]', x=22068880.50, y=1000.00, z=-4185487.50]
+[22:28:30] [User Authenticator #1/INFO]: UUID of player Peggl3 is 8dcdea05-b427-4965-9d23-5b07bf2efd3f
+[22:28:30] [Server thread/INFO]: Peggl3[/70.119.67.35:58378] logged in with entity id 280 at (-61.930146232588335, 128.0, -33.35488362996091)
+[22:28:30] [Server thread/INFO]: Peggl3 joined the game
+[22:35:57] [Server thread/INFO]: [Peggl3: Triggered [Home]]
+[22:39:35] [Server thread/INFO]: Peggl3 lost connection: Disconnected
+[22:39:35] [Server thread/INFO]: Peggl3 left the game
+[22:39:55] [User Authenticator #2/INFO]: UUID of player avesdaves is 734c983b-d6e5-4564-b72a-3fbaaca0ebff
+[22:39:55] [Server thread/INFO]: avesdaves[/136.62.152.216:52619] logged in with entity id 2776 at (-52.70193697493132, 129.0, -41.813706371025816)
+[22:39:55] [Server thread/INFO]: avesdaves joined the game
+[22:40:19] [User Authenticator #3/INFO]: UUID of player Peggl3 is 8dcdea05-b427-4965-9d23-5b07bf2efd3f
+[22:40:19] [Server thread/INFO]: Peggl3[/70.119.67.35:42006] logged in with entity id 2885 at (-50.79431012862513, 131.9375, -17.308461612194037)
+[22:40:19] [Server thread/INFO]: Peggl3 joined the game
+[22:48:27] [Server thread/INFO]: [Peggl3: Set own game mode to Spectator Mode]
+[22:49:05] [Server thread/INFO]: [Peggl3: Set own game mode to Creative Mode]
+[22:49:13] [Server thread/INFO]: [Peggl3: Set own game mode to Spectator Mode]
+[22:49:15] [Server thread/INFO]: [Peggl3: Triggered [Home]]
+[22:49:18] [Server thread/INFO]: [Peggl3: Set own game mode to Survival Mode]
+[22:50:27] [Server thread/INFO]: avesdaves lost connection: Disconnected
+[22:50:27] [Server thread/INFO]: avesdaves left the game
+[22:51:23] [Server thread/INFO]: Stopping the server
+[22:51:23] [Server thread/INFO]: Stopping server
+[22:51:23] [Server thread/INFO]: Saving players
+[22:51:23] [Server thread/INFO]: Peggl3 lost connection: Server closed
+[22:51:23] [Server thread/INFO]: Peggl3 left the game
+[22:51:23] [Server thread/INFO]: Saving worlds
+[22:51:24] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
+[22:51:28] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_end
+[22:51:28] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_nether
+[22:51:28] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[22:51:28] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[22:51:28] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[22:51:28] [Server thread/INFO]: ThreadedAnvilChunkStorage: All dimensions are saved
