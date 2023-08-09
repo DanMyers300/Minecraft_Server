@@ -1,69 +1,119 @@
-[22:27:56] [ServerMain/INFO]: Environment: authHost='https://authserver.mojang.com', accountsHost='https://api.mojang.com', sessionHost='https://sessionserver.mojang.com', servicesHost='https://api.minecraftservices.com', name='PROD'
-[22:27:56] [ServerMain/WARN]: Missing metadata in pack file/VanillaTweaks_d232763_UNZIP_ME.zip
-[22:27:59] [ServerMain/WARN]: Found loot table element validation problem in {loot_tables:minecraft:entities/ender_dragon}.pools[1].entries[0]: Unknown loot table called minecraft:entities/reference/mmh/ender_dragon
-[22:27:59] [ServerMain/WARN]: Found loot table element validation problem in {loot_tables:minecraft:entities/bat}.pools[1].entries[0]: Unknown loot table called minecraft:entities/reference/mmh/bat
-[22:27:59] [ServerMain/WARN]: Found loot table element validation problem in {loot_tables:minecraft:entities/shulker}.pools[1].entries[0]: Unknown loot table called minecraft:entities/reference/mmh/shulker
-[22:27:59] [ServerMain/INFO]: Loaded 7 recipes
-[22:27:59] [ServerMain/INFO]: Loaded 1289 advancements
-[22:28:00] [Server thread/INFO]: Starting minecraft server version 1.20.1
-[22:28:00] [Server thread/INFO]: Loading properties
-[22:28:00] [Server thread/INFO]: Default game type: SURVIVAL
-[22:28:00] [Server thread/INFO]: Generating keypair
-[22:28:00] [Server thread/INFO]: Starting Minecraft server on *:25565
-[22:28:00] [Server thread/INFO]: Using epoll channel type
-[22:28:00] [Server thread/INFO]: Preparing level "world"
-[22:28:08] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
-[22:28:13] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[22:28:13] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[22:28:13] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[22:28:13] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[22:28:13] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[22:28:13] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[22:28:13] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[22:28:13] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[22:28:13] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[22:28:13] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[22:28:13] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[22:28:14] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[22:28:14] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[22:28:15] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[22:28:15] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[22:28:16] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[22:28:16] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[22:28:17] [Worker-Main-1/INFO]: Preparing spawn area: 5%
-[22:28:18] [Server thread/INFO]: Time elapsed: 9375 ms
-[22:28:18] [Server thread/INFO]: Done (17.436s)! For help, type "help"
-[22:28:20] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2018ms or 40 ticks behind
-[22:28:23] [Server thread/WARN]: UUID of added entity already exists: bux['Armor Stand'/274, l='ServerLevel[world]', x=22068880.50, y=1000.00, z=-4185487.50]
-[22:28:30] [User Authenticator #1/INFO]: UUID of player Peggl3 is 8dcdea05-b427-4965-9d23-5b07bf2efd3f
-[22:28:30] [Server thread/INFO]: Peggl3[/70.119.67.35:58378] logged in with entity id 280 at (-61.930146232588335, 128.0, -33.35488362996091)
-[22:28:30] [Server thread/INFO]: Peggl3 joined the game
-[22:35:57] [Server thread/INFO]: [Peggl3: Triggered [Home]]
-[22:39:35] [Server thread/INFO]: Peggl3 lost connection: Disconnected
-[22:39:35] [Server thread/INFO]: Peggl3 left the game
-[22:39:55] [User Authenticator #2/INFO]: UUID of player avesdaves is 734c983b-d6e5-4564-b72a-3fbaaca0ebff
-[22:39:55] [Server thread/INFO]: avesdaves[/136.62.152.216:52619] logged in with entity id 2776 at (-52.70193697493132, 129.0, -41.813706371025816)
-[22:39:55] [Server thread/INFO]: avesdaves joined the game
-[22:40:19] [User Authenticator #3/INFO]: UUID of player Peggl3 is 8dcdea05-b427-4965-9d23-5b07bf2efd3f
-[22:40:19] [Server thread/INFO]: Peggl3[/70.119.67.35:42006] logged in with entity id 2885 at (-50.79431012862513, 131.9375, -17.308461612194037)
-[22:40:19] [Server thread/INFO]: Peggl3 joined the game
-[22:48:27] [Server thread/INFO]: [Peggl3: Set own game mode to Spectator Mode]
-[22:49:05] [Server thread/INFO]: [Peggl3: Set own game mode to Creative Mode]
-[22:49:13] [Server thread/INFO]: [Peggl3: Set own game mode to Spectator Mode]
-[22:49:15] [Server thread/INFO]: [Peggl3: Triggered [Home]]
-[22:49:18] [Server thread/INFO]: [Peggl3: Set own game mode to Survival Mode]
-[22:50:27] [Server thread/INFO]: avesdaves lost connection: Disconnected
-[22:50:27] [Server thread/INFO]: avesdaves left the game
-[22:51:23] [Server thread/INFO]: Stopping the server
-[22:51:23] [Server thread/INFO]: Stopping server
-[22:51:23] [Server thread/INFO]: Saving players
-[22:51:23] [Server thread/INFO]: Peggl3 lost connection: Server closed
-[22:51:23] [Server thread/INFO]: Peggl3 left the game
-[22:51:23] [Server thread/INFO]: Saving worlds
-[22:51:24] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
-[22:51:28] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_end
-[22:51:28] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_nether
-[22:51:28] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
-[22:51:28] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
-[22:51:28] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
-[22:51:28] [Server thread/INFO]: ThreadedAnvilChunkStorage: All dimensions are saved
+[01:16:03] [ServerMain/INFO]: Environment: authHost='https://authserver.mojang.com', accountsHost='https://api.mojang.com', sessionHost='https://sessionserver.mojang.com', servicesHost='https://api.minecraftservices.com', name='PROD'
+[01:16:03] [ServerMain/WARN]: Missing metadata in pack file/VanillaTweaks_d232763_UNZIP_ME.zip
+[01:16:06] [ServerMain/WARN]: Found loot table element validation problem in {loot_tables:minecraft:entities/ender_dragon}.pools[1].entries[0]: Unknown loot table called minecraft:entities/reference/mmh/ender_dragon
+[01:16:06] [ServerMain/WARN]: Found loot table element validation problem in {loot_tables:minecraft:entities/bat}.pools[1].entries[0]: Unknown loot table called minecraft:entities/reference/mmh/bat
+[01:16:06] [ServerMain/WARN]: Found loot table element validation problem in {loot_tables:minecraft:entities/shulker}.pools[1].entries[0]: Unknown loot table called minecraft:entities/reference/mmh/shulker
+[01:16:06] [ServerMain/INFO]: Loaded 7 recipes
+[01:16:06] [ServerMain/INFO]: Loaded 1289 advancements
+[01:16:06] [Server thread/INFO]: Starting minecraft server version 1.20.1
+[01:16:06] [Server thread/INFO]: Loading properties
+[01:16:06] [Server thread/INFO]: Default game type: SURVIVAL
+[01:16:06] [Server thread/INFO]: Generating keypair
+[01:16:07] [Server thread/INFO]: Starting Minecraft server on *:25565
+[01:16:07] [Server thread/INFO]: Using epoll channel type
+[01:16:07] [Server thread/INFO]: Preparing level "world"
+[01:16:15] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
+[01:16:21] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[01:16:21] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[01:16:21] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[01:16:21] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[01:16:21] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[01:16:21] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[01:16:21] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[01:16:21] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[01:16:21] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[01:16:21] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[01:16:21] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[01:16:21] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[01:16:21] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[01:16:22] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[01:16:22] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[01:16:23] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[01:16:23] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[01:16:24] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[01:16:24] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[01:16:25] [Server thread/INFO]: Time elapsed: 9867 ms
+[01:16:25] [Server thread/INFO]: Done (18.260s)! For help, type "help"
+[01:16:28] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2052ms or 41 ticks behind
+[01:16:29] [Server thread/WARN]: UUID of added entity already exists: bux['Armor Stand'/266, l='ServerLevel[world]', x=22068880.50, y=1000.00, z=-4185487.50]
+[01:16:30] [User Authenticator #1/INFO]: UUID of player Peggl3 is 8dcdea05-b427-4965-9d23-5b07bf2efd3f
+[01:16:30] [Server thread/INFO]: Peggl3[/70.119.67.35:39782] logged in with entity id 269 at (-60.12032869351802, 128.0, -32.468742893458106)
+[01:16:30] [Server thread/INFO]: Peggl3 joined the game
+[01:19:40] [Server thread/INFO]: Peggl3 was slain by Piglin
+[01:19:48] [Server thread/INFO]: [Peggl3: Triggered [Locate Last Grave]]
+[01:20:29] [User Authenticator #2/INFO]: UUID of player avesdaves is 734c983b-d6e5-4564-b72a-3fbaaca0ebff
+[01:20:29] [Server thread/INFO]: avesdaves[/136.62.152.216:54257] logged in with entity id 1487 at (-62.31143483705742, 128.0, -32.50964771330674)
+[01:20:29] [Server thread/INFO]: avesdaves joined the game
+[01:20:32] [Server thread/INFO]: <Peggl3> helllloooo
+[01:20:34] [Server thread/INFO]: <Peggl3> <3
+[01:20:42] [Server thread/INFO]: <Peggl3> i dired
+[01:20:43] [Server thread/INFO]: <avesdaves> hi!!
+[01:20:46] [Server thread/INFO]: <avesdaves> me too
+[01:20:53] [Server thread/INFO]: <avesdaves> i also so dired
+[01:21:07] [Server thread/INFO]: <Peggl3> i haz gud spell
+[01:21:11] [Server thread/INFO]: <avesdaves> huh
+[01:22:44] [Server thread/INFO]: [avesdaves: Triggered [Home]]
+[01:23:14] [Server thread/INFO]: [avesdaves: Triggered [Back]]
+[01:23:21] [Server thread/INFO]: avesdaves was shot by Piglin
+[01:23:24] [Server thread/INFO]: <Peggl3> nooooo
+[01:26:33] [Server thread/INFO]: [Peggl3: Triggered [Home]]
+[01:29:11] [Server thread/INFO]: [Peggl3: Triggered [Back]]
+[01:32:12] [Server thread/INFO]: [avesdaves: Triggered [Home]]
+[01:35:20] [Server thread/INFO]: <avesdaves> whatcha doon
+[01:35:28] [Server thread/INFO]: <Peggl3> working on my villager trading area
+[01:35:38] [Server thread/INFO]: [avesdaves: Triggered [tpa] (set value to 1)]
+[01:35:40] [Server thread/INFO]: [Peggl3: Triggered [tpaccept]]
+[01:35:43] [Server thread/INFO]: <Peggl3> henlo
+[01:35:54] [Server thread/INFO]: <avesdaves> hi!!!
+[01:35:59] [Server thread/INFO]: <Peggl3> hello mc gf
+[01:36:20] [Server thread/INFO]: <avesdaves> henlooo
+[01:36:31] [Server thread/INFO]: <avesdaves> idk what to do and my tummy hurts :(
+[01:36:41] [Server thread/INFO]: <Peggl3> oh no I'm sorry ur tummy hurts
+[01:36:42] [Server thread/INFO]: <avesdaves> i may just lay in bed tbh my tumtum
+[01:36:50] [Server thread/INFO]: <avesdaves> yeah :///
+[01:36:53] [Server thread/INFO]: <Peggl3> okay baby no worries
+[01:36:57] [Server thread/INFO]: <Peggl3> get some rest
+[01:37:05] [Server thread/INFO]: <avesdaves> ily ill have my phone <33
+[01:37:07] [Server thread/INFO]: avesdaves lost connection: Disconnected
+[01:37:07] [Server thread/INFO]: avesdaves left the game
+[01:40:03] [Server thread/INFO]: Peggl3 lost connection: Disconnected
+[01:40:03] [Server thread/INFO]: Peggl3 left the game
+[01:42:19] [User Authenticator #3/INFO]: UUID of player Peggl3 is 8dcdea05-b427-4965-9d23-5b07bf2efd3f
+[01:42:19] [Server thread/INFO]: Peggl3[/70.119.67.35:36074] logged in with entity id 5568 at (170.60564763970447, 251.5, 1113.1321555138609)
+[01:42:19] [Server thread/INFO]: Peggl3 joined the game
+[01:43:58] [Server thread/INFO]: [Peggl3: Triggered [Home]]
+[01:44:10] [Server thread/INFO]: [Peggl3: Triggered [Back]]
+[01:44:31] [Server thread/INFO]: [Peggl3: Triggered [Home]]
+[01:46:09] [Server thread/INFO]: [Peggl3: Triggered [Back]]
+[01:46:33] [Server thread/INFO]: [Peggl3: Triggered [Home]]
+[01:52:54] [Server thread/INFO]: [Peggl3: Triggered [Home]]
+[01:58:09] [Server thread/INFO]: [Peggl3: Triggered [Back]]
+[01:58:11] [Server thread/INFO]: [Peggl3: Triggered [Home]]
+[01:58:22] [Server thread/INFO]: Peggl3 lost connection: Disconnected
+[01:58:22] [Server thread/INFO]: Peggl3 left the game
+[02:04:42] [User Authenticator #4/INFO]: UUID of player Peggl3 is 8dcdea05-b427-4965-9d23-5b07bf2efd3f
+[02:04:42] [Server thread/INFO]: Peggl3[/70.119.67.35:36456] logged in with entity id 7850 at (-60.74280052166575, 127.9375, -27.037259077758748)
+[02:04:42] [Server thread/INFO]: Peggl3 joined the game
+[02:08:15] [Server thread/INFO]: [Peggl3: Triggered [Home]]
+[02:08:24] [Server thread/INFO]: [Peggl3: Triggered [Homes] (added 1 to value)]
+[02:08:28] [Server thread/INFO]: [Peggl3: Triggered [Homes] (added 2 to value)]
+[02:08:39] [Server thread/INFO]: [Peggl3: Triggered [Homes] (set value to 2)]
+[02:08:42] [Server thread/INFO]: [Peggl3: Triggered [Homes]]
+[02:08:45] [Server thread/INFO]: [Peggl3: Removed 48 item(s) from player Peggl3]
+[02:09:05] [Server thread/INFO]: [Peggl3: Set own game mode to Creative Mode]
+[02:11:00] [Server thread/INFO]: [Peggl3: Set own game mode to Survival Mode]
+[02:11:19] [Server thread/INFO]: [Peggl3: Gave 30 experience levels to Peggl3]
+[02:12:15] [Server thread/INFO]: [Peggl3: Triggered [Home]]
+[02:12:19] [Server thread/INFO]: Peggl3 lost connection: Disconnected
+[02:12:19] [Server thread/INFO]: Peggl3 left the game
+[02:12:37] [Server thread/INFO]: Stopping the server
+[02:12:37] [Server thread/INFO]: Stopping server
+[02:12:37] [Server thread/INFO]: Saving players
+[02:12:37] [Server thread/INFO]: Saving worlds
+[02:12:38] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
+[02:12:43] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_end
+[02:12:43] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_nether
+[02:12:43] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[02:12:43] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[02:12:43] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[02:12:43] [Server thread/INFO]: ThreadedAnvilChunkStorage: All dimensions are saved

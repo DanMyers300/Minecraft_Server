@@ -714,9 +714,11 @@
     "criteria": {
       "minecraft:pillager": "2023-08-01 02:06:38 +0000",
       "minecraft:skeleton": "2023-07-21 01:37:13 +0000",
+      "minecraft:hoglin": "2023-08-09 01:25:24 +0000",
       "minecraft:spider": "2023-07-21 01:34:29 +0000",
       "minecraft:creeper": "2023-07-21 01:34:09 +0000",
       "minecraft:cave_spider": "2023-07-21 02:50:13 +0000",
+      "minecraft:piglin": "2023-08-09 01:23:18 +0000",
       "minecraft:zombie": "2023-07-21 01:33:51 +0000",
       "minecraft:zombie_villager": "2023-08-06 01:28:09 +0000"
     },
@@ -3003,9 +3005,70 @@
   },
   "minecraft:nether/explore_nether": {
     "criteria": {
-      "minecraft:crimson_forest": "2023-08-06 15:34:47 +0000"
+      "minecraft:crimson_forest": "2023-08-06 15:34:47 +0000",
+      "minecraft:soul_sand_valley": "2023-08-09 01:26:27 +0000"
     },
     "done": false
+  },
+  "minecraft:recipes/redstone/observer": {
+    "criteria": {
+      "has_quartz": "2023-08-09 01:22:20 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/comparator": {
+    "criteria": {
+      "has_quartz": "2023-08-09 01:22:20 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/soul_campfire": {
+    "criteria": {
+      "has_soul_sand": "2023-08-09 01:26:38 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/soul_torch": {
+    "criteria": {
+      "has_soul_sand": "2023-08-09 01:26:38 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/bone_meal_from_bone_block": {
+    "criteria": {
+      "has_bone_block": "2023-08-09 01:28:37 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/diorite": {
+    "criteria": {
+      "has_quartz": "2023-08-09 01:22:20 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/granite": {
+    "criteria": {
+      "has_quartz": "2023-08-09 01:22:20 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/nether_brick": {
+    "criteria": {
+      "has_netherrack": "2023-08-09 01:22:21 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/quartz_block": {
+    "criteria": {
+      "has_quartz": "2023-08-09 01:22:20 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/daylight_detector": {
+    "criteria": {
+      "has_quartz": "2023-08-09 01:22:20 +0000"
+    },
+    "done": true
   },
   "DataVersion": 3465
 }
