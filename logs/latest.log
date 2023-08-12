@@ -1,62 +1,15 @@
-[02:13:56] [ServerMain/INFO]: Environment: authHost='https://authserver.mojang.com', accountsHost='https://api.mojang.com', sessionHost='https://sessionserver.mojang.com', servicesHost='https://api.minecraftservices.com', name='PROD'
-[02:13:56] [ServerMain/WARN]: Missing metadata in pack file/VanillaTweaks_d232763_UNZIP_ME.zip
-[02:13:58] [ServerMain/WARN]: Found loot table element validation problem in {loot_tables:minecraft:entities/ender_dragon}.pools[1].entries[0]: Unknown loot table called minecraft:entities/reference/mmh/ender_dragon
-[02:13:58] [ServerMain/WARN]: Found loot table element validation problem in {loot_tables:minecraft:entities/bat}.pools[1].entries[0]: Unknown loot table called minecraft:entities/reference/mmh/bat
-[02:13:58] [ServerMain/WARN]: Found loot table element validation problem in {loot_tables:minecraft:entities/shulker}.pools[1].entries[0]: Unknown loot table called minecraft:entities/reference/mmh/shulker
-[02:13:58] [ServerMain/INFO]: Loaded 7 recipes
-[02:13:59] [ServerMain/INFO]: Loaded 1289 advancements
-[02:13:59] [Server thread/INFO]: Starting minecraft server version 1.20.1
-[02:13:59] [Server thread/INFO]: Loading properties
-[02:13:59] [Server thread/INFO]: Default game type: SURVIVAL
-[02:13:59] [Server thread/INFO]: Generating keypair
-[02:13:59] [Server thread/INFO]: Starting Minecraft server on *:25565
-[02:13:59] [Server thread/INFO]: Using epoll channel type
-[02:13:59] [Server thread/INFO]: Preparing level "world"
-[02:14:08] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
-[02:14:15] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[02:14:15] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[02:14:15] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[02:14:15] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[02:14:15] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[02:14:15] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[02:14:15] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[02:14:15] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[02:14:15] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[02:14:15] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[02:14:15] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[02:14:15] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[02:14:15] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[02:14:15] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[02:14:15] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[02:14:15] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[02:14:16] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[02:14:16] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[02:14:17] [Server thread/INFO]: Time elapsed: 9602 ms
-[02:14:17] [Server thread/INFO]: Done (17.680s)! For help, type "help"
-[02:14:20] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2008ms or 40 ticks behind
-[02:14:22] [Server thread/WARN]: UUID of added entity already exists: bux['Armor Stand'/256, l='ServerLevel[world]', x=22068880.50, y=1000.00, z=-4185487.50]
-[02:14:34] [User Authenticator #1/INFO]: UUID of player Peggl3 is 8dcdea05-b427-4965-9d23-5b07bf2efd3f
-[02:14:34] [Server thread/INFO]: Peggl3[/70.119.67.35:49104] logged in with entity id 261 at (-60.27531486668769, 129.0, -41.252137810856794)
-[02:14:34] [Server thread/INFO]: Peggl3 joined the game
-[02:14:46] [Server thread/INFO]: [Peggl3: Gave 1 [Shield] to Peggl3]
-[02:15:29] [Server thread/INFO]: [Peggl3: Triggered [Home]]
-[02:17:34] [Server thread/INFO]: [Peggl3: Triggered [Home]]
-[02:17:41] [Server thread/INFO]: [Peggl3: Triggered [Back]]
-[02:17:56] [Server thread/INFO]: [Peggl3: Triggered [Home]]
-[02:18:04] [Server thread/INFO]: [Peggl3: Triggered [Back]]
-[02:20:12] [Server thread/INFO]: [Peggl3: Triggered [Home]]
-[02:20:20] [Server thread/INFO]: [Peggl3: Triggered [Back]]
-[02:21:32] [Server thread/INFO]: [Peggl3: Gave 1 [Spruce Sign] to Peggl3]
-[02:22:22] [Server thread/INFO]: Peggl3 lost connection: Disconnected
-[02:22:22] [Server thread/INFO]: Peggl3 left the game
-[02:22:37] [Server thread/INFO]: Stopping the server
-[02:22:37] [Server thread/INFO]: Stopping server
-[02:22:37] [Server thread/INFO]: Saving players
-[02:22:37] [Server thread/INFO]: Saving worlds
-[02:22:38] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
-[02:22:43] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_end
-[02:22:43] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_nether
-[02:22:43] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
-[02:22:43] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
-[02:22:43] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
-[02:22:43] [Server thread/INFO]: ThreadedAnvilChunkStorage: All dimensions are saved
+[17:00:10] [ServerMain/INFO]: Environment: authHost='https://authserver.mojang.com', accountsHost='https://api.mojang.com', sessionHost='https://sessionserver.mojang.com', servicesHost='https://api.minecraftservices.com', name='PROD'
+[17:00:10] [ServerMain/WARN]: Missing metadata in pack file/VanillaTweaks_d232763_UNZIP_ME.zip
+[17:00:10] [ServerMain/INFO]: Found new data pack file/timber v2.1.6 (MC 1.20.x).zip, loading it automatically
+[17:00:13] [ServerMain/WARN]: Found loot table element validation problem in {loot_tables:minecraft:entities/ender_dragon}.pools[1].entries[0]: Unknown loot table called minecraft:entities/reference/mmh/ender_dragon
+[17:00:13] [ServerMain/WARN]: Found loot table element validation problem in {loot_tables:minecraft:entities/bat}.pools[1].entries[0]: Unknown loot table called minecraft:entities/reference/mmh/bat
+[17:00:13] [ServerMain/WARN]: Found loot table element validation problem in {loot_tables:minecraft:entities/shulker}.pools[1].entries[0]: Unknown loot table called minecraft:entities/reference/mmh/shulker
+[17:00:13] [ServerMain/INFO]: Loaded 7 recipes
+[17:00:13] [ServerMain/INFO]: Loaded 1290 advancements
+[17:00:14] [Server thread/INFO]: Starting minecraft server version 1.20.1
+[17:00:14] [Server thread/INFO]: Loading properties
+[17:00:14] [Server thread/INFO]: Default game type: SURVIVAL
+[17:00:14] [Server thread/INFO]: Generating keypair
+[17:00:14] [Server thread/INFO]: Starting Minecraft server on *:25565
+[17:00:14] [Server thread/INFO]: Using epoll channel type
+[17:00:14] [Server thread/INFO]: Preparing level "world"
