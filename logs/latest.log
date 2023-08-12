@@ -1,95 +1,462 @@
-[17:01:37] [ServerMain/INFO]: Environment: authHost='https://authserver.mojang.com', accountsHost='https://api.mojang.com', sessionHost='https://sessionserver.mojang.com', servicesHost='https://api.minecraftservices.com', name='PROD'
-[17:01:38] [ServerMain/WARN]: Missing metadata in pack file/VanillaTweaks_d232763_UNZIP_ME.zip
-[17:01:40] [ServerMain/WARN]: Found loot table element validation problem in {loot_tables:minecraft:entities/ender_dragon}.pools[1].entries[0]: Unknown loot table called minecraft:entities/reference/mmh/ender_dragon
-[17:01:40] [ServerMain/WARN]: Found loot table element validation problem in {loot_tables:minecraft:entities/bat}.pools[1].entries[0]: Unknown loot table called minecraft:entities/reference/mmh/bat
-[17:01:40] [ServerMain/WARN]: Found loot table element validation problem in {loot_tables:minecraft:entities/shulker}.pools[1].entries[0]: Unknown loot table called minecraft:entities/reference/mmh/shulker
-[17:01:40] [ServerMain/INFO]: Loaded 7 recipes
-[17:01:40] [ServerMain/INFO]: Loaded 1290 advancements
-[17:01:41] [Server thread/INFO]: Starting minecraft server version 1.20.1
-[17:01:41] [Server thread/INFO]: Loading properties
-[17:01:41] [Server thread/INFO]: Default game type: SURVIVAL
-[17:01:41] [Server thread/INFO]: Generating keypair
-[17:01:41] [Server thread/INFO]: Starting Minecraft server on *:25565
-[17:01:41] [Server thread/INFO]: Using epoll channel type
-[17:01:42] [Server thread/INFO]: Preparing level "world"
-[17:01:43] [User Authenticator #1/INFO]: UUID of player airphoenix749 is 4cc80f7d-4b05-435a-82b2-3be6800575fa
-[17:01:44] [User Authenticator #2/INFO]: UUID of player firephoenix749 is baf1a5ea-f94f-46d5-8395-4620e77717d2
-[17:01:50] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
-[17:01:56] [User Authenticator #3/INFO]: UUID of player airphoenix749 is 4cc80f7d-4b05-435a-82b2-3be6800575fa
-[17:01:57] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[17:01:57] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[17:01:57] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[17:01:57] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[17:01:57] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[17:01:57] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[17:01:57] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[17:01:57] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[17:01:57] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[17:01:57] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[17:01:57] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[17:01:57] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[17:01:57] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[17:01:57] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[17:01:57] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[17:01:57] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[17:01:58] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[17:01:58] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[17:01:59] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[17:02:00] [Server thread/INFO]: Time elapsed: 10515 ms
-[17:02:00] [Server thread/INFO]: Done (18.632s)! For help, type "help"
-[17:02:01] [Server thread/INFO]: com.mojang.authlib.GameProfile@13ad4ed6[id=baf1a5ea-f94f-46d5-8395-4620e77717d2,name=firephoenix749,properties={textures=[com.mojang.authlib.properties.Property@dd1683b]},legacy=false] (/98.97.83.148:37586) lost connection: Disconnected
-[17:02:01] [Server thread/INFO]: com.mojang.authlib.GameProfile@313819ef[id=4cc80f7d-4b05-435a-82b2-3be6800575fa,name=airphoenix749,properties={textures=[com.mojang.authlib.properties.Property@53639ce1]},legacy=false] (/98.97.83.148:57997) lost connection: Disconnected
-[17:02:01] [Server thread/INFO]: airphoenix749[/98.97.83.148:53004] logged in with entity id 328 at (1.6440096627461778, 103.0, -43.818961808664596)
-[17:02:01] [Server thread/INFO]: airphoenix749 joined the game
-[17:02:03] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2151ms or 43 ticks behind
-[17:02:04] [User Authenticator #4/INFO]: UUID of player firephoenix749 is baf1a5ea-f94f-46d5-8395-4620e77717d2
-[17:02:04] [Server thread/INFO]: firephoenix749[/98.97.83.148:8775] logged in with entity id 334 at (102.21702485251437, 119.0, -122.67818058668568)
-[17:02:04] [Server thread/INFO]: firephoenix749 joined the game
-[17:02:07] [Server thread/WARN]: UUID of added entity already exists: bux['Armor Stand'/368, l='ServerLevel[world]', x=22068880.50, y=1000.00, z=-4185487.50]
-[17:02:10] [User Authenticator #5/INFO]: UUID of player Peggl3 is 8dcdea05-b427-4965-9d23-5b07bf2efd3f
-[17:02:10] [Server thread/INFO]: Peggl3[/70.119.67.35:40640] logged in with entity id 494 at (50.66728007249904, 88.0, -34.45471784936098)
-[17:02:10] [Server thread/INFO]: Peggl3 joined the game
-[17:02:15] [Server thread/INFO]: <Peggl3> ello
-[17:02:22] [Server thread/INFO]: <firephoenix749> ello
-[17:02:23] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 5003ms or 100 ticks behind
-[17:02:49] [Server thread/INFO]: <Peggl3> timber (what you called auto tree mine) is turned on now
-[17:04:22] [Server thread/INFO]: [Peggl3: Executed 17 command(s) from function 'timber:help']
-[17:05:25] [Server thread/INFO]: <firephoenix749> i am gonna go test TREE AUTO MINE
-[17:05:32] [Server thread/INFO]: <Peggl3> okay!
-[17:05:51] [Server thread/INFO]: <firephoenix749> hehehehehe
-[17:06:08] [Server thread/INFO]: <firephoenix749> I have to get off soon as in like 2 mins
-[17:06:14] [Server thread/INFO]: firephoenix749 lost connection: Disconnected
-[17:06:14] [Server thread/INFO]: firephoenix749 left the game
-[17:06:16] [User Authenticator #6/INFO]: UUID of player firephoenix749 is baf1a5ea-f94f-46d5-8395-4620e77717d2
-[17:06:16] [Server thread/INFO]: firephoenix749[/98.97.83.148:16806] logged in with entity id 7066 at (68.33488564437118, 90.0, -59.25835261650882)
-[17:06:16] [Server thread/INFO]: firephoenix749 joined the game
-[17:06:23] [Server thread/INFO]: <Peggl3> okay yea no problem
-[17:06:33] [Server thread/INFO]: <Peggl3> It was cool to see you guys already on when I joined
-[17:06:45] [Server thread/INFO]: <Peggl3> did you do it through the server button?
-[17:06:56] [Server thread/INFO]: <firephoenix749> it is doing the weird scrolling thing so i am gonna get off now, and it was already on
-[17:07:05] [Server thread/INFO]: <firephoenix749> bye!
-[17:07:06] [Server thread/INFO]: <Peggl3> okay :)
-[17:07:08] [Server thread/INFO]: <Peggl3> bye
-[17:07:34] [Server thread/INFO]: [firephoenix749: Triggered [Home]]
-[17:08:01] [Server thread/INFO]: <firephoenix749> see ya!
-[17:08:02] [Server thread/INFO]: firephoenix749 lost connection: Disconnected
-[17:08:02] [Server thread/INFO]: firephoenix749 left the game
-[17:08:40] [Server thread/INFO]: [airphoenix749: Triggered [Set Home]]
-[17:08:49] [Server thread/INFO]: airphoenix749 lost connection: Disconnected
-[17:08:49] [Server thread/INFO]: airphoenix749 left the game
-[17:09:46] [Server thread/INFO]: [Peggl3: Triggered [Home]]
-[17:12:28] [Server thread/INFO]: [Peggl3: Set own game mode to Spectator Mode]
-[17:21:23] [Server thread/INFO]: [Peggl3: Set own game mode to Survival Mode]
-[17:21:25] [Server thread/INFO]: Peggl3 lost connection: Disconnected
-[17:21:25] [Server thread/INFO]: Peggl3 left the game
-[17:21:38] [Server thread/INFO]: Stopping the server
-[17:21:38] [Server thread/INFO]: Stopping server
-[17:21:38] [Server thread/INFO]: Saving players
-[17:21:38] [Server thread/INFO]: Saving worlds
-[17:21:40] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
-[17:21:44] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_nether
-[17:21:44] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_end
-[17:21:44] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
-[17:21:44] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
-[17:21:44] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
-[17:21:44] [Server thread/INFO]: ThreadedAnvilChunkStorage: All dimensions are saved
+[20:30:16] [ServerMain/INFO]: Environment: authHost='https://authserver.mojang.com', accountsHost='https://api.mojang.com', sessionHost='https://sessionserver.mojang.com', servicesHost='https://api.minecraftservices.com', name='PROD'
+[20:30:17] [ServerMain/WARN]: Missing metadata in pack file/VanillaTweaks_d232763_UNZIP_ME.zip
+[20:30:19] [ServerMain/WARN]: Found loot table element validation problem in {loot_tables:minecraft:entities/ender_dragon}.pools[1].entries[0]: Unknown loot table called minecraft:entities/reference/mmh/ender_dragon
+[20:30:19] [ServerMain/WARN]: Found loot table element validation problem in {loot_tables:minecraft:entities/bat}.pools[1].entries[0]: Unknown loot table called minecraft:entities/reference/mmh/bat
+[20:30:19] [ServerMain/WARN]: Found loot table element validation problem in {loot_tables:minecraft:entities/shulker}.pools[1].entries[0]: Unknown loot table called minecraft:entities/reference/mmh/shulker
+[20:30:19] [ServerMain/INFO]: Loaded 7 recipes
+[20:30:20] [ServerMain/INFO]: Loaded 1290 advancements
+[20:30:20] [Server thread/INFO]: Starting minecraft server version 1.20.1
+[20:30:20] [Server thread/INFO]: Loading properties
+[20:30:20] [Server thread/INFO]: Default game type: SURVIVAL
+[20:30:20] [Server thread/INFO]: Generating keypair
+[20:30:20] [Server thread/INFO]: Starting Minecraft server on *:25565
+[20:30:20] [Server thread/INFO]: Using epoll channel type
+[20:30:21] [Server thread/INFO]: Preparing level "world"
+[20:30:29] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
+[20:30:34] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[20:30:34] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[20:30:34] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[20:30:34] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[20:30:34] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[20:30:34] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[20:30:34] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[20:30:34] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[20:30:34] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[20:30:34] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[20:30:34] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[20:30:34] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[20:30:35] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[20:30:35] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[20:30:36] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[20:30:36] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[20:30:37] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[20:30:37] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[20:30:38] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[20:30:39] [Server thread/INFO]: Time elapsed: 9949 ms
+[20:30:39] [Server thread/INFO]: Done (17.937s)! For help, type "help"
+[20:30:41] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2004ms or 40 ticks behind
+[20:30:44] [Server thread/WARN]: UUID of added entity already exists: bux['Armor Stand'/268, l='ServerLevel[world]', x=22068880.50, y=1000.00, z=-4185487.50]
+[20:30:45] [User Authenticator #1/INFO]: UUID of player Peggl3 is 8dcdea05-b427-4965-9d23-5b07bf2efd3f
+[20:30:46] [Server thread/INFO]: Peggl3[/70.119.67.35:58008] logged in with entity id 273 at (-56.27425979471937, 127.9375, -25.377098044105825)
+[20:30:46] [Server thread/INFO]: Peggl3 joined the game
+[20:31:56] [User Authenticator #2/INFO]: UUID of player avesdaves is 734c983b-d6e5-4564-b72a-3fbaaca0ebff
+[20:31:56] [Server thread/INFO]: avesdaves[/136.62.152.216:61338] logged in with entity id 481 at (153.5231692346601, 250.0, 1121.0266923788229)
+[20:31:56] [Server thread/INFO]: avesdaves joined the game
+[20:31:58] [Server thread/WARN]: Peggl3 moved too quickly! -9.201675510650933,4.4375,0.30600378261230965
+[20:31:58] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2008ms or 40 ticks behind
+[20:32:49] [Server thread/INFO]: [avesdaves: Triggered [Home]]
+[20:33:30] [Server thread/INFO]: [Peggl3: Gave 1 [Ender Chest] to Peggl3]
+[20:33:57] [Server thread/INFO]: [avesdaves: Set own game mode to Creative Mode]
+[20:35:11] [Server thread/INFO]: [avesdaves: Teleported avesdaves to Peggl3]
+[20:35:40] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2012ms or 40 ticks behind
+[20:35:48] [Server thread/INFO]: [avesdaves: Teleported avesdaves to Peggl3]
+[20:38:17] [Server thread/WARN]: Mismatch in destroy block pos: gu{x=103, y=78, z=127} gu{x=104, y=76, z=127}
+[20:38:58] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 6558ms or 131 ticks behind
+[20:39:19] [Server thread/INFO]: [Peggl3: Set own game mode to Spectator Mode]
+[20:39:27] [Server thread/INFO]: [avesdaves: Set own game mode to Spectator Mode]
+[20:39:46] [Server thread/INFO]: [Peggl3: Set own game mode to Survival Mode]
+[20:39:50] [Server thread/INFO]: [avesdaves: Set own game mode to Creative Mode]
+[20:40:44] [Server thread/INFO]: [Peggl3: Set own game mode to Spectator Mode]
+[20:40:45] [Server thread/INFO]: [Peggl3: Teleported Peggl3 to avesdaves]
+[20:41:17] [Server thread/INFO]: [Peggl3: Set own game mode to Survival Mode]
+[20:43:35] [Server thread/INFO]: [Peggl3: Set own game mode to Spectator Mode]
+[20:43:52] [Server thread/INFO]: [Peggl3: Triggered [Home]]
+[20:44:00] [Server thread/INFO]: [Peggl3: Set own game mode to Survival Mode]
+[20:44:14] [Server thread/INFO]: [Peggl3: Set own game mode to Spectator Mode]
+[20:44:33] [Server thread/INFO]: [Peggl3: Set own game mode to Survival Mode]
+[20:49:58] [Server thread/INFO]: [Peggl3: Triggered [Home]]
+[20:51:11] [Server thread/INFO]: [Peggl3: Triggered [tpa] (set value to 2)]
+[20:51:13] [Server thread/INFO]: [Peggl3: Set own game mode to Creative Mode]
+[20:51:14] [Server thread/INFO]: [avesdaves: Triggered [tpaccept]]
+[20:53:15] [Server thread/INFO]: [avesdaves: Teleported avesdaves to Peggl3]
+[20:55:51] [Server thread/INFO]: [Peggl3: Gave 1 [Stripped Oak Log] to Peggl3]
+[21:00:05] [Server thread/INFO]: [Peggl3: Gave 1 [Oak Slab] to Peggl3]
+[21:00:27] [Server thread/INFO]: [Peggl3: Gave 1 [Oak Fence] to Peggl3]
+[21:03:13] [Server thread/INFO]: [Peggl3: Gave 1 [Spruce Slab] to Peggl3]
+[21:03:17] [Server thread/INFO]: [Peggl3: Gave 1 [Spruce Stairs] to Peggl3]
+[21:09:52] [Server thread/INFO]: [Peggl3: Gave 1 [Spruce Fence] to Peggl3]
+[21:10:47] [Server thread/INFO]: [Peggl3: Successfully filled 1 block(s)]
+[21:11:04] [Server thread/INFO]: [Peggl3: Successfully filled 76 block(s)]
+[21:11:31] [Server thread/INFO]: [Peggl3: Gave 1 [Ladder] to Peggl3]
+[21:14:45] [Server thread/INFO]: [avesdaves: Teleported avesdaves to Peggl3]
+[21:16:09] [Server thread/INFO]: [Peggl3: Gave 1 [Chest] to Peggl3]
+[21:16:14] [Server thread/INFO]: [Peggl3: Gave 1 [Barrel] to Peggl3]
+[21:16:48] [Server thread/INFO]: [Peggl3: Gave 1 [Grindstone] to Peggl3]
+[21:16:58] [Server thread/INFO]: [Peggl3: Gave 1 [Flower Pot] to Peggl3]
+[21:17:03] [Server thread/INFO]: [Peggl3: Gave 1 [Spruce Sapling] to Peggl3]
+[21:18:15] [Server thread/INFO]: [Peggl3: Gave 1 [Spruce Planks] to Peggl3]
+[21:21:13] [Server thread/INFO]: [Peggl3: Gave 1 [Lantern] to Peggl3]
+[21:22:03] [User Authenticator #3/INFO]: UUID of player airphoenix749 is 4cc80f7d-4b05-435a-82b2-3be6800575fa
+[21:22:03] [Server thread/INFO]: airphoenix749[/98.97.83.148:23461] logged in with entity id 10610 at (-4.596283289831065, 97.0, -49.02373065314708)
+[21:22:03] [Server thread/INFO]: airphoenix749 joined the game
+[21:22:08] [Server thread/INFO]: <Peggl3> hey matt!
+[21:22:27] [Server thread/INFO]: [Peggl3: Set own game mode to Survival Mode]
+[21:22:31] [Server thread/INFO]: [Peggl3: Triggered [Home]]
+[21:22:47] [User Authenticator #4/INFO]: UUID of player firephoenix749 is baf1a5ea-f94f-46d5-8395-4620e77717d2
+[21:22:47] [Server thread/INFO]: firephoenix749[/98.97.83.148:28018] logged in with entity id 10914 at (101.91527744673172, 119.0, -125.33217095368495)
+[21:22:47] [Server thread/INFO]: firephoenix749 joined the game
+[21:22:56] [Server thread/INFO]: <Peggl3> hey adam
+[21:23:02] [Server thread/INFO]: <firephoenix749> Ello!
+[21:23:07] [Server thread/INFO]: [Peggl3: Triggered [Back]]
+[21:23:15] [Server thread/INFO]: [Peggl3: Triggered [Home]]
+[21:23:32] [Server thread/INFO]: [Peggl3: Triggered [Back]]
+[21:23:34] [Server thread/INFO]: <firephoenix749> I just messaged u on Google chat but i didn't know you were already on
+[21:23:44] [Server thread/INFO]: <Peggl3> oh I never check my google chat
+[21:24:51] [Server thread/INFO]: [Peggl3: Triggered [Home]]
+[21:25:29] [Server thread/INFO]: [Peggl3: Triggered [Back]]
+[21:26:47] [Server thread/INFO]: <firephoenix749> I have no ideah what to do rn
+[21:26:55] [Server thread/INFO]: <Peggl3> u should build
+[21:26:57] [Server thread/INFO]: <Peggl3> or mine
+[21:26:57] [Server thread/INFO]: <firephoenix749> *ideal
+[21:27:02] [Server thread/INFO]: <avesdaves> lol
+[21:27:03] [Server thread/INFO]: <firephoenix749> *IDEA
+[21:27:05] [Server thread/INFO]: [Peggl3: Triggered [tpa] (set value to 3)]
+[21:27:09] [Server thread/INFO]: [firephoenix749: Triggered [tpaccept]]
+[21:27:22] [Server thread/INFO]: <Peggl3> we need more diamonds
+[21:27:26] [Server thread/INFO]: <firephoenix749> u got shot
+[21:27:28] [Server thread/INFO]: <Peggl3> do u want to go caving?
+[21:27:32] [Server thread/INFO]: <Peggl3> yea
+[21:27:35] [Server thread/INFO]: <firephoenix749> sur
+[21:27:40] [Server thread/INFO]: <Peggl3> okay lets go look for one
+[21:27:52] [Server thread/INFO]: <Peggl3> most of the caves right here have already been searched
+[21:28:05] [Server thread/INFO]: <firephoenix749> did you know that a wood axe does the same amount of damage as a regular diamond sword
+[21:28:40] [Server thread/INFO]: <Peggl3> lol no it doesn't
+[21:28:46] [Server thread/INFO]: <firephoenix749> ya it does
+[21:28:52] [Server thread/INFO]: <Peggl3> wood axes do 3.5 damage and diamond sword does 7
+[21:29:06] [Server thread/INFO]: <Peggl3> oh wait
+[21:29:08] [Server thread/INFO]: <Peggl3> no you're right
+[21:29:13] [Server thread/INFO]: <Peggl3> they both do 3.5
+[21:29:21] [Server thread/INFO]: <Peggl3> but the wood axe is a lot slower
+[21:29:22] [Server thread/INFO]: <firephoenix749> !
+[21:29:25] [Server thread/WARN]: Horse (vehicle of airphoenix749) moved wrongly! 0.480681286242449
+[21:29:25] [Server thread/WARN]: Horse (vehicle of airphoenix749) moved wrongly! 0.4727068507484873
+[21:29:25] [Server thread/WARN]: Horse (vehicle of airphoenix749) moved wrongly! 0.4733600328606755
+[21:29:25] [Server thread/WARN]: Horse (vehicle of airphoenix749) moved wrongly! 0.46652046977041195
+[21:29:25] [Server thread/WARN]: Horse (vehicle of airphoenix749) moved wrongly! 0.4684862726426591
+[21:29:26] [Server thread/WARN]: Horse (vehicle of airphoenix749) moved wrongly! 0.4868570336102964
+[21:29:26] [Server thread/WARN]: Horse (vehicle of airphoenix749) moved wrongly! 0.48280799988617495
+[21:29:26] [Server thread/WARN]: Horse (vehicle of airphoenix749) moved wrongly! 0.2530263289579926
+[21:29:26] [Server thread/WARN]: Horse (vehicle of airphoenix749) moved wrongly! 0.3950975760472595
+[21:29:27] [Server thread/WARN]: Horse (vehicle of airphoenix749) moved wrongly! 0.4092917350992571
+[21:29:27] [Server thread/WARN]: Horse (vehicle of airphoenix749) moved wrongly! 0.374438163656162
+[21:29:27] [Server thread/WARN]: Horse (vehicle of airphoenix749) moved wrongly! 0.6233287435576855
+[21:29:33] [Server thread/INFO]: <Peggl3> lol my bad
+[21:30:13] [Server thread/INFO]: <Peggl3> I forget that they changed the combat up so much when they changed it so you can't just swing your sword like crazy
+[21:30:47] [Server thread/INFO]: <firephoenix749> brb
+[21:30:53] [Server thread/INFO]: <avesdaves> u got destroyed dan
+[21:30:57] [Server thread/INFO]: <Peggl3> yea
+[21:31:14] [Server thread/INFO]: <firephoenix749> were are u
+[21:31:17] [Server thread/INFO]: <Peggl3> tp to me
+[21:31:17] [Server thread/INFO]: <avesdaves> buikding
+[21:31:29] [Server thread/INFO]: <firephoenix749> in a sec
+[21:31:46] [Server thread/INFO]: [Peggl3: Triggered [Home]]
+[21:32:05] [Server thread/INFO]: [firephoenix749: Triggered [tpa] (set value to 1)]
+[21:32:09] [Server thread/INFO]: <Peggl3> one sec
+[21:33:07] [Server thread/INFO]: [Peggl3: Triggered [Home]]
+[21:33:14] [Server thread/INFO]: <Peggl3> nvm I lost the tp place
+[21:33:17] [Server thread/INFO]: <avesdaves> noooo
+[21:33:21] [Server thread/INFO]: <Peggl3> why don't you find a cave and then I'll tp to you adam
+[21:33:28] [Server thread/INFO]: [Peggl3: Triggered [tpa] (set value to 2)]
+[21:33:34] [Server thread/INFO]: [avesdaves: Triggered [tpaccept]]
+[21:33:37] [Server thread/INFO]: [firephoenix749: Triggered [Home]]
+[21:33:47] [Server thread/INFO]: <firephoenix749> i know where a small cave is
+[21:34:16] [Server thread/INFO]: [Peggl3: Successfully filled 288 block(s)]
+[21:34:21] [Server thread/INFO]: [Peggl3: Successfully filled 340 block(s)]
+[21:34:42] [Server thread/INFO]: <firephoenix749> k
+[21:34:46] [Server thread/INFO]: [Peggl3: Triggered [tpa] (set value to 3)]
+[21:34:50] [Server thread/INFO]: [firephoenix749: Triggered [tpaccept]]
+[21:35:05] [Server thread/INFO]: <Peggl3> oh this one has already been explored
+[21:35:13] [Server thread/INFO]: <firephoenix749> yah, sorry
+[21:35:30] [Server thread/INFO]: [Peggl3: Triggered [Home]]
+[21:35:32] [Server thread/INFO]: <Peggl3> no worries
+[21:35:36] [Server thread/INFO]: [firephoenix749: Triggered [Home]]
+[21:35:36] [Server thread/INFO]: <Peggl3> I need more food tbh
+[21:35:54] [Server thread/INFO]: [Peggl3: Set own game mode to Spectator Mode]
+[21:35:56] [Server thread/INFO]: [Peggl3: Teleported Peggl3 to avesdaves]
+[21:36:09] [Server thread/INFO]: [Peggl3: Triggered [Home]]
+[21:36:14] [Server thread/INFO]: [Peggl3: Set own game mode to Survival Mode]
+[21:37:18] [Server thread/INFO]: firephoenix749 fell from a high place
+[21:38:02] [Server thread/INFO]: [firephoenix749: Triggered [Home]]
+[21:40:59] [Server thread/WARN]: Horse (vehicle of airphoenix749) moved wrongly! 0.4420663336528863
+[21:41:00] [Server thread/WARN]: Horse (vehicle of airphoenix749) moved wrongly! 0.5
+[21:42:05] [Server thread/INFO]: [firephoenix749: Triggered [Home]]
+[21:42:14] [Server thread/INFO]: Peggl3 fell from a high place
+[21:42:23] [Server thread/INFO]: [Peggl3: Teleported Peggl3 to 143.500000, 70.000000, 1123.500000]
+[21:43:52] [Server thread/INFO]: <Peggl3> @firephoenix tp to me
+[21:43:55] [Server thread/INFO]: <Peggl3> I found a cave
+[21:44:20] [Server thread/INFO]: [firephoenix749: Triggered [tpa] (set value to 1)]
+[21:44:21] [Server thread/INFO]: [Peggl3: Triggered [tpaccept]]
+[21:44:53] [Server thread/INFO]: [airphoenix749: Triggered [Home]]
+[21:45:20] [Server thread/INFO]: <Peggl3> don't break spawner
+[21:45:41] [Server thread/INFO]: <airphoenix749> ok
+[21:45:59] [Server thread/INFO]: <firephoenix749> I took all the good stuff
+[21:46:10] [Server thread/INFO]: <Peggl3> that's cool, I'm going to turn the spawner into a bone farm
+[21:46:40] [Server thread/INFO]: [Peggl3: Triggered [tpa] (set value to 2)]
+[21:46:42] [Server thread/INFO]: [avesdaves: Triggered [tpaccept]]
+[21:46:55] [Server thread/INFO]: [firephoenix749: Triggered [tpa] (set value to 1)]
+[21:46:58] [Server thread/INFO]: [Peggl3: Triggered [Back]]
+[21:47:00] [Server thread/INFO]: [Peggl3: Triggered [tpaccept]]
+[21:48:58] [Server thread/INFO]: [airphoenix749: Triggered [Home]]
+[21:49:58] [Server thread/INFO]: [airphoenix749: Triggered [Home]]
+[21:50:41] [Server thread/INFO]: [airphoenix749: Triggered [Set Home]]
+[21:50:43] [Server thread/INFO]: <firephoenix749> !
+[21:50:47] [Server thread/INFO]: <Peggl3> lol
+[21:50:48] [Server thread/INFO]: firephoenix749 lost connection: Disconnected
+[21:50:48] [Server thread/INFO]: firephoenix749 left the game
+[21:50:57] [Server thread/INFO]: [Peggl3: Triggered [Home]]
+[21:51:02] [Server thread/INFO]: [avesdaves: Triggered [Home]]
+[21:51:22] [Server thread/INFO]: [avesdaves: Set own game mode to Survival Mode]
+[21:51:45] [Server thread/INFO]: [airphoenix749: Triggered [Home]]
+[21:52:11] [User Authenticator #5/INFO]: UUID of player firephoenix749 is baf1a5ea-f94f-46d5-8395-4620e77717d2
+[21:52:11] [Server thread/INFO]: firephoenix749[/98.97.83.148:10310] logged in with entity id 29388 at (164.4759593463682, -32.0, 1112.1081419329876)
+[21:52:11] [Server thread/INFO]: firephoenix749 joined the game
+[21:52:16] [Server thread/INFO]: <Peggl3> oh welcome back
+[21:52:21] [Server thread/INFO]: <firephoenix749> wanna do a video chat?
+[21:52:26] [Server thread/INFO]: <firephoenix749> google chat?
+[21:52:44] [Server thread/INFO]: <Peggl3> sure
+[21:52:55] [Server thread/INFO]: <avesdaves> bye adam i have to go <3
+[21:53:01] [Server thread/INFO]: <avesdaves> ill be back!!
+[21:53:23] [Server thread/INFO]: avesdaves lost connection: Disconnected
+[21:53:23] [Server thread/INFO]: avesdaves left the game
+[21:54:18] [Server thread/INFO]: [airphoenix749: Triggered [Home]]
+[21:54:53] [Server thread/INFO]: <Peggl3> join da call
+[21:54:57] [Server thread/INFO]: [Peggl3: Triggered [Home]]
+[21:55:44] [Server thread/INFO]: [firephoenix749: Triggered [Home]]
+[21:56:55] [Server thread/INFO]: [Peggl3: Teleported Peggl3 to airphoenix749]
+[21:56:59] [Server thread/INFO]: <Peggl3> hey
+[21:57:31] [Server thread/INFO]: [Peggl3: Gave 1 [Iron Pickaxe] to airphoenix749]
+[21:58:07] [Server thread/INFO]: [Peggl3: Teleported Peggl3 to firephoenix749]
+[21:59:57] [Server thread/INFO]: [Peggl3: Triggered [Home]]
+[21:59:58] [Server thread/INFO]: [firephoenix749: Triggered [tpa] (set value to 1)]
+[22:00:00] [Server thread/INFO]: [Peggl3: Triggered [tpaccept]]
+[22:04:43] [Server thread/WARN]: Horse (vehicle of airphoenix749) moved wrongly! 0.4750398230635504
+[22:04:43] [Server thread/WARN]: Horse (vehicle of airphoenix749) moved wrongly! 0.46519081950187413
+[22:04:43] [Server thread/WARN]: Horse (vehicle of airphoenix749) moved wrongly! 0.45604979720939554
+[22:04:43] [Server thread/WARN]: Horse (vehicle of airphoenix749) moved wrongly! 0.4481240445245369
+[22:04:43] [Server thread/WARN]: Horse (vehicle of airphoenix749) moved wrongly! 0.44233287952005185
+[22:04:44] [Server thread/WARN]: Horse (vehicle of airphoenix749) moved wrongly! 0.9278780961968351
+[22:04:44] [Server thread/WARN]: Horse (vehicle of airphoenix749) moved wrongly! 1.3725909419762488
+[22:04:56] [Server thread/INFO]: [Peggl3: Triggered [Home]]
+[22:05:00] [Server thread/WARN]: Horse (vehicle of airphoenix749) moved wrongly! 0.38776329215285443
+[22:05:00] [Server thread/WARN]: Horse (vehicle of airphoenix749) moved wrongly! 0.34012143171965725
+[22:05:00] [Server thread/WARN]: Horse (vehicle of airphoenix749) moved wrongly! 0.37412336584864114
+[22:05:00] [Server thread/WARN]: Horse (vehicle of airphoenix749) moved wrongly! 0.35491545582092243
+[22:05:01] [Server thread/WARN]: Horse (vehicle of airphoenix749) moved wrongly! 0.3798943763681848
+[22:05:01] [Server thread/WARN]: Horse (vehicle of airphoenix749) moved wrongly! 0.3890887229239226
+[22:05:01] [Server thread/WARN]: Horse (vehicle of airphoenix749) moved wrongly! 0.37868145054955527
+[22:05:01] [Server thread/WARN]: Horse (vehicle of airphoenix749) moved wrongly! 0.374882729343442
+[22:05:01] [Server thread/WARN]: Horse (vehicle of airphoenix749) moved wrongly! 0.37089241643696447
+[22:05:01] [Server thread/WARN]: Horse (vehicle of airphoenix749) moved wrongly! 0.3718223089810291
+[22:05:01] [Server thread/WARN]: Horse (vehicle of airphoenix749) moved wrongly! 0.3682557988876827
+[22:05:01] [Server thread/WARN]: Horse (vehicle of airphoenix749) moved wrongly! 0.3682966275462096
+[22:05:01] [Server thread/WARN]: Horse (vehicle of airphoenix749) moved wrongly! 0.36474700338115884
+[22:05:01] [Server thread/WARN]: Horse (vehicle of airphoenix749) moved wrongly! 0.368300702196926
+[22:05:02] [Server thread/WARN]: Horse (vehicle of airphoenix749) moved wrongly! 0.36467852213755325
+[22:05:02] [Server thread/WARN]: Horse (vehicle of airphoenix749) moved wrongly! 0.36079757693481174
+[22:05:02] [Server thread/WARN]: Horse (vehicle of airphoenix749) moved wrongly! 0.36007733644895
+[22:05:02] [Server thread/WARN]: Horse (vehicle of airphoenix749) moved wrongly! 0.3559242220009535
+[22:05:02] [Server thread/WARN]: Horse (vehicle of airphoenix749) moved wrongly! 0.35169334299244426
+[22:05:02] [Server thread/WARN]: Horse (vehicle of airphoenix749) moved wrongly! 0.3474208537180621
+[22:05:02] [Server thread/WARN]: Horse (vehicle of airphoenix749) moved wrongly! 0.3430545413623629
+[22:05:02] [Server thread/INFO]: [Peggl3: Triggered [Back]]
+[22:05:02] [Server thread/WARN]: Horse (vehicle of airphoenix749) moved wrongly! 0.35476471859205994
+[22:05:02] [Server thread/WARN]: Horse (vehicle of airphoenix749) moved wrongly! 0.3508907613982881
+[22:05:02] [Server thread/WARN]: Horse (vehicle of airphoenix749) moved wrongly! 0.32987731186965075
+[22:05:02] [Server thread/WARN]: Horse (vehicle of airphoenix749) moved wrongly! 0.2580797794764216
+[22:05:03] [Server thread/WARN]: Horse (vehicle of airphoenix749) moved wrongly! 0.4098900112939511
+[22:05:03] [Server thread/WARN]: Horse (vehicle of airphoenix749) moved wrongly! 0.37449058821450004
+[22:05:03] [Server thread/WARN]: Horse (vehicle of airphoenix749) moved wrongly! 0.3884179722522741
+[22:05:03] [Server thread/WARN]: Horse (vehicle of airphoenix749) moved wrongly! 0.8715432518346575
+[22:05:04] [Server thread/WARN]: Horse (vehicle of airphoenix749) moved wrongly! 0.32668441392653946
+[22:05:04] [Server thread/WARN]: Horse (vehicle of airphoenix749) moved wrongly! 0.32282129526883985
+[22:05:04] [Server thread/WARN]: Horse (vehicle of airphoenix749) moved wrongly! 0.3220830446778482
+[22:05:05] [Server thread/WARN]: Horse (vehicle of airphoenix749) moved wrongly! 0.3116603855175111
+[22:05:05] [Server thread/WARN]: Horse (vehicle of airphoenix749) moved wrongly! 0.30276768418305444
+[22:05:05] [Server thread/WARN]: Horse (vehicle of airphoenix749) moved wrongly! 0.30034728849848236
+[22:05:05] [Server thread/WARN]: Horse (vehicle of airphoenix749) moved wrongly! 0.2905399520114358
+[22:05:05] [Server thread/WARN]: Horse (vehicle of airphoenix749) moved wrongly! 0.2903415429762237
+[22:05:05] [Server thread/WARN]: Horse (vehicle of airphoenix749) moved wrongly! 0.7804592303688036
+[22:05:07] [Server thread/WARN]: Horse (vehicle of airphoenix749) moved wrongly! 0.2565269606605014
+[22:05:07] [Server thread/WARN]: Horse (vehicle of airphoenix749) moved wrongly! 0.7082079699806307
+[22:05:21] [Server thread/INFO]: [Peggl3: Triggered [Home]]
+[22:05:26] [Server thread/INFO]: [Peggl3: Triggered [Back]]
+[22:05:50] [Server thread/WARN]: Horse (vehicle of airphoenix749) moved wrongly! 0.4059513494350959
+[22:05:50] [Server thread/WARN]: Horse (vehicle of airphoenix749) moved wrongly! 0.8656660985970177
+[22:06:05] [Server thread/INFO]: [Peggl3: Triggered [Home]]
+[22:06:29] [Server thread/INFO]: [Peggl3: Triggered [Back]]
+[22:06:51] [Server thread/INFO]: [Peggl3: Triggered [Home]]
+[22:07:01] [Server thread/INFO]: [Peggl3: Triggered [Back]]
+[22:07:25] [Server thread/INFO]: [Peggl3: Triggered [Home]]
+[22:07:34] [Server thread/INFO]: [Peggl3: Triggered [Back]]
+[22:08:20] [Server thread/INFO]: [Peggl3: Set own game mode to Spectator Mode]
+[22:08:25] [Server thread/INFO]: [Peggl3: Set own game mode to Survival Mode]
+[22:09:47] [Server thread/INFO]: [Peggl3: Gave 1 [Observer] to Peggl3]
+[22:10:35] [Server thread/INFO]: [Peggl3: Gave 1 [Redstone Comparator] to Peggl3]
+[22:10:35] [Server thread/WARN]: Horse (vehicle of firephoenix749) moved wrongly! 0.38050303993765056
+[22:10:35] [Server thread/WARN]: Horse (vehicle of firephoenix749) moved wrongly! 0.3720747141055867
+[22:10:35] [Server thread/WARN]: Horse (vehicle of firephoenix749) moved wrongly! 0.3784709022490702
+[22:10:35] [Server thread/WARN]: Horse (vehicle of firephoenix749) moved wrongly! 0.37245961035732833
+[22:10:35] [Server thread/WARN]: Horse (vehicle of firephoenix749) moved wrongly! 0.3671912529206658
+[22:10:36] [Server thread/WARN]: Horse (vehicle of firephoenix749) moved wrongly! 0.3758701938462252
+[22:10:36] [Server thread/WARN]: Horse (vehicle of firephoenix749) moved wrongly! 0.37162381294664826
+[22:10:36] [Server thread/WARN]: Horse (vehicle of firephoenix749) moved wrongly! 0.3674744736897182
+[22:10:36] [Server thread/WARN]: Horse (vehicle of firephoenix749) moved wrongly! 0.37223727597251255
+[22:10:36] [Server thread/WARN]: Horse (vehicle of firephoenix749) moved wrongly! 0.3682880090856244
+[22:10:36] [Server thread/WARN]: Horse (vehicle of firephoenix749) moved wrongly! 0.364347048071771
+[22:10:36] [Server thread/WARN]: Horse (vehicle of firephoenix749) moved wrongly! 0.36833141017927673
+[22:10:36] [Server thread/WARN]: Horse (vehicle of firephoenix749) moved wrongly! 0.3683370140084463
+[22:10:36] [Server thread/WARN]: Horse (vehicle of firephoenix749) moved wrongly! 0.3232968208563918
+[22:10:36] [Server thread/WARN]: Horse (vehicle of firephoenix749) moved wrongly! 0.28943696353049475
+[22:10:36] [Server thread/WARN]: Horse (vehicle of firephoenix749) moved wrongly! 0.33183338657959816
+[22:10:36] [Server thread/WARN]: Horse (vehicle of firephoenix749) moved wrongly! 0.325765748013783
+[22:10:37] [Server thread/WARN]: Horse (vehicle of firephoenix749) moved wrongly! 0.3317946299072645
+[22:10:37] [Server thread/WARN]: Horse (vehicle of firephoenix749) moved wrongly! 0.32800522516319397
+[22:10:37] [Server thread/WARN]: Horse (vehicle of firephoenix749) moved wrongly! 0.3243660745742929
+[22:10:37] [Server thread/WARN]: Horse (vehicle of firephoenix749) moved wrongly! 0.3208073219880774
+[22:10:37] [Server thread/WARN]: Horse (vehicle of firephoenix749) moved wrongly! 0.32885273007385685
+[22:10:37] [Server thread/WARN]: Horse (vehicle of firephoenix749) moved wrongly! 0.3053635642062211
+[22:10:38] [Server thread/WARN]: Horse (vehicle of firephoenix749) moved wrongly! 0.4913473814138598
+[22:10:38] [Server thread/WARN]: Horse (vehicle of firephoenix749) moved wrongly! 0.4870928547683464
+[22:10:38] [Server thread/WARN]: Horse (vehicle of firephoenix749) moved wrongly! 0.4828161218274154
+[22:10:38] [Server thread/WARN]: Horse (vehicle of firephoenix749) moved wrongly! 0.47852750674055144
+[22:10:38] [Server thread/WARN]: Horse (vehicle of firephoenix749) moved wrongly! 0.47423253375430363
+[22:10:38] [Server thread/WARN]: Horse (vehicle of firephoenix749) moved wrongly! 0.48696183689835415
+[22:10:39] [Server thread/WARN]: Horse (vehicle of firephoenix749) moved wrongly! 0.4821308471347514
+[22:10:39] [Server thread/WARN]: Horse (vehicle of firephoenix749) moved wrongly! 0.4773572157338286
+[22:10:39] [Server thread/WARN]: Horse (vehicle of firephoenix749) moved wrongly! 0.4724481358768866
+[22:10:39] [Server thread/WARN]: Horse (vehicle of firephoenix749) moved wrongly! 0.47470953093331403
+[22:10:39] [Server thread/WARN]: Horse (vehicle of firephoenix749) moved wrongly! 0.47293852715383
+[22:10:39] [Server thread/WARN]: Horse (vehicle of firephoenix749) moved wrongly! 0.46239575875620176
+[22:10:39] [Server thread/WARN]: Horse (vehicle of firephoenix749) moved wrongly! 0.45038478643735225
+[22:11:26] [Server thread/INFO]: [Peggl3: Gave 1 [Redstone Dust] to Peggl3]
+[22:11:29] [Server thread/INFO]: [Peggl3: Gave 3 [Redstone Dust] to Peggl3]
+[22:13:06] [Server thread/INFO]: [Peggl3: Gave 64 [Redstone Dust] to Peggl3]
+[22:14:09] [Server thread/INFO]: [Peggl3: Gave 1 [Dispenser] to Peggl3]
+[22:14:38] [Server thread/INFO]: [Peggl3: Gave 1 [Lava Bucket] to Peggl3]
+[22:15:21] [Server thread/INFO]: [Peggl3: Changed the block at -79, 116, -23]
+[22:15:55] [Server thread/INFO]: [Peggl3: Gave 1 [Oak Trapdoor] to Peggl3]
+[22:16:03] [Server thread/WARN]: firephoenix749 moved too quickly! -9.272413362380453,-1.0,3.6493901836513913
+[22:16:20] [Server thread/INFO]: [firephoenix749: Triggered [Home]]
+[22:17:31] [Server thread/INFO]: [Peggl3: Summoned new Chicken]
+[22:17:34] [Server thread/INFO]: [Peggl3: Summoned new Chicken]
+[22:18:08] [Server thread/INFO]: [Peggl3: Gave 1 [Oak Fence] to Peggl3]
+[22:18:22] [Server thread/INFO]: [Peggl3: Summoned new Chicken]
+[22:18:23] [Server thread/INFO]: [Peggl3: Summoned new Chicken]
+[22:18:31] [Server thread/INFO]: [Peggl3: Summoned new Chicken]
+[22:18:33] [Server thread/INFO]: [Peggl3: Summoned new Chicken]
+[22:18:42] [Server thread/INFO]: [Peggl3: Triggered [Home]]
+[22:20:12] [Server thread/INFO]: [Peggl3: Summoned new Chicken]
+[22:20:14] [Server thread/INFO]: [Peggl3: Summoned new Chicken]
+[22:20:15] [Server thread/INFO]: [Peggl3: Summoned new Chicken]
+[22:20:16] [Server thread/INFO]: [Peggl3: Summoned new Chicken]
+[22:20:21] [Server thread/INFO]: [Peggl3: Summoned new Chicken]
+[22:20:30] [Server thread/INFO]: [Peggl3: Summoned new Chicken]
+[22:20:34] [Server thread/INFO]: [Peggl3: Summoned new Chicken]
+[22:20:40] [Server thread/INFO]: [Peggl3: Summoned new Chicken]
+[22:20:43] [Server thread/INFO]: [Peggl3: Summoned new Chicken]
+[22:21:20] [Server thread/INFO]: [Peggl3: Summoned new Chicken]
+[22:21:29] [Server thread/INFO]: [Peggl3: Summoned new Chicken]
+[22:21:34] [Server thread/INFO]: [Peggl3: Summoned new Chicken]
+[22:21:38] [Server thread/INFO]: [Peggl3: Summoned new Chicken]
+[22:21:41] [Server thread/INFO]: [Peggl3: Summoned new Chicken]
+[22:21:51] [Server thread/INFO]: [Peggl3: Summoned new Chicken]
+[22:21:53] [Server thread/INFO]: [Peggl3: Summoned new Chicken]
+[22:21:55] [Server thread/INFO]: [Peggl3: Summoned new Chicken]
+[22:21:56] [Server thread/INFO]: [Peggl3: Summoned new Chicken]
+[22:21:56] [Server thread/INFO]: [Peggl3: Summoned new Chicken]
+[22:21:57] [Server thread/INFO]: [Peggl3: Summoned new Chicken]
+[22:21:58] [Server thread/INFO]: [Peggl3: Summoned new Chicken]
+[22:21:58] [Server thread/INFO]: [Peggl3: Summoned new Chicken]
+[22:21:59] [Server thread/INFO]: [Peggl3: Summoned new Chicken]
+[22:22:00] [Server thread/INFO]: [Peggl3: Summoned new Chicken]
+[22:22:01] [Server thread/INFO]: [Peggl3: Summoned new Chicken]
+[22:22:01] [Server thread/INFO]: [Peggl3: Summoned new Chicken]
+[22:22:05] [Server thread/INFO]: [Peggl3: Summoned new Chicken]
+[22:22:06] [Server thread/INFO]: [Peggl3: Summoned new Chicken]
+[22:22:06] [Server thread/INFO]: [Peggl3: Summoned new Chicken]
+[22:22:07] [Server thread/INFO]: [Peggl3: Summoned new Chicken]
+[22:22:07] [Server thread/INFO]: [Peggl3: Summoned new Chicken]
+[22:22:08] [Server thread/INFO]: [Peggl3: Summoned new Chicken]
+[22:22:12] [Server thread/INFO]: [Peggl3: Summoned new Chicken]
+[22:22:13] [Server thread/INFO]: [Peggl3: Summoned new Chicken]
+[22:22:13] [Server thread/INFO]: [Peggl3: Summoned new Chicken]
+[22:22:14] [Server thread/INFO]: [Peggl3: Summoned new Chicken]
+[22:22:15] [Server thread/INFO]: [Peggl3: Summoned new Chicken]
+[22:22:49] [Server thread/INFO]: [Peggl3: Summoned new Chicken]
+[22:22:50] [Server thread/INFO]: [Peggl3: Summoned new Chicken]
+[22:22:51] [Server thread/INFO]: [Peggl3: Summoned new Chicken]
+[22:22:51] [Server thread/INFO]: [Peggl3: Summoned new Chicken]
+[22:22:52] [Server thread/INFO]: [Peggl3: Summoned new Chicken]
+[22:22:53] [Server thread/INFO]: [Peggl3: Summoned new Chicken]
+[22:22:53] [Server thread/INFO]: [Peggl3: Summoned new Chicken]
+[22:23:05] [Server thread/INFO]: [Peggl3: Triggered [Home]]
+[22:23:45] [Server thread/INFO]: airphoenix749 hit the ground too hard whilst trying to escape Pillager
+[22:23:57] [Server thread/INFO]: [Peggl3: Set own game mode to Spectator Mode]
+[22:24:24] [Server thread/INFO]: [Peggl3: Set own game mode to Survival Mode]
+[22:27:53] [Server thread/WARN]: Horse (vehicle of airphoenix749) moved wrongly! 0.28508770532205574
+[22:27:53] [Server thread/WARN]: Horse (vehicle of airphoenix749) moved wrongly! 0.2685202522451746
+[22:27:53] [Server thread/WARN]: Horse (vehicle of airphoenix749) moved wrongly! 0.25046046427557656
+[22:27:53] [Server thread/WARN]: Horse (vehicle of airphoenix749) moved wrongly! 0.26109342546033076
+[22:27:53] [Server thread/WARN]: Horse (vehicle of airphoenix749) moved wrongly! 0.25251958647833916
+[22:27:53] [Server thread/WARN]: Horse (vehicle of airphoenix749) moved wrongly! 0.7430432940372853
+[22:27:55] [Server thread/WARN]: Horse (vehicle of airphoenix749) moved wrongly! 0.4200174647250501
+[22:27:55] [Server thread/WARN]: Horse (vehicle of airphoenix749) moved wrongly! 0.8966834022799433
+[22:27:57] [Server thread/WARN]: Horse (vehicle of airphoenix749) moved wrongly! 0.29918754885467
+[22:27:57] [Server thread/WARN]: Horse (vehicle of airphoenix749) moved wrongly! 0.29415865211164594
+[22:27:57] [Server thread/WARN]: Horse (vehicle of airphoenix749) moved wrongly! 0.28883011020838545
+[22:27:57] [Server thread/WARN]: Horse (vehicle of airphoenix749) moved wrongly! 0.283341234154161
+[22:27:57] [Server thread/WARN]: Horse (vehicle of airphoenix749) moved wrongly! 0.28942013729412963
+[22:27:57] [Server thread/WARN]: Horse (vehicle of airphoenix749) moved wrongly! 0.28098004230678875
+[22:27:57] [Server thread/WARN]: Horse (vehicle of airphoenix749) moved wrongly! 0.2779578332280277
+[22:27:57] [Server thread/WARN]: Horse (vehicle of airphoenix749) moved wrongly! 0.2681307423128878
+[22:27:57] [Server thread/WARN]: Horse (vehicle of airphoenix749) moved wrongly! 0.2678298654844653
+[22:27:57] [Server thread/WARN]: Horse (vehicle of airphoenix749) moved wrongly! 0.2578890772405664
+[22:27:57] [Server thread/WARN]: Horse (vehicle of airphoenix749) moved wrongly! 0.2578682902448861
+[22:27:58] [Server thread/WARN]: Horse (vehicle of airphoenix749) moved wrongly! 0.25786233870616293
+[22:27:59] [Server thread/WARN]: Horse (vehicle of airphoenix749) moved wrongly! 0.27915618711326573
+[22:27:59] [Server thread/WARN]: Horse (vehicle of airphoenix749) moved wrongly! 0.6059229551423968
+[22:28:00] [Server thread/WARN]: Horse (vehicle of airphoenix749) moved wrongly! 0.9108594010123205
+[22:28:00] [Server thread/WARN]: Horse (vehicle of airphoenix749) moved wrongly! 0.2638513739713133
+[22:28:00] [Server thread/WARN]: Horse (vehicle of airphoenix749) moved wrongly! 0.7192165477188439
+[22:28:38] [Server thread/INFO]: [Peggl3: Triggered [Home]]
+[22:29:31] [Server thread/INFO]: [Peggl3: Triggered [tpa] (set value to 3)]
+[22:29:39] [Server thread/INFO]: [Peggl3: Triggered [tpcancel]]
+[22:30:10] [Server thread/INFO]: airphoenix749 suffocated in a wall
+[22:30:49] [Server thread/INFO]: [Peggl3: Gave 32 [Egg] to Peggl3]
+[22:31:38] [Server thread/INFO]: [Peggl3: Triggered [Home]]
+[22:31:44] [Server thread/INFO]: [Peggl3: Triggered [Back]]
+[22:31:54] [Server thread/INFO]: [Peggl3: Triggered [Home]]
+[22:31:58] [Server thread/INFO]: [Peggl3: Triggered [Back]]
+[22:33:24] [Server thread/WARN]: Player firephoenix749 just tried to change non-editable sign
+[22:34:05] [Server thread/INFO]: <airphoenix749> booooooooooooooooo
+[22:34:32] [Server thread/INFO]: [Peggl3: Gamerule randomTickSpeed is now set to: 100]
+[22:34:43] [Server thread/INFO]: [Peggl3: Gamerule randomTickSpeed is now set to: 3]
+[22:37:32] [Server thread/INFO]: [firephoenix749: Triggered [Home]]
+[22:38:12] [Server thread/INFO]: [firephoenix749: Triggered [Color] (set value to 3)]
+[22:38:30] [Server thread/INFO]: <firephoenix749> ddd
+[22:38:32] [Server thread/INFO]: <Peggl3> ddd
+[22:38:34] [Server thread/INFO]: [firephoenix749: Triggered [Color] (set value to -1)]
+[22:38:59] [Server thread/INFO]: [firephoenix749: Triggered [Color] (set value to -4)]
+[22:39:04] [Server thread/INFO]: <firephoenix749> ddd
+[22:39:27] [Server thread/INFO]: [Peggl3: Triggered [Color] (set value to 5)]
+[22:39:32] [Server thread/INFO]: [firephoenix749: Triggered [Color] (set value to -6)]
+[22:39:34] [Server thread/INFO]: [Peggl3: Triggered [Color] (set value to -7)]
+[22:39:34] [Server thread/INFO]: <firephoenix749> dd
+[22:39:36] [Server thread/INFO]: <Peggl3> woah
+[22:40:01] [Server thread/INFO]: [airphoenix749: Triggered [Color] (set value to 3)]
+[22:40:03] [Server thread/INFO]: [Peggl3: Triggered [Color]]
+[22:40:07] [Server thread/INFO]: [airphoenix749: Triggered [Color] (set value to -3)]
+[22:40:27] [Server thread/INFO]: <airphoenix749> hahahahahahahahahahahahahahahahaha
+[22:40:36] [Server thread/INFO]: [firephoenix749: Triggered [Color] (set value to 3)]
+[22:40:40] [Server thread/INFO]: [firephoenix749: Triggered [Color] (set value to -4)]
+[22:41:12] [Server thread/INFO]: Stopping the server
+[22:41:12] [Server thread/INFO]: Stopping server
+[22:41:12] [Server thread/INFO]: Saving players
+[22:41:12] [Server thread/INFO]: Saving worlds
+[22:41:13] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
+[22:41:18] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_end
+[22:41:18] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_nether
+[22:41:18] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[22:41:18] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[22:41:18] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[22:41:18] [Server thread/INFO]: ThreadedAnvilChunkStorage: All dimensions are saved
