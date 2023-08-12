@@ -1,15 +1,95 @@
-[17:00:10] [ServerMain/INFO]: Environment: authHost='https://authserver.mojang.com', accountsHost='https://api.mojang.com', sessionHost='https://sessionserver.mojang.com', servicesHost='https://api.minecraftservices.com', name='PROD'
-[17:00:10] [ServerMain/WARN]: Missing metadata in pack file/VanillaTweaks_d232763_UNZIP_ME.zip
-[17:00:10] [ServerMain/INFO]: Found new data pack file/timber v2.1.6 (MC 1.20.x).zip, loading it automatically
-[17:00:13] [ServerMain/WARN]: Found loot table element validation problem in {loot_tables:minecraft:entities/ender_dragon}.pools[1].entries[0]: Unknown loot table called minecraft:entities/reference/mmh/ender_dragon
-[17:00:13] [ServerMain/WARN]: Found loot table element validation problem in {loot_tables:minecraft:entities/bat}.pools[1].entries[0]: Unknown loot table called minecraft:entities/reference/mmh/bat
-[17:00:13] [ServerMain/WARN]: Found loot table element validation problem in {loot_tables:minecraft:entities/shulker}.pools[1].entries[0]: Unknown loot table called minecraft:entities/reference/mmh/shulker
-[17:00:13] [ServerMain/INFO]: Loaded 7 recipes
-[17:00:13] [ServerMain/INFO]: Loaded 1290 advancements
-[17:00:14] [Server thread/INFO]: Starting minecraft server version 1.20.1
-[17:00:14] [Server thread/INFO]: Loading properties
-[17:00:14] [Server thread/INFO]: Default game type: SURVIVAL
-[17:00:14] [Server thread/INFO]: Generating keypair
-[17:00:14] [Server thread/INFO]: Starting Minecraft server on *:25565
-[17:00:14] [Server thread/INFO]: Using epoll channel type
-[17:00:14] [Server thread/INFO]: Preparing level "world"
+[17:01:37] [ServerMain/INFO]: Environment: authHost='https://authserver.mojang.com', accountsHost='https://api.mojang.com', sessionHost='https://sessionserver.mojang.com', servicesHost='https://api.minecraftservices.com', name='PROD'
+[17:01:38] [ServerMain/WARN]: Missing metadata in pack file/VanillaTweaks_d232763_UNZIP_ME.zip
+[17:01:40] [ServerMain/WARN]: Found loot table element validation problem in {loot_tables:minecraft:entities/ender_dragon}.pools[1].entries[0]: Unknown loot table called minecraft:entities/reference/mmh/ender_dragon
+[17:01:40] [ServerMain/WARN]: Found loot table element validation problem in {loot_tables:minecraft:entities/bat}.pools[1].entries[0]: Unknown loot table called minecraft:entities/reference/mmh/bat
+[17:01:40] [ServerMain/WARN]: Found loot table element validation problem in {loot_tables:minecraft:entities/shulker}.pools[1].entries[0]: Unknown loot table called minecraft:entities/reference/mmh/shulker
+[17:01:40] [ServerMain/INFO]: Loaded 7 recipes
+[17:01:40] [ServerMain/INFO]: Loaded 1290 advancements
+[17:01:41] [Server thread/INFO]: Starting minecraft server version 1.20.1
+[17:01:41] [Server thread/INFO]: Loading properties
+[17:01:41] [Server thread/INFO]: Default game type: SURVIVAL
+[17:01:41] [Server thread/INFO]: Generating keypair
+[17:01:41] [Server thread/INFO]: Starting Minecraft server on *:25565
+[17:01:41] [Server thread/INFO]: Using epoll channel type
+[17:01:42] [Server thread/INFO]: Preparing level "world"
+[17:01:43] [User Authenticator #1/INFO]: UUID of player airphoenix749 is 4cc80f7d-4b05-435a-82b2-3be6800575fa
+[17:01:44] [User Authenticator #2/INFO]: UUID of player firephoenix749 is baf1a5ea-f94f-46d5-8395-4620e77717d2
+[17:01:50] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
+[17:01:56] [User Authenticator #3/INFO]: UUID of player airphoenix749 is 4cc80f7d-4b05-435a-82b2-3be6800575fa
+[17:01:57] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[17:01:57] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[17:01:57] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[17:01:57] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[17:01:57] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[17:01:57] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[17:01:57] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[17:01:57] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[17:01:57] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[17:01:57] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[17:01:57] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[17:01:57] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[17:01:57] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[17:01:57] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[17:01:57] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[17:01:57] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[17:01:58] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[17:01:58] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[17:01:59] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[17:02:00] [Server thread/INFO]: Time elapsed: 10515 ms
+[17:02:00] [Server thread/INFO]: Done (18.632s)! For help, type "help"
+[17:02:01] [Server thread/INFO]: com.mojang.authlib.GameProfile@13ad4ed6[id=baf1a5ea-f94f-46d5-8395-4620e77717d2,name=firephoenix749,properties={textures=[com.mojang.authlib.properties.Property@dd1683b]},legacy=false] (/98.97.83.148:37586) lost connection: Disconnected
+[17:02:01] [Server thread/INFO]: com.mojang.authlib.GameProfile@313819ef[id=4cc80f7d-4b05-435a-82b2-3be6800575fa,name=airphoenix749,properties={textures=[com.mojang.authlib.properties.Property@53639ce1]},legacy=false] (/98.97.83.148:57997) lost connection: Disconnected
+[17:02:01] [Server thread/INFO]: airphoenix749[/98.97.83.148:53004] logged in with entity id 328 at (1.6440096627461778, 103.0, -43.818961808664596)
+[17:02:01] [Server thread/INFO]: airphoenix749 joined the game
+[17:02:03] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2151ms or 43 ticks behind
+[17:02:04] [User Authenticator #4/INFO]: UUID of player firephoenix749 is baf1a5ea-f94f-46d5-8395-4620e77717d2
+[17:02:04] [Server thread/INFO]: firephoenix749[/98.97.83.148:8775] logged in with entity id 334 at (102.21702485251437, 119.0, -122.67818058668568)
+[17:02:04] [Server thread/INFO]: firephoenix749 joined the game
+[17:02:07] [Server thread/WARN]: UUID of added entity already exists: bux['Armor Stand'/368, l='ServerLevel[world]', x=22068880.50, y=1000.00, z=-4185487.50]
+[17:02:10] [User Authenticator #5/INFO]: UUID of player Peggl3 is 8dcdea05-b427-4965-9d23-5b07bf2efd3f
+[17:02:10] [Server thread/INFO]: Peggl3[/70.119.67.35:40640] logged in with entity id 494 at (50.66728007249904, 88.0, -34.45471784936098)
+[17:02:10] [Server thread/INFO]: Peggl3 joined the game
+[17:02:15] [Server thread/INFO]: <Peggl3> ello
+[17:02:22] [Server thread/INFO]: <firephoenix749> ello
+[17:02:23] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 5003ms or 100 ticks behind
+[17:02:49] [Server thread/INFO]: <Peggl3> timber (what you called auto tree mine) is turned on now
+[17:04:22] [Server thread/INFO]: [Peggl3: Executed 17 command(s) from function 'timber:help']
+[17:05:25] [Server thread/INFO]: <firephoenix749> i am gonna go test TREE AUTO MINE
+[17:05:32] [Server thread/INFO]: <Peggl3> okay!
+[17:05:51] [Server thread/INFO]: <firephoenix749> hehehehehe
+[17:06:08] [Server thread/INFO]: <firephoenix749> I have to get off soon as in like 2 mins
+[17:06:14] [Server thread/INFO]: firephoenix749 lost connection: Disconnected
+[17:06:14] [Server thread/INFO]: firephoenix749 left the game
+[17:06:16] [User Authenticator #6/INFO]: UUID of player firephoenix749 is baf1a5ea-f94f-46d5-8395-4620e77717d2
+[17:06:16] [Server thread/INFO]: firephoenix749[/98.97.83.148:16806] logged in with entity id 7066 at (68.33488564437118, 90.0, -59.25835261650882)
+[17:06:16] [Server thread/INFO]: firephoenix749 joined the game
+[17:06:23] [Server thread/INFO]: <Peggl3> okay yea no problem
+[17:06:33] [Server thread/INFO]: <Peggl3> It was cool to see you guys already on when I joined
+[17:06:45] [Server thread/INFO]: <Peggl3> did you do it through the server button?
+[17:06:56] [Server thread/INFO]: <firephoenix749> it is doing the weird scrolling thing so i am gonna get off now, and it was already on
+[17:07:05] [Server thread/INFO]: <firephoenix749> bye!
+[17:07:06] [Server thread/INFO]: <Peggl3> okay :)
+[17:07:08] [Server thread/INFO]: <Peggl3> bye
+[17:07:34] [Server thread/INFO]: [firephoenix749: Triggered [Home]]
+[17:08:01] [Server thread/INFO]: <firephoenix749> see ya!
+[17:08:02] [Server thread/INFO]: firephoenix749 lost connection: Disconnected
+[17:08:02] [Server thread/INFO]: firephoenix749 left the game
+[17:08:40] [Server thread/INFO]: [airphoenix749: Triggered [Set Home]]
+[17:08:49] [Server thread/INFO]: airphoenix749 lost connection: Disconnected
+[17:08:49] [Server thread/INFO]: airphoenix749 left the game
+[17:09:46] [Server thread/INFO]: [Peggl3: Triggered [Home]]
+[17:12:28] [Server thread/INFO]: [Peggl3: Set own game mode to Spectator Mode]
+[17:21:23] [Server thread/INFO]: [Peggl3: Set own game mode to Survival Mode]
+[17:21:25] [Server thread/INFO]: Peggl3 lost connection: Disconnected
+[17:21:25] [Server thread/INFO]: Peggl3 left the game
+[17:21:38] [Server thread/INFO]: Stopping the server
+[17:21:38] [Server thread/INFO]: Stopping server
+[17:21:38] [Server thread/INFO]: Saving players
+[17:21:38] [Server thread/INFO]: Saving worlds
+[17:21:40] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
+[17:21:44] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_nether
+[17:21:44] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_end
+[17:21:44] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[17:21:44] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[17:21:44] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[17:21:44] [Server thread/INFO]: ThreadedAnvilChunkStorage: All dimensions are saved
