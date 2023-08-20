@@ -1,0 +1,118 @@
+{
+  "vanillatweaks:bat_membranes": {
+    "criteria": {
+      "tick": "2023-08-20 23:17:14 +0000"
+    },
+    "done": true
+  },
+  "vanillatweaks:root": {
+    "criteria": {
+      "tick": "2023-08-20 23:17:14 +0000"
+    },
+    "done": true
+  },
+  "vanillatweaks:timber": {
+    "criteria": {
+      "tick": "2023-08-20 23:17:14 +0000"
+    },
+    "done": true
+  },
+  "vanillatweaks:player_head_drops": {
+    "criteria": {
+      "tick": "2023-08-20 23:17:14 +0000"
+    },
+    "done": true
+  },
+  "vanillatweaks:dragon_drops": {
+    "criteria": {
+      "tick": "2023-08-20 23:17:14 +0000"
+    },
+    "done": true
+  },
+  "vanillatweaks:anti_ghast_grief": {
+    "criteria": {
+      "tick": "2023-08-20 23:17:14 +0000"
+    },
+    "done": true
+  },
+  "vanillatweaks:tpa": {
+    "criteria": {
+      "tick": "2023-08-20 23:17:14 +0000"
+    },
+    "done": true
+  },
+  "vanillatweaks:fast_leaf_decay": {
+    "criteria": {
+      "tick": "2023-08-20 23:17:14 +0000"
+    },
+    "done": true
+  },
+  "vanillatweaks:spawn": {
+    "criteria": {
+      "tick": "2023-08-20 23:17:14 +0000"
+    },
+    "done": true
+  },
+  "vanillatweaks:armored_elytra": {
+    "criteria": {
+      "tick": "2023-08-20 23:17:14 +0000"
+    },
+    "done": true
+  },
+  "vanillatweaks:anti_creeper_grief": {
+    "criteria": {
+      "tick": "2023-08-20 23:17:14 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/crafting_table": {
+    "criteria": {
+      "unlock_right_away": "2023-08-20 23:17:14 +0000"
+    },
+    "done": true
+  },
+  "vanillatweaks:back": {
+    "criteria": {
+      "tick": "2023-08-20 23:17:14 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/adventuring_time": {
+    "criteria": {
+      "minecraft:cherry_grove": "2023-08-20 23:17:16 +0000",
+      "minecraft:plains": "2023-08-20 23:17:32 +0000"
+    },
+    "done": false
+  },
+  "vanillatweaks:anti_enderman_grief": {
+    "criteria": {
+      "tick": "2023-08-20 23:17:14 +0000"
+    },
+    "done": true
+  },
+  "vanillatweaks:double_shulker_shells": {
+    "criteria": {
+      "tick": "2023-08-20 23:17:14 +0000"
+    },
+    "done": true
+  },
+  "vanillatweaks:homes": {
+    "criteria": {
+      "tick": "2023-08-20 23:17:14 +0000"
+    },
+    "done": true
+  },
+  "vanillatweaks:graves": {
+    "criteria": {
+      "tick": "2023-08-20 23:17:14 +0000"
+    },
+    "done": true
+  },
+  "vanillatweaks:name_colors": {
+    "criteria": {
+      "tick": "2023-08-20 23:17:14 +0000"
+    },
+    "done": true
+  },
+  "DataVersion": 3465
+}
