@@ -18,3 +18,11 @@ regions:
         owners: {}
         type: cuboid
         priority: 0
+    shrine:
+        min: {x: -42, y: 128, z: -27}
+        max: {x: -36, y: 132, z: -26}
+        members: {}
+        flags: {}
+        owners: {}
+        type: cuboid
+        priority: 0
