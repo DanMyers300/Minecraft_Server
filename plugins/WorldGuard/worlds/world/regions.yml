@@ -10,6 +10,14 @@
 # REMEMBER TO KEEP PERIODICAL BACKUPS.
 #
 regions:
+    enchant:
+        min: {x: 34, y: 90, z: -20}
+        max: {x: 46, y: 98, z: 3}
+        members: {}
+        flags: {use: allow}
+        owners: {}
+        type: cuboid
+        priority: 0
     village:
         min: {x: 433, y: -64, z: 1108}
         max: {x: 659, y: 319, z: 1337}
