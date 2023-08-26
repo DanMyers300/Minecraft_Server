@@ -1,13 +1,19 @@
 [
   {
-    "uuid": "8dcdea05-b427-4965-9d23-5b07bf2efd3f",
-    "name": "Peggl3",
+    "uuid": "00000000-0000-0000-0009-00000b949f41",
+    "name": ".peggl300",
     "level": 4,
     "bypassesPlayerLimit": false
   },
   {
     "uuid": "734c983b-d6e5-4564-b72a-3fbaaca0ebff",
     "name": "avesdaves",
+    "level": 4,
+    "bypassesPlayerLimit": false
+  },
+  {
+    "uuid": "8dcdea05-b427-4965-9d23-5b07bf2efd3f",
+    "name": "Peggl3",
     "level": 4,
     "bypassesPlayerLimit": false
   }

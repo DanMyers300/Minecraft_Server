@@ -1,0 +1,139 @@
+{
+  "vanillatweaks:bat_membranes": {
+    "criteria": {
+      "tick": "2023-08-20 23:17:14 +0000"
+    },
+    "done": true
+  },
+  "vanillatweaks:root": {
+    "criteria": {
+      "tick": "2023-08-20 23:17:14 +0000"
+    },
+    "done": true
+  },
+  "vanillatweaks:timber": {
+    "criteria": {
+      "tick": "2023-08-20 23:17:14 +0000"
+    },
+    "done": true
+  },
+  "vanillatweaks:player_head_drops": {
+    "criteria": {
+      "tick": "2023-08-20 23:17:14 +0000"
+    },
+    "done": true
+  },
+  "vanillatweaks:dragon_drops": {
+    "criteria": {
+      "tick": "2023-08-20 23:17:14 +0000"
+    },
+    "done": true
+  },
+  "vanillatweaks:anti_ghast_grief": {
+    "criteria": {
+      "tick": "2023-08-20 23:17:14 +0000"
+    },
+    "done": true
+  },
+  "vanillatweaks:tpa": {
+    "criteria": {
+      "tick": "2023-08-20 23:17:14 +0000"
+    },
+    "done": true
+  },
+  "vanillatweaks:fast_leaf_decay": {
+    "criteria": {
+      "tick": "2023-08-20 23:17:14 +0000"
+    },
+    "done": true
+  },
+  "vanillatweaks:spawn": {
+    "criteria": {
+      "tick": "2023-08-20 23:17:14 +0000"
+    },
+    "done": true
+  },
+  "vanillatweaks:armored_elytra": {
+    "criteria": {
+      "tick": "2023-08-20 23:17:14 +0000"
+    },
+    "done": true
+  },
+  "vanillatweaks:anti_creeper_grief": {
+    "criteria": {
+      "tick": "2023-08-20 23:17:14 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/crafting_table": {
+    "criteria": {
+      "unlock_right_away": "2023-08-20 23:17:14 +0000"
+    },
+    "done": true
+  },
+  "vanillatweaks:back": {
+    "criteria": {
+      "tick": "2023-08-20 23:17:14 +0000"
+    },
+    "done": true
+  },
+  "vanillatweaks:anti_enderman_grief": {
+    "criteria": {
+      "tick": "2023-08-20 23:17:14 +0000"
+    },
+    "done": true
+  },
+  "vanillatweaks:double_shulker_shells": {
+    "criteria": {
+      "tick": "2023-08-20 23:17:14 +0000"
+    },
+    "done": true
+  },
+  "vanillatweaks:homes": {
+    "criteria": {
+      "tick": "2023-08-20 23:17:14 +0000"
+    },
+    "done": true
+  },
+  "vanillatweaks:name_colors": {
+    "criteria": {
+      "tick": "2023-08-20 23:17:14 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/adventuring_time": {
+    "criteria": {
+      "minecraft:snowy_slopes": "2023-08-26 15:16:44 +0000",
+      "minecraft:cherry_grove": "2023-08-20 23:17:16 +0000",
+      "minecraft:sunflower_plains": "2023-08-26 16:10:24 +0000",
+      "minecraft:dripstone_caves": "2023-08-26 16:06:34 +0000",
+      "minecraft:plains": "2023-08-20 23:17:32 +0000"
+    },
+    "done": false
+  },
+  "minecraft:recipes/misc/charcoal": {
+    "criteria": {
+      "has_log": "2023-08-20 23:41:22 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/oak_planks": {
+    "criteria": {
+      "has_logs": "2023-08-20 23:41:22 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/oak_wood": {
+    "criteria": {
+      "has_log": "2023-08-20 23:41:22 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/root": {
+    "criteria": {
+      "killed_by_something": "2023-08-26 15:16:28 +0000"
+    },
+    "done": true
+  },
+  "DataVersion": 3465
+}
