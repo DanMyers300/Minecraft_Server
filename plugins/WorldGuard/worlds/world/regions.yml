@@ -18,6 +18,15 @@ regions:
         owners: {}
         type: cuboid
         priority: 0
+    sky_base:
+        min: {x: 39, y: 239, z: 1025}
+        max: {x: 205, y: 255, z: 1154}
+        members: {}
+        flags: {}
+        owners:
+            unique-ids: [734c983b-d6e5-4564-b72a-3fbaaca0ebff]
+        type: cuboid
+        priority: 0
     village:
         min: {x: 433, y: -64, z: 1108}
         max: {x: 659, y: 319, z: 1337}
