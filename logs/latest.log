@@ -195,3 +195,51 @@
 [01:47:47] [Worker-Main-1/INFO]: Preparing spawn area: 100%
 [01:47:47] [Server thread/INFO]: Time elapsed: 5355 ms
 [01:47:47] [Server thread/INFO]: Preparing start region for dimension minecraft:the_end
+[01:47:50] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[01:47:50] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[01:47:50] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[01:47:50] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[01:47:50] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[01:47:50] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[01:47:50] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[01:47:51] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[01:47:51] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[01:47:52] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[01:47:52] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[01:47:53] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[01:47:53] [Server thread/INFO]: Time elapsed: 6132 ms
+[01:47:53] [Server thread/INFO]: [floodgate] Enabling floodgate v2.2.2-SNAPSHOT (b69-492be77)
+[01:47:54] [Server thread/INFO]: [EnderChest] Enabling EnderChest v1.0.2
+[01:47:54] [Server thread/INFO]: [0;35;22m[[0;35;1mEnderChest[0;35;22m][m [0;35;22m------------------------------[m
+[01:47:54] [Server thread/INFO]: [0;35;22m[[0;35;1mEnderChest[0;35;22m][m [0;32;1mON [0;35;1mEnderChest [0;34;1mVersion 1.0.1[m
+[01:47:54] [Server thread/INFO]: [0;35;22m[[0;35;1mEnderChest[0;35;22m][m [0;35;1mGitHub: [0;37;1mhttps://github.com/HappyRogelio7/[m
+[01:47:54] [Server thread/INFO]: [0;35;22m[[0;35;1mEnderChest[0;35;22m][m [0;33;1mRepositories: [0;37;1mhttps://github.com/HappyRogelio7/EnderChest-Plugin-Command-MC[m
+[01:47:54] [Server thread/INFO]: [0;35;22m[[0;35;1mEnderChest[0;35;22m][m [0;35;22m------------------------------[m
+[01:47:54] [Server thread/INFO]: [WorldGuard] Enabling WorldGuard v7.0.9+5934e49
+[01:47:54] [Server thread/INFO]: [WorldGuard] (world) TNT ignition is PERMITTED.
+[01:47:54] [Server thread/INFO]: [WorldGuard] (world) Lighters are PERMITTED.
+[01:47:54] [Server thread/INFO]: [WorldGuard] (world) Lava fire is PERMITTED.
+[01:47:54] [Server thread/INFO]: [WorldGuard] (world) Fire spread is UNRESTRICTED.
+[01:47:54] [Server thread/INFO]: [WorldGuard] Loaded configuration for world 'world'
+[01:47:54] [Server thread/INFO]: [WorldGuard] (world_nether) TNT ignition is PERMITTED.
+[01:47:54] [Server thread/INFO]: [WorldGuard] (world_nether) Lighters are PERMITTED.
+[01:47:54] [Server thread/INFO]: [WorldGuard] (world_nether) Lava fire is PERMITTED.
+[01:47:54] [Server thread/INFO]: [WorldGuard] (world_nether) Fire spread is UNRESTRICTED.
+[01:47:54] [Server thread/INFO]: [WorldGuard] Loaded configuration for world 'world_nether'
+[01:47:54] [Server thread/INFO]: [WorldGuard] (world_the_end) TNT ignition is PERMITTED.
+[01:47:54] [Server thread/INFO]: [WorldGuard] (world_the_end) Lighters are PERMITTED.
+[01:47:54] [Server thread/INFO]: [WorldGuard] (world_the_end) Lava fire is PERMITTED.
+[01:47:54] [Server thread/INFO]: [WorldGuard] (world_the_end) Fire spread is UNRESTRICTED.
+[01:47:54] [Server thread/INFO]: [WorldGuard] Loaded configuration for world 'world_the_end'
+[01:47:54] [Server thread/INFO]: [WorldGuard] Loading region data...
+[01:47:55] [Server thread/INFO]: [Geyser-Spigot] Enabling Geyser-Spigot v2.1.2-SNAPSHOT
+[01:47:55] [Server thread/INFO]: Server permissions file permissions.yml is empty, ignoring it
+[01:47:55] [Server thread/INFO]: [Geyser-Spigot] ******************************************
+[01:47:55] [Server thread/INFO]: [Geyser-Spigot] 
+[01:47:55] [Server thread/INFO]: [Geyser-Spigot] Loading Geyser version 2.1.2-SNAPSHOT (git-master-661a9b4)
+[01:47:55] [Server thread/INFO]: [Geyser-Spigot] 
+[01:47:55] [Server thread/INFO]: [Geyser-Spigot] ******************************************
+[01:48:02] [Server thread/INFO]: [Geyser-Spigot] Started Geyser on 0.0.0.0:19132
+[01:48:02] [Server thread/INFO]: [Geyser-Spigot] Done (6.93s)! Run /geyser help for help!
+[01:48:02] [Server thread/INFO]: Done (41.742s)! For help, type "help"
+[01:48:02] [Server thread/WARN]: UUID of added entity already exists: EntityArmorStand['Armor Stand'/291, l='ServerLevel[world]', x=22068880.50, y=1000.00, z=-4185487.50]
