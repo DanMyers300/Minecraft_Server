@@ -243,3 +243,10 @@
 [01:48:02] [Server thread/INFO]: [Geyser-Spigot] Done (6.93s)! Run /geyser help for help!
 [01:48:02] [Server thread/INFO]: Done (41.742s)! For help, type "help"
 [01:48:02] [Server thread/WARN]: UUID of added entity already exists: EntityArmorStand['Armor Stand'/291, l='ServerLevel[world]', x=22068880.50, y=1000.00, z=-4185487.50]
+[01:55:13] [User Authenticator #1/INFO]: UUID of player Peggl3 is 8dcdea05-b427-4965-9d23-5b07bf2efd3f
+[01:55:14] [Server thread/INFO]: Peggl3 joined the game
+[01:55:14] [Server thread/INFO]: Peggl3[/70.119.67.35:56274] logged in with entity id 445 at ([world]-61.58703905771047, 128.0, -33.14498284045905)
+[01:55:40] [Server thread/INFO]: Peggl3 issued server command: /trigger home set 2
+[01:55:40] [Server thread/INFO]: [Peggl3: Triggered [Home] (set value to 2)]
+[01:55:58] [Server thread/INFO]: Peggl3 lost connection: Disconnected
+[01:55:58] [Server thread/INFO]: Peggl3 left the game
