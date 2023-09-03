@@ -24,14 +24,15 @@ regions:
         members: {}
         flags: {}
         owners:
-            unique-ids: [734c983b-d6e5-4564-b72a-3fbaaca0ebff]
+            unique-ids: [8dcdea05-b427-4965-9d23-5b07bf2efd3f]
         type: cuboid
         priority: 0
     village:
         min: {x: 433, y: -64, z: 1108}
         max: {x: 659, y: 319, z: 1337}
         members: {}
-        flags: {}
+        flags: {greeting: Welcome to Avery and Dan's building area!, use-dripleaf: allow,
+            lava-flow: deny, use-anvil: allow}
         owners: {}
         type: cuboid
         priority: 0
