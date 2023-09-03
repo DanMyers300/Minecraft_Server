@@ -10,12 +10,34 @@
 # REMEMBER TO KEEP PERIODICAL BACKUPS.
 #
 regions:
+    spawn:
+        min: {x: -75, y: -64, z: -55}
+        max: {x: -20, y: 319, z: 17}
+        members: {}
+        flags: {lava-fire: deny, use: allow, interact: allow, vehicle-destroy: allow,
+            lighter: deny, chest-access: allow, pvp: deny, mob-spawning: deny, ride: allow,
+            fire-spread: deny, natural-hunger-drain: deny, sleep: allow, vehicle-place: allow,
+            build: deny, block-break: deny, potion-splash: allow, damage-animals: deny,
+            tnt: deny, respawn-anchors: allow}
+        owners:
+            unique-ids: [734c983b-d6e5-4564-b72a-3fbaaca0ebff]
+        type: cuboid
+        priority: 0
     enchant:
         min: {x: 34, y: 90, z: -20}
         max: {x: 46, y: 98, z: 3}
         members: {}
         flags: {use: allow}
         owners: {}
+        type: cuboid
+        priority: 0
+    annie's_area:
+        min: {x: 83, y: 87, z: -35}
+        max: {x: 90, y: 93, z: -27}
+        members: {}
+        flags: {}
+        owners:
+            unique-ids: [00000000-0000-0000-0009-00000b949f41]
         type: cuboid
         priority: 0
     sky_base:
