@@ -10,34 +10,13 @@
 # REMEMBER TO KEEP PERIODICAL BACKUPS.
 #
 regions:
-    end_portal_room:
-        min: {x: -1496, y: -4, z: -990}
-        max: {x: -1482, y: 2, z: -982}
+    adams_area:
+        min: {x: 70, y: -64, z: -138}
+        max: {x: 119, y: 319, z: -100}
         members: {}
-        flags: {use: allow, interact: allow}
+        flags: {}
         owners:
-            unique-ids: [734c983b-d6e5-4564-b72a-3fbaaca0ebff]
-        type: cuboid
-        priority: 0
-    spawn:
-        min: {x: -75, y: -64, z: -55}
-        max: {x: -20, y: 319, z: 17}
-        members: {}
-        flags: {lava-fire: deny, use: allow, interact: allow, vehicle-destroy: allow,
-            lighter: deny, chest-access: allow, pvp: deny, ride: allow, mob-spawning: deny,
-            fire-spread: deny, natural-hunger-drain: deny, sleep: allow, vehicle-place: allow,
-            build: deny, block-break: deny, potion-splash: allow, damage-animals: deny,
-            tnt: deny, respawn-anchors: allow}
-        owners:
-            unique-ids: [734c983b-d6e5-4564-b72a-3fbaaca0ebff]
-        type: cuboid
-        priority: 0
-    enchant:
-        min: {x: 34, y: 90, z: -20}
-        max: {x: 46, y: 98, z: 3}
-        members: {}
-        flags: {use: allow}
-        owners: {}
+            unique-ids: [baf1a5ea-f94f-46d5-8395-4620e77717d2]
         type: cuboid
         priority: 0
     annie's_area:
@@ -67,15 +46,6 @@ regions:
             unique-ids: [8dcdea05-b427-4965-9d23-5b07bf2efd3f]
         type: cuboid
         priority: 0
-    village:
-        min: {x: 433, y: -64, z: 1108}
-        max: {x: 659, y: 319, z: 1337}
-        members: {}
-        flags: {greeting: Welcome to Avery and Dan's building area!, use-dripleaf: allow,
-            lava-flow: deny, use-anvil: allow}
-        owners: {}
-        type: cuboid
-        priority: 0
     creative:
         min: {x: 8000, y: -64, z: 8000}
         max: {x: 12000, y: 319, z: 12000}
@@ -91,4 +61,65 @@ regions:
         flags: {}
         owners: {}
         type: cuboid
+        priority: 0
+    end_portal_room:
+        min: {x: -1496, y: -4, z: -990}
+        max: {x: -1482, y: 2, z: -982}
+        members: {}
+        flags: {use: allow, interact: allow}
+        owners:
+            unique-ids: [734c983b-d6e5-4564-b72a-3fbaaca0ebff]
+        type: cuboid
+        priority: 0
+    spawn:
+        min: {x: -75, y: -64, z: -55}
+        max: {x: -20, y: 319, z: 17}
+        members: {}
+        flags: {lava-fire: deny, use: allow, lighter: deny, interact: allow, vehicle-destroy: allow,
+            pvp: deny, chest-access: allow, mob-spawning: deny, ride: allow, fire-spread: deny,
+            natural-hunger-drain: deny, sleep: allow, vehicle-place: allow, build: deny,
+            potion-splash: allow, damage-animals: deny, tnt: deny, respawn-anchors: allow}
+        owners:
+            unique-ids: [734c983b-d6e5-4564-b72a-3fbaaca0ebff]
+        type: cuboid
+        priority: 0
+    underground_garden:
+        min: {x: -90, y: 115, z: -58}
+        max: {x: -64, y: 119, z: -32}
+        members: {}
+        flags: {}
+        owners: {}
+        type: cuboid
+        priority: 0
+    enchant:
+        min: {x: 34, y: 90, z: -20}
+        max: {x: 46, y: 98, z: 3}
+        members: {}
+        flags: {use: allow}
+        owners: {}
+        type: cuboid
+        priority: 0
+    matts_area:
+        min: {x: -9, y: -64, z: -53}
+        max: {x: 9, y: 319, z: -40}
+        members: {}
+        flags: {}
+        owners:
+            unique-ids: [4cc80f7d-4b05-435a-82b2-3be6800575fa]
+        type: cuboid
+        priority: 0
+    village:
+        min: {x: 433, y: -64, z: 1108}
+        max: {x: 659, y: 319, z: 1337}
+        members: {}
+        flags: {greeting: Welcome to Avery and Dan's building area!, use-dripleaf: allow,
+            lava-flow: deny, use-anvil: allow}
+        owners: {}
+        type: cuboid
+        priority: 0
+    __global__:
+        members: {}
+        flags: {}
+        owners: {}
+        type: global
         priority: 0
