@@ -46,14 +46,6 @@ regions:
             unique-ids: [8dcdea05-b427-4965-9d23-5b07bf2efd3f]
         type: cuboid
         priority: 0
-    creative:
-        min: {x: 8000, y: -64, z: 8000}
-        max: {x: 12000, y: 319, z: 12000}
-        members: {}
-        flags: {game-mode: creative}
-        owners: {}
-        type: cuboid
-        priority: 0
     shrine:
         min: {x: -42, y: 128, z: -27}
         max: {x: -36, y: 132, z: -26}
@@ -76,7 +68,7 @@ regions:
         max: {x: -20, y: 319, z: 17}
         members: {}
         flags: {lava-fire: deny, use: allow, lighter: deny, interact: allow, vehicle-destroy: allow,
-            pvp: deny, chest-access: allow, mob-spawning: deny, ride: allow, fire-spread: deny,
+            chest-access: allow, pvp: deny, mob-spawning: deny, ride: allow, fire-spread: deny,
             natural-hunger-drain: deny, sleep: allow, vehicle-place: allow, build: deny,
             potion-splash: allow, damage-animals: deny, tnt: deny, respawn-anchors: allow}
         owners:
@@ -112,14 +104,14 @@ regions:
         min: {x: 433, y: -64, z: 1108}
         max: {x: 659, y: 319, z: 1337}
         members: {}
-        flags: {greeting: Welcome to Avery and Dan's building area!, use-dripleaf: allow,
+        flags: {use: allow, greeting: Welcome to Avery and Dan's building area!, use-dripleaf: allow,
             lava-flow: deny, use-anvil: allow}
         owners: {}
         type: cuboid
         priority: 0
     __global__:
         members: {}
-        flags: {}
+        flags: {creeper-explosion: deny}
         owners: {}
         type: global
         priority: 0

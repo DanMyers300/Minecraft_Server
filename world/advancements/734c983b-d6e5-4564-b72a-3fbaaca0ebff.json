@@ -19,6 +19,7 @@
       "minecraft:dripstone_caves": "2023-07-21 01:20:15 +0000",
       "minecraft:grove": "2023-08-01 01:28:39 +0000",
       "minecraft:forest": "2023-07-30 03:22:21 +0000",
+      "minecraft:desert": "2023-09-07 02:49:26 +0000",
       "minecraft:jungle": "2023-08-12 20:40:12 +0000",
       "minecraft:old_growth_spruce_taiga": "2023-09-04 00:02:30 +0000",
       "minecraft:flower_forest": "2023-07-21 02:43:00 +0000",
@@ -821,6 +822,7 @@
       "baked_potato": "2023-08-04 02:04:28 +0000",
       "apple": "2023-07-30 03:25:01 +0000",
       "bread": "2023-07-21 02:34:41 +0000",
+      "golden_apple": "2023-09-07 02:53:51 +0000",
       "glow_berries": "2023-08-13 18:54:37 +0000",
       "golden_carrot": "2023-08-07 00:59:54 +0000",
       "cooked_chicken": "2023-09-03 23:38:05 +0000"
@@ -978,12 +980,6 @@
     "done": true
   },
   "vanillatweaks:armored_elytra": {
-    "criteria": {
-      "tick": "2023-07-21 01:57:55 +0000"
-    },
-    "done": true
-  },
-  "vanillatweaks:anti_creeper_grief": {
     "criteria": {
       "tick": "2023-07-21 01:57:55 +0000"
     },
@@ -3421,18 +3417,6 @@
     },
     "done": true
   },
-  "minecraft:adventure/shoot_arrow": {
-    "criteria": {
-      "shot_arrow": "2023-09-04 00:14:13 +0000"
-    },
-    "done": true
-  },
-  "minecraft:story/enchant_item": {
-    "criteria": {
-      "enchanted_item": "2023-09-04 00:13:12 +0000"
-    },
-    "done": true
-  },
   "minecraft:story/follow_ender_eye": {
     "criteria": {
       "in_stronghold": "2023-09-03 23:37:16 +0000"
@@ -3445,15 +3429,136 @@
     },
     "done": true
   },
+  "minecraft:story/enter_the_end": {
+    "criteria": {
+      "entered_end": "2023-09-04 00:10:52 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/jack_o_lantern": {
     "criteria": {
       "has_carved_pumpkin": "2023-09-04 00:10:59 +0000"
     },
     "done": true
   },
-  "minecraft:story/enter_the_end": {
+  "minecraft:story/enchant_item": {
     "criteria": {
-      "entered_end": "2023-09-04 00:10:52 +0000"
+      "enchanted_item": "2023-09-04 00:13:12 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/shoot_arrow": {
+    "criteria": {
+      "shot_arrow": "2023-09-04 00:14:13 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/sandstone_stairs": {
+    "criteria": {
+      "has_sandstone": "2023-09-07 02:50:43 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/sandstone_slab": {
+    "criteria": {
+      "has_sandstone": "2023-09-07 02:50:43 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/cut_sandstone_from_sandstone_stonecutting": {
+    "criteria": {
+      "has_sandstone": "2023-09-07 02:50:43 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/chiseled_sandstone_from_sandstone_stonecutting": {
+    "criteria": {
+      "has_sandstone": "2023-09-07 02:50:43 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/smooth_sandstone": {
+    "criteria": {
+      "has_sandstone": "2023-09-07 02:50:43 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/sandstone_wall_from_sandstone_stonecutting": {
+    "criteria": {
+      "has_sandstone": "2023-09-07 02:50:43 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/cut_sandstone_slab_from_sandstone_stonecutting": {
+    "criteria": {
+      "has_sandstone": "2023-09-07 02:50:43 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/cut_sandstone": {
+    "criteria": {
+      "has_sandstone": "2023-09-07 02:50:43 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/sandstone_slab_from_sandstone_stonecutting": {
+    "criteria": {
+      "has_sandstone": "2023-09-07 02:50:43 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/sandstone_stairs_from_sandstone_stonecutting": {
+    "criteria": {
+      "has_sandstone": "2023-09-07 02:50:43 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/sandstone_wall": {
+    "criteria": {
+      "has_sandstone": "2023-09-07 02:50:43 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/mojang_banner_pattern": {
+    "criteria": {
+      "has_enchanted_golden_apple": "2023-09-07 02:50:57 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/orange_glazed_terracotta": {
+    "criteria": {
+      "has_orange_terracotta": "2023-09-07 02:51:38 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/cut_sandstone_slab": {
+    "criteria": {
+      "has_cut_sandstone": "2023-09-07 02:52:23 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/cut_sandstone_slab_from_cut_sandstone_stonecutting": {
+    "criteria": {
+      "has_cut_sandstone": "2023-09-07 02:52:23 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/blue_glazed_terracotta": {
+    "criteria": {
+      "has_blue_terracotta": "2023-09-07 02:53:44 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/salvage_sherd": {
+    "criteria": {
+      "has_sherd": "2023-09-07 02:55:27 +0000",
+      "desert_well": "2023-09-07 02:55:22 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/craft_decorated_pot_using_only_sherds": {
+    "criteria": {
+      "pot_crafted_using_only_sherds": "2023-09-07 03:21:37 +0000"
     },
     "done": true
   },

@@ -23,6 +23,7 @@
       "minecraft:dripstone_caves": "2023-07-21 01:10:11 +0000",
       "minecraft:grove": "2023-08-01 01:28:38 +0000",
       "minecraft:forest": "2023-07-21 01:49:39 +0000",
+      "minecraft:desert": "2023-09-07 02:56:18 +0000",
       "minecraft:jungle": "2023-07-30 03:24:57 +0000",
       "minecraft:old_growth_spruce_taiga": "2023-09-04 00:02:13 +0000",
       "minecraft:windswept_savanna": "2023-08-20 23:01:38 +0000",
@@ -710,12 +711,6 @@
     "done": true
   },
   "vanillatweaks:armored_elytra": {
-    "criteria": {
-      "tick": "2023-07-21 01:44:24 +0000"
-    },
-    "done": true
-  },
-  "vanillatweaks:anti_creeper_grief": {
     "criteria": {
       "tick": "2023-07-21 01:44:24 +0000"
     },
@@ -3994,6 +3989,24 @@
   "minecraft:recipes/building_blocks/purpur_slab_from_purpur_block_stonecutting": {
     "criteria": {
       "has_purpur_block": "2023-09-04 22:10:53 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/melon_seeds": {
+    "criteria": {
+      "has_melon": "2023-09-07 03:20:44 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/brewing/glistering_melon_slice": {
+    "criteria": {
+      "has_melon": "2023-09-07 03:20:44 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/melon": {
+    "criteria": {
+      "has_melon": "2023-09-07 03:20:44 +0000"
     },
     "done": true
   },
