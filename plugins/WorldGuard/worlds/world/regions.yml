@@ -34,7 +34,7 @@ regions:
         members: {}
         flags: {}
         owners:
-            unique-ids: [9a5e031f-411a-4052-b202-5ccb6b6c0591]
+            unique-ids: [9a5e031f-411a-4052-b202-5ccb6b6c0591, 00000000-0000-0000-0009-00000b949f41]
         type: cuboid
         priority: 0
     sky_base:
@@ -67,10 +67,10 @@ regions:
         min: {x: -75, y: -64, z: -55}
         max: {x: -20, y: 319, z: 17}
         members: {}
-        flags: {lava-fire: deny, use: allow, lighter: deny, interact: allow, vehicle-destroy: allow,
-            chest-access: allow, pvp: deny, mob-spawning: deny, ride: allow, fire-spread: deny,
-            natural-hunger-drain: deny, sleep: allow, vehicle-place: allow, build: deny,
-            potion-splash: allow, damage-animals: deny, tnt: deny, respawn-anchors: allow}
+        flags: {lava-fire: deny, use: allow, interact: allow, vehicle-destroy: allow,
+            lighter: deny, chest-access: allow, pvp: deny, mob-spawning: deny, ride: allow,
+            fire-spread: deny, natural-hunger-drain: deny, sleep: allow, vehicle-place: allow,
+            build: deny, potion-splash: allow, damage-animals: deny, tnt: deny, respawn-anchors: allow}
         owners:
             unique-ids: [734c983b-d6e5-4564-b72a-3fbaaca0ebff]
         type: cuboid
