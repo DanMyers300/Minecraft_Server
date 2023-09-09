@@ -53,12 +53,6 @@
     },
     "done": true
   },
-  "vanillatweaks:anti_creeper_grief": {
-    "criteria": {
-      "tick": "2023-08-05 01:21:25 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/decorations/crafting_table": {
     "criteria": {
       "unlock_right_away": "2023-08-05 01:21:25 +0000"
@@ -366,6 +360,7 @@
   },
   "minecraft:husbandry/balanced_diet": {
     "criteria": {
+      "cooked_porkchop": "2023-09-09 17:31:55 +0000",
       "chicken": "2023-08-13 18:42:16 +0000",
       "honey_bottle": "2023-08-05 20:51:24 +0000",
       "cooked_mutton": "2023-08-05 20:28:52 +0000",
@@ -1625,6 +1620,7 @@
       "minecraft:pillager": "2023-08-13 18:40:57 +0000",
       "minecraft:skeleton": "2023-08-13 19:10:41 +0000",
       "minecraft:creeper": "2023-08-19 19:38:11 +0000",
+      "minecraft:enderman": "2023-09-09 16:45:54 +0000",
       "minecraft:zombie": "2023-08-18 20:26:01 +0000",
       "minecraft:drowned": "2023-08-19 19:44:53 +0000",
       "minecraft:zombie_villager": "2023-08-28 01:02:51 +0000"
@@ -2987,27 +2983,9 @@
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/end_stone_brick_slab_from_end_stone_stonecutting": {
+  "minecraft:recipes/redstone/repeater": {
     "criteria": {
-      "has_end_stone": "2023-09-04 00:10:40 +0000"
-    },
-    "done": true
-  },
-  "minecraft:end/enter_end_gateway": {
-    "criteria": {
-      "entered_end_gateway": "2023-09-04 00:21:10 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/end_stone_bricks": {
-    "criteria": {
-      "has_end_stone": "2023-09-04 00:10:40 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/decorations/end_stone_brick_wall_from_end_stone_stonecutting": {
-    "criteria": {
-      "has_end_stone": "2023-09-04 00:10:40 +0000"
+      "has_redstone_torch": "2023-09-03 23:48:41 +0000"
     },
     "done": true
   },
@@ -3023,9 +3001,27 @@
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/jack_o_lantern": {
+  "minecraft:story/enter_the_end": {
     "criteria": {
-      "has_carved_pumpkin": "2023-09-04 00:10:59 +0000"
+      "entered_end": "2023-09-04 00:10:33 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/end_stone_brick_slab_from_end_stone_stonecutting": {
+    "criteria": {
+      "has_end_stone": "2023-09-04 00:10:40 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/end_stone_bricks": {
+    "criteria": {
+      "has_end_stone": "2023-09-04 00:10:40 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/end_stone_brick_wall_from_end_stone_stonecutting": {
+    "criteria": {
+      "has_end_stone": "2023-09-04 00:10:40 +0000"
     },
     "done": true
   },
@@ -3041,15 +3037,51 @@
     },
     "done": true
   },
-  "minecraft:recipes/redstone/repeater": {
+  "minecraft:recipes/building_blocks/jack_o_lantern": {
     "criteria": {
-      "has_redstone_torch": "2023-09-03 23:48:41 +0000"
+      "has_carved_pumpkin": "2023-09-04 00:10:59 +0000"
     },
     "done": true
   },
-  "minecraft:story/enter_the_end": {
+  "minecraft:end/enter_end_gateway": {
     "criteria": {
-      "entered_end": "2023-09-04 00:10:33 +0000"
+      "entered_end_gateway": "2023-09-04 00:21:10 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/copper_block": {
+    "criteria": {
+      "has_copper_ingot": "2023-09-09 17:38:56 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/brush": {
+    "criteria": {
+      "has_copper_ingot": "2023-09-09 17:38:56 +0000"
+    },
+    "done": true
+  },
+  "minecraft:end/dragon_egg": {
+    "criteria": {
+      "dragon_egg": "2023-09-09 16:56:15 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/iron_ingot_from_iron_block": {
+    "criteria": {
+      "has_iron_block": "2023-09-09 16:51:37 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/lightning_rod": {
+    "criteria": {
+      "has_copper_ingot": "2023-09-09 17:38:56 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/anvil": {
+    "criteria": {
+      "has_iron_block": "2023-09-09 16:51:37 +0000"
     },
     "done": true
   },
