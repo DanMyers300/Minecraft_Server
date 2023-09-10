@@ -10,6 +10,15 @@
 # REMEMBER TO KEEP PERIODICAL BACKUPS.
 #
 regions:
+    colosseum:
+        min: {x: 113, y: 246, z: 742}
+        max: {x: 185, y: 285, z: 813}
+        members: {}
+        flags: {pvp: allow}
+        owners:
+            unique-ids: [8dcdea05-b427-4965-9d23-5b07bf2efd3f]
+        type: cuboid
+        priority: 0
     adams_area:
         min: {x: 70, y: -64, z: -138}
         max: {x: 119, y: 319, z: -100}
@@ -28,6 +37,14 @@ regions:
             unique-ids: [00000000-0000-0000-0009-00000b949f41]
         type: cuboid
         priority: 0
+    iron_farm:
+        min: {x: 117, y: 249, z: 1073}
+        max: {x: 132, y: 269, z: 1085}
+        members: {}
+        flags: {damage-animals: allow, chest-access: allow, mob-spawning: allow}
+        owners: {}
+        type: cuboid
+        priority: 0
     joanna's_house:
         min: {x: -18, y: -64, z: -19}
         max: {x: 9, y: 319, z: 8}
@@ -38,12 +55,15 @@ regions:
         type: cuboid
         priority: 0
     sky_base:
-        min: {x: 39, y: 239, z: 1025}
-        max: {x: 205, y: 255, z: 1154}
+        min: {x: 28, y: 197, z: 723}
+        max: {x: 216, y: 309, z: 1173}
         members: {}
-        flags: {}
-        owners:
-            unique-ids: [8dcdea05-b427-4965-9d23-5b07bf2efd3f]
+        flags:
+            interact: allow
+            deny-spawn: ['minecraft:skeleton', 'minecraft:enderman', 'minecraft:witch',
+                'minecraft:endermite', 'minecraft:spider', 'minecraft:zombie', 'minecraft:creeper',
+                'minecraft:zombie_villager']
+        owners: {}
         type: cuboid
         priority: 0
     shrine:
@@ -68,7 +88,7 @@ regions:
         max: {x: -20, y: 319, z: 17}
         members: {}
         flags: {lava-fire: deny, use: allow, interact: allow, vehicle-destroy: allow,
-            lighter: deny, chest-access: allow, pvp: deny, mob-spawning: deny, ride: allow,
+            lighter: deny, pvp: deny, chest-access: allow, ride: allow, mob-spawning: deny,
             fire-spread: deny, natural-hunger-drain: deny, sleep: allow, vehicle-place: allow,
             build: deny, potion-splash: allow, damage-animals: deny, tnt: deny, respawn-anchors: allow}
         owners:

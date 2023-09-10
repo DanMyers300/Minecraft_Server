@@ -866,7 +866,8 @@
       "minecraft:shulker": "2023-09-04 22:13:04 +0000",
       "minecraft:piglin": "2023-08-06 15:27:44 +0000",
       "minecraft:enderman": "2023-09-04 22:26:47 +0000",
-      "minecraft:zombie": "2023-08-06 15:14:26 +0000"
+      "minecraft:zombie": "2023-08-06 15:14:26 +0000",
+      "minecraft:zombie_villager": "2023-09-10 16:28:18 +0000"
     },
     "done": false
   },
@@ -2969,6 +2970,18 @@
   "minecraft:end/elytra": {
     "criteria": {
       "elytra": "2023-09-04 22:14:41 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/map": {
+    "criteria": {
+      "has_compass": "2023-09-10 15:14:04 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/diamond": {
+    "criteria": {
+      "has_diamond_block": "2023-09-10 16:16:01 +0000"
     },
     "done": true
   },
