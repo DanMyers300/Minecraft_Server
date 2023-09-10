@@ -1,0 +1,21 @@
+portals:
+  newportal:
+    entryfee:
+      amount: 0.0
+    safeteleport: true
+    teleportnonplayers: false
+    handlerscript: ''
+    owner: Peggl3
+    location: 159.0,250.0,1089.0:163.0,253.0,1089.0
+    world: world
+    destination: creative
+  to_world:
+    entryfee:
+      amount: 0.0
+    safeteleport: true
+    teleportnonplayers: false
+    handlerscript: ''
+    owner: Peggl3
+    location: -8.0,76.0,-3.0:-4.0,79.0,-3.0
+    world: creative
+    destination: world
