@@ -92,6 +92,8 @@
   "minecraft:adventure/adventuring_time": {
     "criteria": {
       "minecraft:snowy_slopes": "2023-08-05 00:59:07 +0000",
+      "minecraft:taiga": "2023-09-11 00:11:00 +0000",
+      "minecraft:frozen_river": "2023-09-11 00:13:38 +0000",
       "minecraft:cherry_grove": "2023-08-04 23:50:45 +0000",
       "minecraft:sunflower_plains": "2023-08-05 21:17:07 +0000",
       "minecraft:birch_forest": "2023-08-26 22:07:53 +0000",
@@ -103,12 +105,17 @@
       "minecraft:snowy_plains": "2023-09-10 17:13:55 +0000",
       "minecraft:stony_shore": "2023-09-10 17:15:19 +0000",
       "minecraft:dripstone_caves": "2023-08-05 00:15:55 +0000",
+      "minecraft:cold_ocean": "2023-09-11 00:51:03 +0000",
       "minecraft:forest": "2023-08-13 19:13:24 +0000",
       "minecraft:lush_caves": "2023-08-26 22:10:27 +0000",
+      "minecraft:deep_cold_ocean": "2023-09-11 00:51:12 +0000",
+      "minecraft:ice_spikes": "2023-09-11 00:42:32 +0000",
       "minecraft:frozen_ocean": "2023-09-10 17:14:07 +0000",
       "minecraft:windswept_forest": "2023-08-26 22:08:25 +0000",
+      "minecraft:deep_frozen_ocean": "2023-09-11 00:44:19 +0000",
       "minecraft:jungle": "2023-08-19 19:49:39 +0000",
       "minecraft:ocean": "2023-08-26 22:07:47 +0000",
+      "minecraft:snowy_beach": "2023-09-11 00:13:40 +0000",
       "minecraft:flower_forest": "2023-08-05 21:17:30 +0000",
       "minecraft:frozen_peaks": "2023-08-05 21:09:17 +0000",
       "minecraft:deep_dark": "2023-08-05 01:04:31 +0000",
@@ -270,6 +277,7 @@
   },
   "minecraft:husbandry/balanced_diet": {
     "criteria": {
+      "sweet_berries": "2023-09-11 00:48:18 +0000",
       "baked_potato": "2023-08-05 00:53:25 +0000",
       "apple": "2023-08-05 00:52:07 +0000",
       "glow_berries": "2023-08-06 15:19:47 +0000",
@@ -864,11 +872,13 @@
       "minecraft:skeleton": "2023-08-05 02:09:03 +0000",
       "minecraft:hoglin": "2023-08-20 21:05:19 +0000",
       "minecraft:spider": "2023-08-14 00:44:39 +0000",
+      "minecraft:piglin_brute": "2023-09-11 00:19:56 +0000",
       "minecraft:creeper": "2023-08-05 21:11:11 +0000",
       "minecraft:zombified_piglin": "2023-08-05 20:34:00 +0000",
       "minecraft:shulker": "2023-09-04 22:13:04 +0000",
       "minecraft:piglin": "2023-08-06 15:27:44 +0000",
       "minecraft:enderman": "2023-09-04 22:26:47 +0000",
+      "minecraft:stray": "2023-09-10 23:40:15 +0000",
       "minecraft:zombie": "2023-08-06 15:14:26 +0000",
       "minecraft:zombie_villager": "2023-09-10 16:28:18 +0000"
     },
@@ -2988,6 +2998,12 @@
     },
     "done": true
   },
+  "minecraft:nether/netherite_armor": {
+    "criteria": {
+      "netherite_armor": "2023-09-10 17:14:32 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/netherite_block": {
     "criteria": {
       "has_netherite_ingot": "2023-09-10 17:18:14 +0000"
@@ -3006,12 +3022,6 @@
     },
     "done": true
   },
-  "minecraft:nether/create_beacon": {
-    "criteria": {
-      "beacon": "2023-09-10 17:23:26 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/combat/netherite_chestplate_smithing": {
     "criteria": {
       "has_netherite_ingot": "2023-09-10 17:18:14 +0000"
@@ -3021,30 +3031,6 @@
   "minecraft:recipes/combat/netherite_sword_smithing": {
     "criteria": {
       "has_netherite_ingot": "2023-09-10 17:18:14 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/misc/netherite_upgrade_smithing_template": {
-    "criteria": {
-      "has_netherite_upgrade_smithing_template": "2023-09-10 17:26:44 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/decorations/green_stained_glass_pane": {
-    "criteria": {
-      "has_glass": "2023-09-10 17:25:30 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/misc/sentry_armor_trim_smithing_template": {
-    "criteria": {
-      "has_sentry_armor_trim_smithing_template": "2023-09-10 17:28:39 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/misc/sentry_armor_trim_smithing_template_smithing_trim": {
-    "criteria": {
-      "has_smithing_trim_template": "2023-09-10 17:28:39 +0000"
     },
     "done": true
   },
@@ -3060,24 +3046,6 @@
     },
     "done": true
   },
-  "minecraft:story/form_obsidian": {
-    "criteria": {
-      "obsidian": "2023-09-10 17:24:04 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/misc/netherite_ingot_from_netherite_block": {
-    "criteria": {
-      "has_netherite_block": "2023-09-10 17:18:33 +0000"
-    },
-    "done": true
-  },
-  "minecraft:story/shiny_gear": {
-    "criteria": {
-      "diamond_boots": "2023-09-10 17:27:44 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/tools/netherite_hoe_smithing": {
     "criteria": {
       "has_netherite_ingot": "2023-09-10 17:18:14 +0000"
@@ -3090,9 +3058,33 @@
     },
     "done": true
   },
-  "minecraft:recipes/misc/beacon": {
+  "minecraft:recipes/decorations/lodestone": {
     "criteria": {
-      "has_nether_star": "2023-09-10 17:27:09 +0000"
+      "has_netherite_ingot": "2023-09-10 17:18:14 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/netherite_helmet_smithing": {
+    "criteria": {
+      "has_netherite_ingot": "2023-09-10 17:18:14 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/netherite_ingot_from_netherite_block": {
+    "criteria": {
+      "has_netherite_block": "2023-09-10 17:18:33 +0000"
+    },
+    "done": true
+  },
+  "minecraft:nether/create_beacon": {
+    "criteria": {
+      "beacon": "2023-09-10 17:23:26 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/form_obsidian": {
+    "criteria": {
+      "obsidian": "2023-09-10 17:24:04 +0000"
     },
     "done": true
   },
@@ -3102,27 +3094,183 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/green_stained_glass_pane": {
+    "criteria": {
+      "has_glass": "2023-09-10 17:25:30 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/netherite_upgrade_smithing_template": {
+    "criteria": {
+      "has_netherite_upgrade_smithing_template": "2023-09-10 17:26:44 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/beacon": {
+    "criteria": {
+      "has_nether_star": "2023-09-10 17:27:09 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/shiny_gear": {
+    "criteria": {
+      "diamond_boots": "2023-09-10 17:27:44 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/sentry_armor_trim_smithing_template": {
+    "criteria": {
+      "has_sentry_armor_trim_smithing_template": "2023-09-10 17:28:39 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/sentry_armor_trim_smithing_template_smithing_trim": {
+    "criteria": {
+      "has_smithing_trim_template": "2023-09-10 17:28:39 +0000"
+    },
+    "done": true
+  },
   "minecraft:adventure/trim_with_any_armor_pattern": {
     "criteria": {
       "armor_trimmed_minecraft:sentry_armor_trim_smithing_template_smithing_trim": "2023-09-10 17:29:34 +0000"
     },
     "done": true
   },
-  "minecraft:recipes/decorations/lodestone": {
+  "minecraft:recipes/redstone/redstone_torch": {
     "criteria": {
-      "has_netherite_ingot": "2023-09-10 17:18:14 +0000"
+      "has_redstone": "2023-09-10 23:45:33 +0000"
     },
     "done": true
   },
-  "minecraft:nether/netherite_armor": {
+  "minecraft:recipes/tools/clock": {
     "criteria": {
-      "netherite_armor": "2023-09-10 17:14:32 +0000"
+      "has_redstone": "2023-09-10 23:45:33 +0000"
     },
     "done": true
   },
-  "minecraft:recipes/combat/netherite_helmet_smithing": {
+  "minecraft:recipes/redstone/dropper": {
     "criteria": {
-      "has_netherite_ingot": "2023-09-10 17:18:14 +0000"
+      "has_redstone": "2023-09-10 23:45:33 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/redstone_block": {
+    "criteria": {
+      "has_redstone": "2023-09-10 23:45:33 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/note_block": {
+    "criteria": {
+      "has_redstone": "2023-09-10 23:45:33 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/target": {
+    "criteria": {
+      "has_redstone": "2023-09-10 23:45:33 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/compass": {
+    "criteria": {
+      "has_redstone": "2023-09-10 23:45:33 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/piston": {
+    "criteria": {
+      "has_redstone": "2023-09-10 23:45:33 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/soul_lantern": {
+    "criteria": {
+      "has_soul_torch": "2023-09-11 00:08:11 +0000"
+    },
+    "done": true
+  },
+  "minecraft:husbandry/allay_deliver_item_to_player": {
+    "criteria": {
+      "allay_deliver_item_to_player": "2023-09-11 00:22:22 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/purple_stained_glass_pane": {
+    "criteria": {
+      "has_glass": "2023-09-11 00:25:49 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/cyan_stained_glass_pane": {
+    "criteria": {
+      "has_glass": "2023-09-11 00:26:25 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/blue_stained_glass_pane": {
+    "criteria": {
+      "has_glass": "2023-09-11 00:26:28 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/magenta_stained_glass_pane": {
+    "criteria": {
+      "has_glass": "2023-09-11 00:26:31 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/orange_stained_glass_pane": {
+    "criteria": {
+      "has_glass": "2023-09-11 00:26:32 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/red_stained_glass_pane": {
+    "criteria": {
+      "has_glass": "2023-09-11 00:26:34 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/brown_stained_glass_pane": {
+    "criteria": {
+      "has_glass": "2023-09-11 00:26:36 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/iron_ingot_from_iron_block": {
+    "criteria": {
+      "has_iron_block": "2023-09-11 00:43:35 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/anvil": {
+    "criteria": {
+      "has_iron_block": "2023-09-11 00:43:35 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/baked_potato_from_campfire_cooking": {
+    "criteria": {
+      "has_potato": "2023-09-11 01:28:02 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/baked_potato_from_smoking": {
+    "criteria": {
+      "has_potato": "2023-09-11 01:28:02 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/baked_potato": {
+    "criteria": {
+      "has_potato": "2023-09-11 01:28:02 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/ol_betsy": {
+    "criteria": {
+      "shot_crossbow": "2023-09-11 01:20:23 +0000"
     },
     "done": true
   },

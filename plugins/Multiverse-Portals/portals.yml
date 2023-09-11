@@ -19,3 +19,23 @@ portals:
     location: -8.0,76.0,-3.0:-4.0,79.0,-3.0
     world: creative
     destination: world
+  hardcore:
+    entryfee:
+      amount: 0.0
+    safeteleport: true
+    teleportnonplayers: false
+    handlerscript: ''
+    owner: Peggl3
+    location: 159.0,249.0,1077.0:163.0,253.0,1077.0
+    world: world
+    destination: hardcore
+  old_realm:
+    entryfee:
+      amount: 0.0
+    safeteleport: true
+    teleportnonplayers: false
+    handlerscript: ''
+    owner: Peggl3
+    location: 167.0,249.0,1089.0:171.0,253.0,1089.0
+    world: world
+    destination: old_realm
