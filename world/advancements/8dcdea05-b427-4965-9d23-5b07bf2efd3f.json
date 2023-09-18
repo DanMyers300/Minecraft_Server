@@ -600,6 +600,7 @@
       "bread": "2023-07-21 02:25:35 +0000",
       "golden_apple": "2023-08-01 02:08:40 +0000",
       "cooked_chicken": "2023-07-21 01:22:01 +0000",
+      "cooked_salmon": "2023-09-18 02:28:00 +0000",
       "carrot": "2023-09-02 22:19:07 +0000"
     },
     "done": false
@@ -4141,6 +4142,24 @@
   "minecraft:recipes/misc/magenta_dye_from_lilac": {
     "criteria": {
       "has_lilac": "2023-09-11 00:48:41 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_salmon": {
+    "criteria": {
+      "has_the_recipe": "2023-09-18 02:27:57 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_salmon_from_smoking": {
+    "criteria": {
+      "has_salmon": "2023-09-18 03:17:48 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_salmon_from_campfire_cooking": {
+    "criteria": {
+      "has_salmon": "2023-09-18 03:17:48 +0000"
     },
     "done": true
   },
