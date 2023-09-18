@@ -92,6 +92,7 @@
   "minecraft:adventure/adventuring_time": {
     "criteria": {
       "minecraft:snowy_slopes": "2023-08-05 00:59:07 +0000",
+      "minecraft:old_growth_pine_taiga": "2023-09-17 23:59:36 +0000",
       "minecraft:taiga": "2023-09-11 00:11:00 +0000",
       "minecraft:frozen_river": "2023-09-11 00:13:38 +0000",
       "minecraft:cherry_grove": "2023-08-04 23:50:45 +0000",
@@ -99,12 +100,14 @@
       "minecraft:birch_forest": "2023-08-26 22:07:53 +0000",
       "minecraft:savanna_plateau": "2023-08-19 19:34:38 +0000",
       "minecraft:beach": "2023-08-19 20:18:23 +0000",
+      "minecraft:dark_forest": "2023-09-18 00:00:20 +0000",
       "minecraft:sparse_jungle": "2023-08-19 19:37:53 +0000",
       "minecraft:river": "2023-08-13 19:14:31 +0000",
       "minecraft:lukewarm_ocean": "2023-08-19 20:19:07 +0000",
       "minecraft:snowy_plains": "2023-09-10 17:13:55 +0000",
       "minecraft:stony_shore": "2023-09-10 17:15:19 +0000",
       "minecraft:dripstone_caves": "2023-08-05 00:15:55 +0000",
+      "minecraft:snowy_taiga": "2023-09-17 23:59:07 +0000",
       "minecraft:cold_ocean": "2023-09-11 00:51:03 +0000",
       "minecraft:forest": "2023-08-13 19:13:24 +0000",
       "minecraft:lush_caves": "2023-08-26 22:10:27 +0000",
@@ -876,6 +879,7 @@
       "minecraft:spider": "2023-08-14 00:44:39 +0000",
       "minecraft:piglin_brute": "2023-09-11 00:19:56 +0000",
       "minecraft:creeper": "2023-08-05 21:11:11 +0000",
+      "minecraft:wither": "2023-09-18 00:34:56 +0000",
       "minecraft:zombified_piglin": "2023-08-05 20:34:00 +0000",
       "minecraft:husk": "2023-09-17 19:09:10 +0000",
       "minecraft:shulker": "2023-09-04 22:13:04 +0000",
@@ -3277,21 +3281,9 @@
     },
     "done": true
   },
-  "minecraft:recipes/redstone/spruce_button": {
-    "criteria": {
-      "has_planks": "2023-09-17 19:02:12 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/transportation/chest_minecart": {
     "criteria": {
       "has_minecart": "2023-09-17 18:59:42 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/redstone/spruce_pressure_plate": {
-    "criteria": {
-      "has_planks": "2023-09-17 19:02:12 +0000"
     },
     "done": true
   },
@@ -3307,27 +3299,39 @@
     },
     "done": true
   },
+  "minecraft:recipes/transportation/tnt_minecart": {
+    "criteria": {
+      "has_minecart": "2023-09-17 18:59:42 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/rail": {
+    "criteria": {
+      "has_minecart": "2023-09-17 18:59:42 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/spruce_button": {
+    "criteria": {
+      "has_planks": "2023-09-17 19:02:12 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/spruce_pressure_plate": {
+    "criteria": {
+      "has_planks": "2023-09-17 19:02:12 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/spruce_sign": {
     "criteria": {
       "has_planks": "2023-09-17 19:02:12 +0000"
     },
     "done": true
   },
-  "minecraft:recipes/decorations/composter": {
-    "criteria": {
-      "has_wood_slab": "2023-09-17 19:10:48 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/redstone/spruce_trapdoor": {
     "criteria": {
       "has_planks": "2023-09-17 19:02:12 +0000"
-    },
-    "done": true
-  },
-  "minecraft:nether/charge_respawn_anchor": {
-    "criteria": {
-      "charge_respawn_anchor": "2023-09-17 19:29:33 +0000"
     },
     "done": true
   },
@@ -3340,24 +3344,6 @@
   "minecraft:recipes/redstone/spruce_fence_gate": {
     "criteria": {
       "has_planks": "2023-09-17 19:02:12 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/redstone/redstone_lamp": {
-    "criteria": {
-      "has_glowstone": "2023-09-17 19:29:27 +0000"
-    },
-    "done": true
-  },
-  "minecraft:husbandry/obtain_sniffer_egg": {
-    "criteria": {
-      "obtain_sniffer_egg": "2023-09-17 19:03:13 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/transportation/tnt_minecart": {
-    "criteria": {
-      "has_minecart": "2023-09-17 18:59:42 +0000"
     },
     "done": true
   },
@@ -3379,9 +3365,267 @@
     },
     "done": true
   },
-  "minecraft:recipes/transportation/rail": {
+  "minecraft:husbandry/obtain_sniffer_egg": {
     "criteria": {
-      "has_minecart": "2023-09-17 18:59:42 +0000"
+      "obtain_sniffer_egg": "2023-09-17 19:03:13 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/composter": {
+    "criteria": {
+      "has_wood_slab": "2023-09-17 19:10:48 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/redstone_lamp": {
+    "criteria": {
+      "has_glowstone": "2023-09-17 19:29:27 +0000"
+    },
+    "done": true
+  },
+  "minecraft:nether/charge_respawn_anchor": {
+    "criteria": {
+      "charge_respawn_anchor": "2023-09-17 19:29:33 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/detector_rail": {
+    "criteria": {
+      "has_rail": "2023-09-18 00:15:18 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/deepslate_brick_slab_from_polished_deepslate_stonecutting": {
+    "criteria": {
+      "has_polished_deepslate": "2023-09-18 00:03:03 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/deepslate_tile_stairs_from_deepslate_tiles_stonecutting": {
+    "criteria": {
+      "has_deepslate_tiles": "2023-09-18 00:04:26 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/polished_deepslate_wall": {
+    "criteria": {
+      "has_polished_deepslate": "2023-09-18 00:03:03 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/deepslate_tile_slab_from_deepslate_tiles_stonecutting": {
+    "criteria": {
+      "has_deepslate_tiles": "2023-09-18 00:04:26 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/deepslate_bricks": {
+    "criteria": {
+      "has_polished_deepslate": "2023-09-18 00:03:03 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/polished_deepslate_wall_from_polished_deepslate_stonecutting": {
+    "criteria": {
+      "has_polished_deepslate": "2023-09-18 00:03:03 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_salmon_from_smoking": {
+    "criteria": {
+      "has_salmon": "2023-09-18 00:37:37 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/lime_dye_from_smelting": {
+    "criteria": {
+      "has_sea_pickle": "2023-09-18 00:17:21 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_deepslate_slab": {
+    "criteria": {
+      "has_polished_deepslate": "2023-09-18 00:03:03 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/deepslate_tile_wall_from_deepslate_tiles_stonecutting": {
+    "criteria": {
+      "has_deepslate_tiles": "2023-09-18 00:04:26 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_cod_from_smoking": {
+    "criteria": {
+      "has_cod": "2023-09-18 00:38:30 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/deepslate_tile_stairs": {
+    "criteria": {
+      "has_deepslate_tiles": "2023-09-18 00:04:26 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_deepslate_slab_from_polished_deepslate_stonecutting": {
+    "criteria": {
+      "has_polished_deepslate": "2023-09-18 00:03:03 +0000"
+    },
+    "done": true
+  },
+  "minecraft:nether/get_wither_skull": {
+    "criteria": {
+      "wither_skull": "2023-09-18 00:33:27 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/deepslate_tile_stairs_from_polished_deepslate_stonecutting": {
+    "criteria": {
+      "has_polished_deepslate": "2023-09-18 00:03:03 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_salmon_from_campfire_cooking": {
+    "criteria": {
+      "has_salmon": "2023-09-18 00:37:37 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_deepslate_stairs_from_polished_deepslate_stonecutting": {
+    "criteria": {
+      "has_polished_deepslate": "2023-09-18 00:03:03 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_salmon": {
+    "criteria": {
+      "has_salmon": "2023-09-18 00:37:37 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/soul_campfire": {
+    "criteria": {
+      "has_soul_sand": "2023-09-18 00:33:07 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/deepslate_tiles_from_polished_deepslate_stonecutting": {
+    "criteria": {
+      "has_polished_deepslate": "2023-09-18 00:03:03 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_cod_from_campfire_cooking": {
+    "criteria": {
+      "has_cod": "2023-09-18 00:38:30 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/deepslate_bricks_from_polished_deepslate_stonecutting": {
+    "criteria": {
+      "has_polished_deepslate": "2023-09-18 00:03:03 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/deepslate_tile_wall": {
+    "criteria": {
+      "has_deepslate_tiles": "2023-09-18 00:04:26 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/deepslate_tile_slab": {
+    "criteria": {
+      "has_deepslate_tiles": "2023-09-18 00:04:26 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/soul_torch": {
+    "criteria": {
+      "has_soul_sand": "2023-09-18 00:33:07 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/deepslate_tile_slab_from_polished_deepslate_stonecutting": {
+    "criteria": {
+      "has_polished_deepslate": "2023-09-18 00:03:03 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/deepslate_brick_wall_from_polished_deepslate_stonecutting": {
+    "criteria": {
+      "has_polished_deepslate": "2023-09-18 00:03:03 +0000"
+    },
+    "done": true
+  },
+  "minecraft:nether/summon_wither": {
+    "criteria": {
+      "summoned": "2023-09-18 00:33:47 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_cod": {
+    "criteria": {
+      "has_cod": "2023-09-18 00:38:30 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/emerald_from_smelting_deepslate_emerald_ore": {
+    "criteria": {
+      "has_deepslate_emerald_ore": "2023-09-18 00:04:43 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/activator_rail": {
+    "criteria": {
+      "has_rail": "2023-09-18 00:15:18 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/deepslate_tile_wall_from_polished_deepslate_stonecutting": {
+    "criteria": {
+      "has_polished_deepslate": "2023-09-18 00:03:03 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/deepslate_brick_stairs_from_polished_deepslate_stonecutting": {
+    "criteria": {
+      "has_polished_deepslate": "2023-09-18 00:03:03 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/emerald_from_blasting_deepslate_emerald_ore": {
+    "criteria": {
+      "has_deepslate_emerald_ore": "2023-09-18 00:04:43 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_deepslate_stairs": {
+    "criteria": {
+      "has_polished_deepslate": "2023-09-18 00:03:03 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/skull_banner_pattern": {
+    "criteria": {
+      "has_wither_skeleton_skull": "2023-09-18 00:33:27 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/repeater": {
+    "criteria": {
+      "has_redstone_torch": "2023-09-18 00:10:26 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/powered_rail": {
+    "criteria": {
+      "has_rail": "2023-09-18 00:15:18 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/cracked_deepslate_tiles": {
+    "criteria": {
+      "has_deepslate_tiles": "2023-09-18 00:04:26 +0000"
     },
     "done": true
   },
