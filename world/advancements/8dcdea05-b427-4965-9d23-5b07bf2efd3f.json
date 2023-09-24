@@ -703,12 +703,6 @@
     },
     "done": true
   },
-  "vanillatweaks:fast_leaf_decay": {
-    "criteria": {
-      "tick": "2023-07-21 01:44:24 +0000"
-    },
-    "done": true
-  },
   "vanillatweaks:spawn": {
     "criteria": {
       "tick": "2023-07-21 01:44:24 +0000"
