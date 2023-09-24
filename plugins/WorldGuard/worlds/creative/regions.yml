@@ -22,9 +22,9 @@ regions:
         min: {x: -93, y: 166, z: -452}
         max: {x: 143, y: 205, z: -61}
         members: {}
-        flags: {ice-form: deny, frosted-ice-form: deny, passthrough: allow, snow-fall: deny,
-            ice-melt: deny, snow-melt: deny, frosted-ice-melt: deny}
+        flags: {ice-form: deny, frosted-ice-form: deny, ice-melt: deny, passthrough: allow,
+            snow-fall: deny, frosted-ice-melt: deny, snow-melt: deny}
         owners:
-            unique-ids: [baf1a5ea-f94f-46d5-8395-4620e77717d2]
+            unique-ids: [baf1a5ea-f94f-46d5-8395-4620e77717d2, 9a5e031f-411a-4052-b202-5ccb6b6c0591]
         type: cuboid
         priority: 0
