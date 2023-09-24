@@ -28,6 +28,14 @@ regions:
             unique-ids: [baf1a5ea-f94f-46d5-8395-4620e77717d2]
         type: cuboid
         priority: 0
+    iron_farm:
+        min: {x: 117, y: 249, z: 1073}
+        max: {x: 132, y: 269, z: 1085}
+        members: {}
+        flags: {damage-animals: allow, chest-access: allow, mob-spawning: allow}
+        owners: {}
+        type: cuboid
+        priority: 0
     annie's_area:
         min: {x: 83, y: 87, z: -35}
         max: {x: 90, y: 93, z: -27}
@@ -35,14 +43,6 @@ regions:
         flags: {}
         owners:
             unique-ids: [00000000-0000-0000-0009-00000b949f41]
-        type: cuboid
-        priority: 0
-    iron_farm:
-        min: {x: 117, y: 249, z: 1073}
-        max: {x: 132, y: 269, z: 1085}
-        members: {}
-        flags: {damage-animals: allow, chest-access: allow, mob-spawning: allow}
-        owners: {}
         type: cuboid
         priority: 0
     joanna's_house:
@@ -75,6 +75,14 @@ regions:
         owners: {}
         type: cuboid
         priority: 0
+    julian:
+        min: {x: -114, y: 136, z: -24}
+        max: {x: -94, y: 156, z: 9}
+        members: {}
+        flags: {}
+        owners: {}
+        type: cuboid
+        priority: 0
     end_portal_room:
         min: {x: -1496, y: -4, z: -990}
         max: {x: -1482, y: 2, z: -982}
@@ -88,8 +96,8 @@ regions:
         min: {x: -75, y: -64, z: -55}
         max: {x: -20, y: 319, z: 17}
         members: {}
-        flags: {lava-fire: deny, use: allow, vehicle-destroy: allow, lighter: deny,
-            interact: allow, chest-access: allow, pvp: deny, ride: allow, mob-spawning: deny,
+        flags: {lava-fire: deny, use: allow, lighter: deny, vehicle-destroy: allow,
+            interact: allow, pvp: deny, chest-access: allow, ride: allow, mob-spawning: deny,
             fire-spread: deny, natural-hunger-drain: deny, sleep: allow, vehicle-place: allow,
             build: deny, potion-splash: allow, damage-animals: deny, tnt: deny, respawn-anchors: allow}
         owners:

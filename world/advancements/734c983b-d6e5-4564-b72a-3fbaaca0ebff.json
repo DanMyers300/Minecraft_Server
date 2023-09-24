@@ -3243,7 +3243,9 @@
   "minecraft:husbandry/complete_catalogue": {
     "criteria": {
       "minecraft:white": "2023-08-21 01:35:36 +0000",
-      "minecraft:calico": "2023-08-21 01:35:45 +0000"
+      "minecraft:calico": "2023-08-21 01:35:45 +0000",
+      "minecraft:british_shorthair": "2023-09-24 01:29:31 +0000",
+      "minecraft:red": "2023-09-24 01:30:52 +0000"
     },
     "done": false
   },
