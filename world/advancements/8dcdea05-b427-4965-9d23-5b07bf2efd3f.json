@@ -23,10 +23,12 @@
       "minecraft:snowy_plains": "2023-09-10 16:41:32 +0000",
       "minecraft:dripstone_caves": "2023-07-21 01:10:11 +0000",
       "minecraft:grove": "2023-08-01 01:28:38 +0000",
+      "minecraft:cold_ocean": "2023-09-11 01:24:30 +0000",
       "minecraft:forest": "2023-07-21 01:49:39 +0000",
       "minecraft:desert": "2023-09-07 02:56:18 +0000",
       "minecraft:jungle": "2023-07-30 03:24:57 +0000",
       "minecraft:old_growth_spruce_taiga": "2023-09-04 00:02:13 +0000",
+      "minecraft:snowy_beach": "2023-09-24 01:28:54 +0000",
       "minecraft:windswept_savanna": "2023-08-20 23:01:38 +0000",
       "minecraft:warm_ocean": "2023-08-26 20:23:47 +0000",
       "minecraft:flower_forest": "2023-07-21 02:54:13 +0000",
@@ -599,6 +601,7 @@
       "bread": "2023-07-21 02:25:35 +0000",
       "golden_apple": "2023-08-01 02:08:40 +0000",
       "cooked_chicken": "2023-07-21 01:22:01 +0000",
+      "cooked_salmon": "2023-09-18 02:28:00 +0000",
       "carrot": "2023-09-02 22:19:07 +0000"
     },
     "done": false
@@ -2777,7 +2780,8 @@
     "criteria": {
       "minecraft:sheep": "2023-08-06 01:07:51 +0000",
       "minecraft:mule": "2023-08-04 01:17:08 +0000",
-      "minecraft:cow": "2023-08-04 02:06:31 +0000"
+      "minecraft:cow": "2023-08-04 02:06:31 +0000",
+      "minecraft:chicken": "2023-09-24 01:10:35 +0000"
     },
     "done": false
   },
@@ -4122,6 +4126,54 @@
   "minecraft:recipes/misc/emerald": {
     "criteria": {
       "has_emerald_block": "2023-09-10 17:10:46 +0000"
+    },
+    "done": true
+  },
+  "minecraft:husbandry/allay_deliver_item_to_player": {
+    "criteria": {
+      "allay_deliver_item_to_player": "2023-09-11 00:24:52 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/mud_bricks": {
+    "criteria": {
+      "has_packed_mud": "2023-09-11 00:29:43 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/magenta_dye_from_lilac": {
+    "criteria": {
+      "has_lilac": "2023-09-11 00:48:41 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_salmon": {
+    "criteria": {
+      "has_the_recipe": "2023-09-18 02:27:57 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_salmon_from_smoking": {
+    "criteria": {
+      "has_salmon": "2023-09-18 03:17:48 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_salmon_from_campfire_cooking": {
+    "criteria": {
+      "has_salmon": "2023-09-18 03:17:48 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/red_dye_from_beetroot": {
+    "criteria": {
+      "has_beetroot": "2023-09-24 01:25:14 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/beetroot_soup": {
+    "criteria": {
+      "has_beetroot": "2023-09-24 01:25:14 +0000"
     },
     "done": true
   },
