@@ -35,12 +35,6 @@
     },
     "done": true
   },
-  "vanillatweaks:fast_leaf_decay": {
-    "criteria": {
-      "tick": "2023-08-04 23:50:44 +0000"
-    },
-    "done": true
-  },
   "vanillatweaks:spawn": {
     "criteria": {
       "tick": "2023-08-04 23:50:44 +0000"
@@ -91,13 +85,26 @@
   },
   "minecraft:adventure/adventuring_time": {
     "criteria": {
+      "minecraft:cold_ocean": "2023-09-11 00:51:03 +0000",
       "minecraft:snowy_slopes": "2023-08-05 00:59:07 +0000",
       "minecraft:old_growth_pine_taiga": "2023-09-17 23:59:36 +0000",
+      "minecraft:forest": "2023-08-13 19:13:24 +0000",
       "minecraft:taiga": "2023-09-11 00:11:00 +0000",
+      "minecraft:lush_caves": "2023-08-26 22:10:27 +0000",
+      "minecraft:deep_cold_ocean": "2023-09-11 00:51:12 +0000",
+      "minecraft:ice_spikes": "2023-09-11 00:42:32 +0000",
+      "minecraft:frozen_ocean": "2023-09-10 17:14:07 +0000",
       "minecraft:frozen_river": "2023-09-11 00:13:38 +0000",
+      "minecraft:windswept_forest": "2023-08-26 22:08:25 +0000",
+      "minecraft:deep_frozen_ocean": "2023-09-11 00:44:19 +0000",
+      "minecraft:jungle": "2023-08-19 19:49:39 +0000",
+      "minecraft:ocean": "2023-08-26 22:07:47 +0000",
       "minecraft:cherry_grove": "2023-08-04 23:50:45 +0000",
       "minecraft:sunflower_plains": "2023-08-05 21:17:07 +0000",
       "minecraft:birch_forest": "2023-08-26 22:07:53 +0000",
+      "minecraft:old_growth_spruce_taiga": "2023-09-17 19:16:53 +0000",
+      "minecraft:snowy_beach": "2023-09-11 00:13:40 +0000",
+      "minecraft:flower_forest": "2023-08-05 21:17:30 +0000",
       "minecraft:savanna_plateau": "2023-08-19 19:34:38 +0000",
       "minecraft:beach": "2023-08-19 20:18:23 +0000",
       "minecraft:dark_forest": "2023-09-18 00:00:20 +0000",
@@ -108,19 +115,6 @@
       "minecraft:stony_shore": "2023-09-10 17:15:19 +0000",
       "minecraft:dripstone_caves": "2023-08-05 00:15:55 +0000",
       "minecraft:snowy_taiga": "2023-09-17 23:59:07 +0000",
-      "minecraft:cold_ocean": "2023-09-11 00:51:03 +0000",
-      "minecraft:forest": "2023-08-13 19:13:24 +0000",
-      "minecraft:lush_caves": "2023-08-26 22:10:27 +0000",
-      "minecraft:deep_cold_ocean": "2023-09-11 00:51:12 +0000",
-      "minecraft:ice_spikes": "2023-09-11 00:42:32 +0000",
-      "minecraft:frozen_ocean": "2023-09-10 17:14:07 +0000",
-      "minecraft:windswept_forest": "2023-08-26 22:08:25 +0000",
-      "minecraft:deep_frozen_ocean": "2023-09-11 00:44:19 +0000",
-      "minecraft:jungle": "2023-08-19 19:49:39 +0000",
-      "minecraft:ocean": "2023-08-26 22:07:47 +0000",
-      "minecraft:old_growth_spruce_taiga": "2023-09-17 19:16:53 +0000",
-      "minecraft:snowy_beach": "2023-09-11 00:13:40 +0000",
-      "minecraft:flower_forest": "2023-08-05 21:17:30 +0000",
       "minecraft:frozen_peaks": "2023-08-05 21:09:17 +0000",
       "minecraft:deep_dark": "2023-08-05 01:04:31 +0000",
       "minecraft:meadow": "2023-08-12 21:31:52 +0000",
@@ -281,11 +275,11 @@
   },
   "minecraft:husbandry/balanced_diet": {
     "criteria": {
+      "apple": "2023-08-05 00:52:07 +0000",
+      "cooked_chicken": "2023-08-14 00:52:51 +0000",
+      "glow_berries": "2023-08-06 15:19:47 +0000",
       "sweet_berries": "2023-09-11 00:48:18 +0000",
       "baked_potato": "2023-08-05 00:53:25 +0000",
-      "apple": "2023-08-05 00:52:07 +0000",
-      "glow_berries": "2023-08-06 15:19:47 +0000",
-      "cooked_chicken": "2023-08-14 00:52:51 +0000",
       "carrot": "2023-08-04 23:55:21 +0000"
     },
     "done": false
@@ -874,21 +868,21 @@
       "minecraft:pillager": "2023-08-11 21:09:44 +0000",
       "minecraft:blaze": "2023-08-26 15:42:24 +0000",
       "minecraft:skeleton": "2023-08-05 02:09:03 +0000",
-      "minecraft:hoglin": "2023-08-20 21:05:19 +0000",
-      "minecraft:vindicator": "2023-09-23 16:16:26 +0000",
-      "minecraft:magma_cube": "2023-09-17 19:08:47 +0000",
-      "minecraft:spider": "2023-08-14 00:44:39 +0000",
-      "minecraft:piglin_brute": "2023-09-11 00:19:56 +0000",
-      "minecraft:creeper": "2023-08-05 21:11:11 +0000",
-      "minecraft:wither": "2023-09-18 00:34:56 +0000",
       "minecraft:zombified_piglin": "2023-08-05 20:34:00 +0000",
       "minecraft:husk": "2023-09-17 19:09:10 +0000",
+      "minecraft:hoglin": "2023-08-20 21:05:19 +0000",
       "minecraft:shulker": "2023-09-04 22:13:04 +0000",
       "minecraft:cave_spider": "2023-09-23 23:36:01 +0000",
       "minecraft:piglin": "2023-08-06 15:27:44 +0000",
+      "minecraft:vindicator": "2023-09-23 16:16:26 +0000",
       "minecraft:enderman": "2023-09-04 22:26:47 +0000",
       "minecraft:stray": "2023-09-10 23:40:15 +0000",
+      "minecraft:magma_cube": "2023-09-17 19:08:47 +0000",
+      "minecraft:spider": "2023-08-14 00:44:39 +0000",
+      "minecraft:piglin_brute": "2023-09-11 00:19:56 +0000",
       "minecraft:zombie": "2023-08-06 15:14:26 +0000",
+      "minecraft:creeper": "2023-08-05 21:11:11 +0000",
+      "minecraft:wither": "2023-09-18 00:34:56 +0000",
       "minecraft:zombie_villager": "2023-09-10 16:28:18 +0000"
     },
     "done": false
@@ -1595,12 +1589,6 @@
     },
     "done": true
   },
-  "vanillatweaks:timber": {
-    "criteria": {
-      "tick": "2023-08-12 17:02:05 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/food/cooked_beef_from_smoking": {
     "criteria": {
       "has_beef": "2023-08-12 21:33:23 +0000"
@@ -1813,9 +1801,9 @@
   },
   "minecraft:husbandry/bred_all_animals": {
     "criteria": {
-      "minecraft:sheep": "2023-08-14 00:37:31 +0000",
       "minecraft:cow": "2023-08-13 18:40:03 +0000",
-      "minecraft:wolf": "2023-08-19 20:03:00 +0000"
+      "minecraft:wolf": "2023-08-19 20:03:00 +0000",
+      "minecraft:sheep": "2023-08-14 00:37:31 +0000"
     },
     "done": false
   },
@@ -3811,9 +3799,9 @@
     },
     "done": true
   },
-  "minecraft:adventure/summon_iron_golem": {
+  "minecraft:recipes/building_blocks/packed_ice": {
     "criteria": {
-      "summoned_golem": "2023-09-24 15:39:24 +0000"
+      "has_ice": "2023-09-24 15:12:55 +0000"
     },
     "done": true
   },
@@ -3823,11 +3811,11 @@
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/packed_ice": {
+  "minecraft:adventure/summon_iron_golem": {
     "criteria": {
-      "has_ice": "2023-09-24 15:12:55 +0000"
+      "summoned_golem": "2023-09-24 15:39:24 +0000"
     },
     "done": true
   },
-  "DataVersion": 3465
+  "DataVersion": 3578
 }
