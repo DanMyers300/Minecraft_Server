@@ -3766,5 +3766,17 @@
     },
     "done": true
   },
+  "minecraft:story/deflect_arrow": {
+    "criteria": {
+      "deflected_projectile": "2023-09-30 18:59:11 +0000"
+    },
+    "done": true
+  },
+  "minecraft:husbandry/leash_all_frog_variants": {
+    "criteria": {
+      "minecraft:cold": "2023-09-30 18:27:56 +0000"
+    },
+    "done": false
+  },
   "DataVersion": 3578
 }

@@ -3817,9 +3817,9 @@
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/terracotta": {
+  "minecraft:adventure/throw_trident": {
     "criteria": {
-      "has_clay_block": "2023-09-29 21:51:31 +0000"
+      "shot_trident": "2023-09-29 21:32:58 +0000"
     },
     "done": true
   },
@@ -3835,9 +3835,81 @@
     },
     "done": true
   },
-  "minecraft:adventure/throw_trident": {
+  "minecraft:recipes/building_blocks/terracotta": {
     "criteria": {
-      "shot_trident": "2023-09-29 21:32:58 +0000"
+      "has_clay_block": "2023-09-29 21:51:31 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/blue_ice": {
+    "criteria": {
+      "has_packed_ice": "2023-09-30 18:15:58 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/sugar_from_sugar_cane": {
+    "criteria": {
+      "has_sugar_cane": "2023-09-30 19:19:17 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/jungle_trapdoor": {
+    "criteria": {
+      "has_planks": "2023-09-30 19:07:01 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/jungle_sign": {
+    "criteria": {
+      "has_planks": "2023-09-30 19:07:01 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/jungle_door": {
+    "criteria": {
+      "has_planks": "2023-09-30 19:07:01 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/jungle_fence": {
+    "criteria": {
+      "has_planks": "2023-09-30 19:07:01 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/jungle_pressure_plate": {
+    "criteria": {
+      "has_planks": "2023-09-30 19:07:01 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/jungle_button": {
+    "criteria": {
+      "has_planks": "2023-09-30 19:07:01 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/paper": {
+    "criteria": {
+      "has_reeds": "2023-09-30 19:19:17 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/jungle_slab": {
+    "criteria": {
+      "has_planks": "2023-09-30 19:07:01 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/jungle_stairs": {
+    "criteria": {
+      "has_planks": "2023-09-30 19:07:01 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/jungle_fence_gate": {
+    "criteria": {
+      "has_planks": "2023-09-30 19:07:01 +0000"
     },
     "done": true
   },
