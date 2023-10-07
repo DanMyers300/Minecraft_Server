@@ -11,6 +11,7 @@
       "minecraft:snowy_slopes": "2023-07-21 00:54:26 +0000",
       "minecraft:forest": "2023-07-21 01:49:39 +0000",
       "minecraft:taiga": "2023-09-03 16:46:36 +0000",
+      "minecraft:frozen_ocean": "2023-10-07 19:08:45 +0000",
       "minecraft:desert": "2023-09-07 02:56:18 +0000",
       "minecraft:jungle": "2023-07-30 03:24:57 +0000",
       "minecraft:cherry_grove": "2023-07-21 00:56:47 +0000",
@@ -4175,6 +4176,12 @@
   "minecraft:recipes/misc/mojang_banner_pattern": {
     "criteria": {
       "has_enchanted_golden_apple": "2023-09-24 19:22:49 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/diamond": {
+    "criteria": {
+      "has_diamond_block": "2023-10-07 19:15:30 +0000"
     },
     "done": true
   },
