@@ -35,12 +35,6 @@
     },
     "done": true
   },
-  "vanillatweaks:fast_leaf_decay": {
-    "criteria": {
-      "tick": "2023-08-04 23:51:42 +0000"
-    },
-    "done": true
-  },
   "vanillatweaks:spawn": {
     "criteria": {
       "tick": "2023-08-04 23:51:42 +0000"
@@ -91,20 +85,21 @@
   },
   "minecraft:adventure/adventuring_time": {
     "criteria": {
+      "minecraft:cold_ocean": "2023-09-17 19:26:34 +0000",
       "minecraft:snowy_slopes": "2023-08-04 23:56:29 +0000",
-      "minecraft:old_growth_pine_taiga": "2023-09-17 19:26:05 +0000",
-      "minecraft:taiga": "2023-09-17 19:25:39 +0000",
-      "minecraft:cherry_grove": "2023-08-04 23:51:43 +0000",
-      "minecraft:sunflower_plains": "2023-08-14 01:05:38 +0000",
       "minecraft:beach": "2023-09-17 19:26:45 +0000",
+      "minecraft:old_growth_pine_taiga": "2023-09-17 19:26:05 +0000",
+      "minecraft:forest": "2023-09-17 19:25:34 +0000",
+      "minecraft:taiga": "2023-09-17 19:25:39 +0000",
       "minecraft:river": "2023-09-17 19:26:02 +0000",
       "minecraft:snowy_plains": "2023-09-10 23:47:12 +0000",
       "minecraft:dripstone_caves": "2023-08-04 23:52:19 +0000",
-      "minecraft:cold_ocean": "2023-09-17 19:26:34 +0000",
-      "minecraft:forest": "2023-09-17 19:25:34 +0000",
-      "minecraft:old_growth_spruce_taiga": "2023-09-17 19:25:59 +0000",
       "minecraft:frozen_peaks": "2023-08-05 00:30:55 +0000",
+      "minecraft:frozen_ocean": "2023-10-08 17:28:53 +0000",
       "minecraft:deep_dark": "2023-08-05 01:39:01 +0000",
+      "minecraft:cherry_grove": "2023-08-04 23:51:43 +0000",
+      "minecraft:sunflower_plains": "2023-08-14 01:05:38 +0000",
+      "minecraft:old_growth_spruce_taiga": "2023-09-17 19:25:59 +0000",
       "minecraft:savanna": "2023-09-09 20:24:39 +0000",
       "minecraft:plains": "2023-08-04 23:52:08 +0000"
     },
@@ -232,16 +227,16 @@
   },
   "minecraft:husbandry/balanced_diet": {
     "criteria": {
+      "mutton": "2023-08-20 21:06:56 +0000",
+      "apple": "2023-08-05 19:56:15 +0000",
       "chicken": "2023-08-04 23:55:23 +0000",
+      "cooked_chicken": "2023-09-17 01:32:46 +0000",
+      "rotten_flesh": "2023-08-05 00:37:04 +0000",
+      "glow_berries": "2023-08-18 18:48:44 +0000",
       "cooked_beef": "2023-08-05 20:09:20 +0000",
       "chorus_fruit": "2023-09-09 20:29:48 +0000",
       "baked_potato": "2023-08-05 01:54:19 +0000",
       "porkchop": "2023-08-20 21:07:02 +0000",
-      "apple": "2023-08-05 19:56:15 +0000",
-      "mutton": "2023-08-20 21:06:56 +0000",
-      "rotten_flesh": "2023-08-05 00:37:04 +0000",
-      "glow_berries": "2023-08-18 18:48:44 +0000",
-      "cooked_chicken": "2023-09-17 01:32:46 +0000",
       "carrot": "2023-08-05 00:03:44 +0000"
     },
     "done": false
@@ -814,11 +809,11 @@
     "criteria": {
       "minecraft:pillager": "2023-08-14 01:06:03 +0000",
       "minecraft:skeleton": "2023-08-06 14:58:46 +0000",
-      "minecraft:spider": "2023-08-12 16:51:35 +0000",
-      "minecraft:shulker": "2023-09-09 20:31:55 +0000",
       "minecraft:piglin": "2023-08-14 01:15:57 +0000",
       "minecraft:enderman": "2023-09-04 22:27:37 +0000",
-      "minecraft:zombie": "2023-08-05 19:48:01 +0000"
+      "minecraft:spider": "2023-08-12 16:51:35 +0000",
+      "minecraft:zombie": "2023-08-05 19:48:01 +0000",
+      "minecraft:shulker": "2023-09-09 20:31:55 +0000"
     },
     "done": false
   },
@@ -1209,12 +1204,6 @@
   "minecraft:recipes/building_blocks/birch_stairs": {
     "criteria": {
       "has_planks": "2023-08-11 21:03:22 +0000"
-    },
-    "done": true
-  },
-  "vanillatweaks:timber": {
-    "criteria": {
-      "tick": "2023-08-12 17:02:02 +0000"
     },
     "done": true
   },
@@ -2280,6 +2269,36 @@
     },
     "done": true
   },
+  "minecraft:recipes/transportation/activator_rail": {
+    "criteria": {
+      "has_rail": "2023-09-23 23:58:04 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/powered_rail": {
+    "criteria": {
+      "has_rail": "2023-09-23 23:58:04 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/spruce_hanging_sign": {
+    "criteria": {
+      "has_stripped_logs": "2023-09-24 00:02:25 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/stripped_spruce_wood": {
+    "criteria": {
+      "has_log": "2023-09-24 00:02:25 +0000"
+    },
+    "done": true
+  },
+  "minecraft:nether/netherite_armor": {
+    "criteria": {
+      "netherite_armor": "2023-09-24 00:05:33 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/smooth_basalt": {
     "criteria": {
       "has_basalt": "2023-09-24 00:12:13 +0000"
@@ -2292,41 +2311,17 @@
     },
     "done": true
   },
-  "minecraft:recipes/decorations/spruce_hanging_sign": {
-    "criteria": {
-      "has_stripped_logs": "2023-09-24 00:02:25 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/transportation/activator_rail": {
-    "criteria": {
-      "has_rail": "2023-09-23 23:58:04 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/building_blocks/polished_basalt": {
     "criteria": {
       "has_basalt": "2023-09-24 00:12:13 +0000"
     },
     "done": true
   },
-  "minecraft:recipes/transportation/powered_rail": {
+  "minecraft:end/elytra": {
     "criteria": {
-      "has_rail": "2023-09-23 23:58:04 +0000"
+      "elytra": "2023-10-08 17:27:36 +0000"
     },
     "done": true
   },
-  "minecraft:nether/netherite_armor": {
-    "criteria": {
-      "netherite_armor": "2023-09-24 00:05:33 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/stripped_spruce_wood": {
-    "criteria": {
-      "has_log": "2023-09-24 00:02:25 +0000"
-    },
-    "done": true
-  },
-  "DataVersion": 3465
+  "DataVersion": 3578
 }
