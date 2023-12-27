@@ -7,12 +7,18 @@
   },
   "minecraft:adventure/adventuring_time": {
     "criteria": {
-      "minecraft:flower_forest": "2023-07-21 02:43:00 +0000",
-      "minecraft:savanna_plateau": "2023-08-05 20:36:59 +0000",
       "minecraft:snowy_slopes": "2023-07-21 00:56:38 +0000",
-      "minecraft:beach": "2023-08-12 20:40:25 +0000",
       "minecraft:forest": "2023-07-30 03:22:21 +0000",
       "minecraft:taiga": "2023-09-24 15:12:43 +0000",
+      "minecraft:desert": "2023-09-07 02:49:26 +0000",
+      "minecraft:jungle": "2023-08-12 20:40:12 +0000",
+      "minecraft:cherry_grove": "2023-07-21 00:56:49 +0000",
+      "minecraft:sunflower_plains": "2023-07-21 02:42:02 +0000",
+      "minecraft:birch_forest": "2023-09-03 23:59:13 +0000",
+      "minecraft:old_growth_spruce_taiga": "2023-09-04 00:02:30 +0000",
+      "minecraft:flower_forest": "2023-07-21 02:43:00 +0000",
+      "minecraft:savanna_plateau": "2023-08-05 20:36:59 +0000",
+      "minecraft:beach": "2023-08-12 20:40:25 +0000",
       "minecraft:sparse_jungle": "2023-07-30 03:22:25 +0000",
       "minecraft:river": "2023-07-21 02:54:08 +0000",
       "minecraft:lukewarm_ocean": "2023-08-21 01:24:24 +0000",
@@ -20,17 +26,12 @@
       "minecraft:stony_shore": "2023-09-18 23:35:48 +0000",
       "minecraft:dripstone_caves": "2023-07-21 01:20:15 +0000",
       "minecraft:frozen_peaks": "2023-08-01 01:27:45 +0000",
-      "minecraft:desert": "2023-09-07 02:49:26 +0000",
       "minecraft:deep_dark": "2023-07-21 02:08:34 +0000",
-      "minecraft:jungle": "2023-08-12 20:40:12 +0000",
-      "minecraft:cherry_grove": "2023-07-21 00:56:49 +0000",
-      "minecraft:sunflower_plains": "2023-07-21 02:42:02 +0000",
       "minecraft:grove": "2023-08-01 01:28:39 +0000",
       "minecraft:meadow": "2023-07-21 02:45:17 +0000",
-      "minecraft:birch_forest": "2023-09-03 23:59:13 +0000",
-      "minecraft:old_growth_spruce_taiga": "2023-09-04 00:02:30 +0000",
       "minecraft:savanna": "2023-08-05 01:49:39 +0000",
-      "minecraft:plains": "2023-07-21 01:10:43 +0000"
+      "minecraft:plains": "2023-07-21 01:10:43 +0000",
+      "minecraft:jagged_peaks": "2023-12-26 22:23:36 +0000"
     },
     "done": false
   },
@@ -729,6 +730,7 @@
       "minecraft:spider": "2023-07-21 01:34:29 +0000",
       "minecraft:zombie": "2023-07-21 01:33:51 +0000",
       "minecraft:creeper": "2023-07-21 01:34:09 +0000",
+      "minecraft:drowned": "2023-12-26 22:31:42 +0000",
       "minecraft:zombie_villager": "2023-08-06 01:28:09 +0000",
       "minecraft:hoglin": "2023-08-09 01:25:24 +0000"
     },
@@ -3233,6 +3235,7 @@
     "criteria": {
       "minecraft:white": "2023-08-21 01:35:36 +0000",
       "minecraft:calico": "2023-08-21 01:35:45 +0000",
+      "minecraft:persian": "2023-12-26 22:34:47 +0000",
       "minecraft:british_shorthair": "2023-09-24 01:29:31 +0000",
       "minecraft:red": "2023-09-24 01:30:52 +0000"
     },
@@ -3812,6 +3815,24 @@
   "minecraft:adventure/trade": {
     "criteria": {
       "traded": "2023-09-24 15:22:43 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/conduit": {
+    "criteria": {
+      "has_nautilus_shell": "2023-12-26 22:31:45 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/red_dye_from_beetroot": {
+    "criteria": {
+      "has_beetroot": "2023-12-27 04:10:09 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/beetroot_soup": {
+    "criteria": {
+      "has_beetroot": "2023-12-27 04:10:09 +0000"
     },
     "done": true
   },
