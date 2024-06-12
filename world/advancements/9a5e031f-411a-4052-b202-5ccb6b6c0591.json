@@ -35,12 +35,6 @@
     },
     "done": true
   },
-  "vanillatweaks:fast_leaf_decay": {
-    "criteria": {
-      "tick": "2023-08-05 01:21:25 +0000"
-    },
-    "done": true
-  },
   "vanillatweaks:spawn": {
     "criteria": {
       "tick": "2023-08-05 01:21:25 +0000"
@@ -91,13 +85,25 @@
   },
   "minecraft:adventure/adventuring_time": {
     "criteria": {
+      "minecraft:cold_ocean": "2023-09-22 22:45:49 +0000",
       "minecraft:snowy_slopes": "2023-08-05 01:21:59 +0000",
       "minecraft:old_growth_pine_taiga": "2023-09-16 17:28:05 +0000",
+      "minecraft:forest": "2023-08-14 00:45:41 +0000",
       "minecraft:taiga": "2023-09-03 16:51:34 +0000",
+      "minecraft:lush_caves": "2023-08-27 16:52:09 +0000",
+      "minecraft:frozen_ocean": "2023-09-10 23:44:14 +0000",
+      "minecraft:desert": "2023-08-26 00:15:38 +0000",
       "minecraft:frozen_river": "2023-09-16 23:58:11 +0000",
+      "minecraft:windswept_forest": "2023-08-26 20:46:43 +0000",
+      "minecraft:deep_frozen_ocean": "2023-09-15 16:49:24 +0000",
+      "minecraft:jungle": "2023-08-19 19:47:24 +0000",
       "minecraft:cherry_grove": "2023-08-05 01:21:26 +0000",
       "minecraft:sunflower_plains": "2023-08-05 01:41:37 +0000",
       "minecraft:birch_forest": "2023-08-26 20:46:35 +0000",
+      "minecraft:old_growth_spruce_taiga": "2023-09-16 19:23:34 +0000",
+      "minecraft:snowy_beach": "2023-09-16 23:58:35 +0000",
+      "minecraft:warm_ocean": "2023-08-26 00:18:18 +0000",
+      "minecraft:flower_forest": "2023-08-05 01:42:47 +0000",
       "minecraft:savanna_plateau": "2023-08-19 19:34:41 +0000",
       "minecraft:beach": "2023-08-19 20:12:09 +0000",
       "minecraft:sparse_jungle": "2023-08-19 19:37:37 +0000",
@@ -107,18 +113,6 @@
       "minecraft:stony_shore": "2023-09-11 00:39:06 +0000",
       "minecraft:dripstone_caves": "2023-08-05 01:36:25 +0000",
       "minecraft:snowy_taiga": "2023-09-15 16:47:21 +0000",
-      "minecraft:cold_ocean": "2023-09-22 22:45:49 +0000",
-      "minecraft:forest": "2023-08-14 00:45:41 +0000",
-      "minecraft:lush_caves": "2023-08-27 16:52:09 +0000",
-      "minecraft:frozen_ocean": "2023-09-10 23:44:14 +0000",
-      "minecraft:desert": "2023-08-26 00:15:38 +0000",
-      "minecraft:windswept_forest": "2023-08-26 20:46:43 +0000",
-      "minecraft:deep_frozen_ocean": "2023-09-15 16:49:24 +0000",
-      "minecraft:jungle": "2023-08-19 19:47:24 +0000",
-      "minecraft:old_growth_spruce_taiga": "2023-09-16 19:23:34 +0000",
-      "minecraft:snowy_beach": "2023-09-16 23:58:35 +0000",
-      "minecraft:warm_ocean": "2023-08-26 00:18:18 +0000",
-      "minecraft:flower_forest": "2023-08-05 01:42:47 +0000",
       "minecraft:frozen_peaks": "2023-08-05 02:06:11 +0000",
       "minecraft:old_growth_birch_forest": "2023-08-26 20:49:33 +0000",
       "minecraft:deep_dark": "2023-08-05 20:46:51 +0000",
@@ -371,16 +365,16 @@
   "minecraft:husbandry/balanced_diet": {
     "criteria": {
       "cooked_porkchop": "2023-09-09 17:31:55 +0000",
+      "mutton": "2023-08-05 21:06:43 +0000",
+      "pufferfish": "2023-08-26 20:52:47 +0000",
       "chicken": "2023-08-13 18:42:16 +0000",
+      "bread": "2023-08-19 19:40:09 +0000",
       "honey_bottle": "2023-08-05 20:51:24 +0000",
       "cooked_mutton": "2023-08-05 20:28:52 +0000",
+      "glow_berries": "2023-08-12 15:55:31 +0000",
       "cooked_beef": "2023-08-05 19:33:26 +0000",
       "beef": "2023-08-05 02:03:56 +0000",
       "porkchop": "2023-08-05 01:42:03 +0000",
-      "mutton": "2023-08-05 21:06:43 +0000",
-      "pufferfish": "2023-08-26 20:52:47 +0000",
-      "bread": "2023-08-19 19:40:09 +0000",
-      "glow_berries": "2023-08-12 15:55:31 +0000",
       "cooked_chicken": "2023-08-05 19:45:45 +0000",
       "cooked_salmon": "2023-09-10 16:24:49 +0000"
     },
@@ -725,14 +719,16 @@
   "minecraft:husbandry/bred_all_animals": {
     "criteria": {
       "minecraft:cat": "2023-09-10 15:48:25 +0000",
-      "minecraft:fox": "2023-09-16 17:49:00 +0000",
-      "minecraft:turtle": "2023-08-19 20:11:21 +0000",
-      "minecraft:sheep": "2023-08-05 02:18:59 +0000",
       "minecraft:ocelot": "2023-09-17 20:11:13 +0000",
       "minecraft:cow": "2023-08-05 02:16:04 +0000",
+      "minecraft:camel": "2023-09-29 22:41:57 +0000",
       "minecraft:chicken": "2023-08-13 18:58:39 +0000",
+      "minecraft:fox": "2023-09-16 17:49:00 +0000",
       "minecraft:wolf": "2023-08-19 20:03:01 +0000",
-      "minecraft:horse": "2023-09-22 23:40:47 +0000"
+      "minecraft:turtle": "2023-08-19 20:11:21 +0000",
+      "minecraft:frog": "2023-09-29 22:34:09 +0000",
+      "minecraft:horse": "2023-09-22 23:40:47 +0000",
+      "minecraft:sheep": "2023-08-05 02:18:59 +0000"
     },
     "done": false
   },
@@ -1624,30 +1620,24 @@
     },
     "done": true
   },
-  "vanillatweaks:timber": {
-    "criteria": {
-      "tick": "2023-08-13 18:21:17 +0000"
-    },
-    "done": true
-  },
   "minecraft:adventure/kill_all_mobs": {
     "criteria": {
       "minecraft:pillager": "2023-08-13 18:40:57 +0000",
       "minecraft:skeleton": "2023-08-13 19:10:41 +0000",
-      "minecraft:ravager": "2023-09-22 23:17:42 +0000",
-      "minecraft:spider": "2023-09-10 15:37:54 +0000",
-      "minecraft:creeper": "2023-08-19 19:38:11 +0000",
-      "minecraft:evoker": "2023-09-22 23:10:26 +0000",
       "minecraft:phantom": "2023-09-11 00:52:38 +0000",
       "minecraft:zombified_piglin": "2023-09-10 15:29:20 +0000",
       "minecraft:witch": "2023-09-10 16:27:11 +0000",
+      "minecraft:ravager": "2023-09-22 23:17:42 +0000",
       "minecraft:shulker": "2023-09-15 16:32:13 +0000",
       "minecraft:enderman": "2023-09-09 16:45:54 +0000",
       "minecraft:stray": "2023-09-15 16:38:26 +0000",
       "minecraft:endermite": "2023-09-10 15:59:06 +0000",
+      "minecraft:spider": "2023-09-10 15:37:54 +0000",
       "minecraft:zombie": "2023-08-18 20:26:01 +0000",
+      "minecraft:creeper": "2023-08-19 19:38:11 +0000",
       "minecraft:drowned": "2023-08-19 19:44:53 +0000",
-      "minecraft:zombie_villager": "2023-08-28 01:02:51 +0000"
+      "minecraft:zombie_villager": "2023-08-28 01:02:51 +0000",
+      "minecraft:evoker": "2023-09-22 23:10:26 +0000"
     },
     "done": false
   },
@@ -3746,5 +3736,47 @@
     },
     "done": true
   },
-  "DataVersion": 3465
+  "minecraft:end/elytra": {
+    "criteria": {
+      "elytra": "2023-09-24 19:16:16 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/sticky_piston": {
+    "criteria": {
+      "has_slime_ball": "2023-09-29 22:33:49 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/slime_block": {
+    "criteria": {
+      "has_slime_ball": "2023-09-29 22:33:49 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/lead": {
+    "criteria": {
+      "has_slime_ball": "2023-09-29 22:33:49 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/mojang_banner_pattern": {
+    "criteria": {
+      "has_enchanted_golden_apple": "2023-09-29 23:04:21 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/deflect_arrow": {
+    "criteria": {
+      "deflected_projectile": "2023-09-30 18:59:11 +0000"
+    },
+    "done": true
+  },
+  "minecraft:husbandry/leash_all_frog_variants": {
+    "criteria": {
+      "minecraft:cold": "2023-09-30 18:27:56 +0000"
+    },
+    "done": false
+  },
+  "DataVersion": 3578
 }

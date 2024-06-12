@@ -11,15 +11,11 @@
 #
 regions:
     enderman_farm:
-        min: {x: 423, y: 0, z: -33}
-        max: {x: 493, y: 255, z: 24}
+        min: {x: 280, y: 1, z: -86}
+        max: {x: 579, y: 91, z: 115}
         members: {}
-        flags:
-            use: allow
-            damage-animals: allow
-            interact: allow
-            enderman-grief: deny
-            deny-spawn: ['minecraft:enderman']
+        flags: {sleep: deny, use: allow, interact: allow, enderman-teleport: deny,
+            damage-animals: allow, enderman-grief: deny, pvp: deny, enderdragon-block-damage: deny}
         owners: {}
         type: cuboid
         priority: 0
